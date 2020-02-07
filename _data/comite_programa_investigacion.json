@@ -1,0 +1,61 @@
+[
+	{
+		"chair" : "Presidenta",
+		"members":
+		[
+			{
+				"name" : [{"n":"Cristina", "a":"Alcaraz Tello", "a_sort": "Alcaraz Tello"}],
+				"organization": "Universidad de Málaga"
+			}
+		]
+	},
+	{
+		"chair" : "Miembros",
+		"members":
+		[
+			{
+				"name" : [{"n":"Adriana", "a":"Suárez Corona", "a_sort": "Suárez Corona"}],
+				"organization": "Universidad de León"
+			},
+			{
+				"name" : [{"n":"Raquel", "a":"Poy Castro", "a_sort": "Poy Castro"}],
+				"organization": "Universidad de León"
+			},
+			{
+				"name" : [{"n":"José Carlos", "a":"Sancho Nuñez", "a_sort": "Sancho Nuñez"}],
+				"organization": "Universidad de Extremadura"
+			},
+			{
+				"name" : [{"n":"Isaac", "a":"Agudo Ruiz", "a_sort": "Agudo Ruiz"}],
+				"organization": "Universidad de Malaga"
+			},
+			{
+				"name" : [{"n":"Ana Isabel", "a":"González-Tablas Ferreres", "a_sort": "González-Tablas Ferreres"}],
+				"organization": "Universidad Carlos III de Madrid"
+			},
+			{
+				"name" : [{"n":"Victor", "a":"Villagrá González", "a_sort": "Villagrá González"}],
+				"organization": "Universidad Politécnica de Madrid"
+			},
+			{
+				"name" : [{"n":"Ana Lucilia", "a":"Sandoval Orozco", "a_sort": "Sandoval Orozco"}],
+				"organization": "Universidad Complutense de Madrid"
+			},
+			{
+				"name" : [{"n":"Lorena", "a":"González Manzano", "a_sort": "González Manzano"}],
+				"organization": "Universidad Carlos III de Madrid"
+			},
+			{
+				"name" : [{"n":"María Isabel ", "a":"González Vasco", "a_sort": "González Vasco"}],
+				"organization": "Universidad Rey Juan Carlos"
+			},
+			{
+				"name" : [{"n":"David", "a":"García Rosado", "a_sort": "García Rosado"}],
+				"organization": "Universidad de Castilla-La Mancha"
+			},{
+				"name" : [{"n":"Sara", "a":"García Bécares ", "a_sort": "García Bécares"}],
+				"organization": "INCIBE"
+			}
+		]
+	}
+]

@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+<head>
+{% include head.html %}
+</head>
+<body class="home-template" itemscope itemtype="http://schema.org/WebPage">
+<header style="margin-top:20px" class="notepad-site-head">
+    <div style="text-align: center" class="notepad-site-head-menu">
+        <div class="notepad-blog-logo"><a href="{{ site.url }}"><img style="margin-bottom: 2rem" src="{{ site.url }}/images/{{ site.logo }}" alt="Blog Logo" /></a><br><span style="font-size: 1.0rem;line-height: 1.5;"><b>VI <span style="color:#e3041e">J</span>ornadas <span style="color:#e3041e">N</span>acionales de <span style="color:#e3041e">I</span>nvestigación en <span style="color:#e3041e">C</span>iberseguridad</b><br>{{ site.date }} - {{ site.location }}</span></div><img id="img_main" src="{{ site.url }}/images/slider_nuevo_1.jpg" style="box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);max-height: 20rem;">
+        
+        <div class="notepad-blog-menu">      
+    <div class="notepad-mobile-menu show-for-small">
+        <a href="#"><i class="fa fa-bars"></i></a>
+    </div>
+    <ul class="notepad-menu">
+    	<li class="show-for-small"><div align="left"><img src="{{ site.url }}/images/{{ site.logo }}" style="max-height: 100px"></div></li>
+        <li class="notepad-mobile-close-btn show-for-small text-right">
+            <a href="#"><i class="fa fa-times"></i></a>
+        </li>
+        <li><a href="{{ site.url }}"><i class="fa fa-home"></i></a></li>
+{% for link in site.links %}
+            <li>{% if link.external %}
+            <a href="{{ link.url }}"><b>{{ link.title }}</b></a>
+            {% else %}
+            <a href="{{ site.url }}{{ link.url }}"><b>{{ link.title }}</b></a>
+            {% endif %} </li>
+{% endfor %}
+		<li><a href="https://twitter.com/hashtag/jnic2020"><i class="fa fa-twitter-square"></i></a></li>           
+    </ul>
+</div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="notepad-site-head-content">
+        
+    </div>
+</header>
+
+
+
+<div class="wrapper" >
+  <aside class="sidebar" style="background-color: #F5F5F5;box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">{% include sidebar.html %}</aside>
+  <article class="content">
+    {{ content }}
+  </article>
+</div>
+
+    {% include footer.html %}
+
+<div align="center" style="margin-bottom: 4rem">
+
+<h3><b>Patrocinadores</b></h3>
+<br><br> <h3 class="text-center">Proximamente...</h3><br><br>
+
+<!--
+<div><a href="https://www.telefonica.com/es/"><img style="max-height: 130px; padding:25px;" src="{{site.url}}/images/patrocinadores/telefonica.jpg"></a></div>
+
+<div><a href="https://www.dip-caceres.es/"><img style="max-height: 130px;padding:25px;" src="{{site.url}}/images/patrocinadores/logo-dip_cc.jpg"></a> <a href="https://www.viewnext.com/"><img style="max-height: 120px;padding:25px;margin-top: 20px" src="{{site.url}}/images/patrocinadores/viewnext.png"></a> <a href="https://thesecuritysentinel.es/"><img style="max-height: 120px; padding:25px;" src="{{site.url}}/images/patrocinadores/sentinel.png"></a></div>
+
+<div style="color:grey;margin-top:2rem"><b>Patrocinador científico</b></div>
+
+<div><a href="https://www.renic.es"><img style="padding: 25px; max-height: 120px;" src="{{site.url}}/images/patrocinadores/renic.png"></a></div>
+
+<div><a href="https://www.unex.es/conoce-la-uex/centros/epcc/"><img style="max-height: 100px; padding:25px;" src="{{site.url}}/images/patrocinadores/logoepcc.jpg"></a><a href="http://www.cpiiex.es/"><img style="max-height: 100px; padding:25px;" src="{{site.url}}/images/patrocinadores/CPIIEx.jpg"></a><a href="https://www.unex.es/conoce-la-uex/centros/epcc/centro/departamentos/info/departamento?id_dpto=Y056"><img style="max-height: 100px; padding:25px;" src="{{site.url}}/images/patrocinadores/DISIT.JPG"></a><a href="https://www.unex.es/conoce-la-uex/centros/epcc/centro/departamentos/info/departamento?id_dpto=Y054"><img style="max-height: 100px; padding:25px;" src="{{site.url}}/images/patrocinadores/TC2_logo.jpg"></a></div>
+-->
+</div>
+
+
+{% include scripts.html %}
+<script language="JavaScript" type="text/javascript">
+ $(document).ready(function(){
+
+  function preload(arrayOfImages) {
+    $(arrayOfImages).each(function () {
+        $('<img />').attr('src',this).appendTo('body').css('display','none');
+    });
+}
+
+var urlArray = [
+'{{ site.url }}/images/slider_nuevo_1.jpg',
+'{{ site.url }}/images/slider_nuevo_10.jpg',
+'{{ site.url }}/images/slider_nuevo_2.jpg',
+'{{ site.url }}/images/slider_nuevo_3.jpg',
+'{{ site.url }}/images/slider_nuevo_4.jpg',
+'{{ site.url }}/images/slider_nuevo_5.jpg',
+'{{ site.url }}/images/slider_nuevo_6.jpg',
+'{{ site.url }}/images/slider_nuevo_7.jpg',
+'{{ site.url }}/images/slider_nuevo_8.jpg',
+'{{ site.url }}/images/slider_nuevo_9.jpg'
+];
+
+
+preload(urlArray);
+
+var i=0;
+
+setInterval(function() {var image = $("#img_main");
+    image.fadeOut(1500, function () {
+        image.attr('src', urlArray[++i%urlArray.length]);
+        image.fadeIn(1500);
+    });}, 6000);
+
+ 
+ });
+</script>
+</body>
+</html>
+
+<!--
+
+"Sed fugit interea, fugit irreparabile tempus" 
+
+Ha sido un honor y un placer. ¡Nos vemos en Ciudad Real!
+
+alopezvivar@fdi.ucm.es
+
+-->

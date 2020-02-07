@@ -1,0 +1,90 @@
+[
+	{
+		"chair" : "Presidentes",
+		"members":
+		[
+			{
+				"name" : [{"n":"Eduardo", "a": "Fernández-Medina Patón", "a_sort": "Fernández-Medina Patón"}],
+				"organization": "Universidad de Castilla-la Mancha"
+			},
+			{
+				"name" : [{"n":"Manuel Ángel", "a": "Serrano Martín", "a_sort": "Serrano Martín"}],
+				"organization": "Universidad de Castilla-la Mancha"
+			}
+		]
+	},
+	{
+		"chair" : "Finanzas",
+		"members":
+		[
+			{
+				"name" : [{"n":"David", "a": "García Rosado", "a_sort": "Esteban Diaz Verdejo"}],
+				"organization": "Universidad de Castilla-la Mancha"
+			},
+			{
+				"name" : [{"n":"Luis Enrique", "a": "Sánchez Crespo", "a_sort": "Sánchez Crespo"}],
+				"organization": "Universidad de Castilla-la Mancha"
+			}
+		]
+	},
+	{
+		"chair" : "Actas",
+		"members":
+		[
+			{
+				"name" : [{"n":"Antonio", "a": "Santos-Olmo Parra", "a_sort": "Santos-Olmo Parra"}],
+				"organization": "Universidad de Castilla-la Mancha"
+			}
+		]
+	},
+	{
+		"chair" : "Difusión",
+		"members":
+		[
+			{
+				"name" : [{"n":"Julio", "a":"Moreno García-Nieto", "a_sort": "Moreno García-Nieto"}],
+				"organization": "Universidad de Castilla-la Mancha"
+			},
+			{
+				"name" : [{"n":"José Antonio", "a":"Cruz Lemus", "a_sort": "Cruz Lemus"}],
+				"organization": "Universidad de Castilla-la Mancha"
+			},
+			{
+				"name" : [{"n":"María de los Ángeles ", "a":"Moraga de la Rubia", "a_sort": "Moraga de la Rubia"}],
+				"organization": "Universidad de Castilla-la Mancha"
+			}
+		]
+	},
+	{
+		"chair" : "Webmaster",
+		"members":
+		[
+			{
+				"name" : [{"n":"Aurelio José", "a":"Horneros Cano", "a_sort": "Horneros Cano"}],
+				"organization": "Universidad de Castilla-la Mancha"
+			}
+		]
+	},
+	{
+		"chair" : "Logística y Organización",
+		"members":
+		[
+			{
+				"name" : [{"n":"Ignacio", "a":"García-Rodriguez de Guzmán", "a_sort": "García-Rodriguez de Guzmán"}],
+				"organization": "Universidad de Castilla-la Mancha"
+			},
+			{
+				"name" : [{"n":"Ismael", "a":"Caballero Muñoz-Reja ", "a_sort": "Caballero Muñoz-Reja "}],
+				"organization": "Universidad de Castilla-la Mancha"
+			},
+			{
+				"name" : [{"n":"Gregoria", "a":"Romero Grande", "a_sort": "Romero Grande"}],
+				"organization": "Universidad de Castilla-la Mancha"
+			},
+			{
+				"name" : [{"n":"Natalia", "a":"Sanchez Pinilla", "a_sort": "Sanchez Pinilla"}],
+				"organization": "Universidad de Castilla-la Mancha"
+			}
+		]
+	}
+]

@@ -1,0 +1,26 @@
+[
+	{
+		"chair" : "Presidenta",
+		"members":
+		[
+			{
+				"name" : [{"n":"Cristina", "a":"Alcaraz Tello", "a_sort": "Alcaraz Tello"}],
+				"organization": "Universidad de Málaga"
+			}
+		]
+	},
+	{
+		"chair" : "Miembros",
+		"members":
+		[
+			{
+				"name" : [{"n":"Aitana", "a":"Alonso Nogueira", "a_sort": "Alonso Nogueira"}],
+				"organization": "INCIBE"
+			},
+			{
+				"name" : [{"n":"Próximamente", "a":"", "a_sort": ""}],
+				"organization": ""
+			}
+		]
+	}
+]

@@ -1,0 +1,34 @@
+[
+	{
+		"chair" : "Presidente",
+		"members":
+		[
+			{
+				"name" : [{"n":"Guillermo", "a":"Calvo Flores", "a_sort": "Calvo Flores"}],
+				"organization": "INCIBE"
+			}
+		]
+	},
+	{
+		"chair" : "Miembros",
+		"members":
+		[
+			{
+				"name" : [{"n":"José Luis", "a":"González Sánchez", "a_sort": "González Sánchez"}],
+				"organization": "COMPUTAEX"
+			},
+			{
+				"name" : [{"n":"Marcos", "a":"Arjona Fernández", "a_sort": "Arjona Fernández"}],
+				"organization": "ElevenPaths"
+			},
+			{
+				"name" : [{"n":"Victor", "a":"Villagrá González", "a_sort": "Villagrá González"}],
+				"organization": "Universidad Politécnica de Madrid"
+			},
+			{
+				"name" : [{"n":"Luis Enrique", "a":"Sánchez Crespo", "a_sort": "Sánchez Crespo"}],
+				"organization": "Universidad de Castilla – La Mancha"
+			}
+		]
+	}
+]

@@ -1,0 +1,12 @@
+[
+	{"name": "José Luis","surname": "González Sánchez", "surname_sort": "González Sánchez",
+			"organization": "COMPUTAEX"},
+	{"name": "Juan","surname": "Díez González", "surname_sort": "Diez González",
+		"organization": "INCIBE"},
+	{"name": "Marcos","surname": "Arjona Fernández", "surname_sort": "Arjona Fernández",
+	"organization": "ElevenPaths"},
+	{"name": "Víctor","surname": "Villagrá González", "surname_sort": "Villagra González",
+	"organization": "Universidad Politécnica de Madrid"},
+	{"name": "Luis Enrique","surname": "Sánchez Crespo", "surname_sort": "Sánchez Crespo",
+	"organization": "Universidad de Castilla-la Mancha"}
+]

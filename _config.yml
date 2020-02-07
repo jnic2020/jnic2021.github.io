@@ -1,1 +1,67 @@
-theme: jekyll-theme-cayman
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: JNIC 2020
+email: congreso.jnic2020@uclm.es
+description: VI Jornadas Nacionales de Investigación en Ciberseguridad
+location: Ciudad Real
+date: Del 3 al 5 de junio de 2020
+logo: logo_jnic2020.png
+baseurl: "" # the subpath of your site, e.g. /blog
+# url: "https://2020.jnic.es" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://manuelangelserrano.github.io/web_jnic2020" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+links:
+  - title: Comités
+    url: /comites
+    external: false
+  - title: Envío de trabajos
+    url: /trabajos
+    external: false
+  - title: Programa
+    url: /programa
+    external: false
+  - title: Sede
+    url: /sede
+    external: false
+  - title: Inscripción
+    url: /inscripcion
+    external: false
+  - title: Patrocinadores
+    url: /patrocinadores
+    external: false
+  - title: Contacto
+    url: /contacto
+    external: false

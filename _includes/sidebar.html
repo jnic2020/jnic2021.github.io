@@ -1,0 +1,23 @@
+<div style="text-align:left;padding-bottom: 2rem;"">
+	
+<h5 style="padding: 0.2rem; color: white; background-color: #e3041e; border-radius: 5px"><i class="fa fa-calendar-o mr-3"></i>
+	<b>Fechas importantes</b></h5>
+
+<div style="line-height: 1.5; font-size: 0.9rem">
+{% assign fechas = site.data.fechas_importantes | sort: 'fecha_ref' %}
+{% for fecha in fechas %}
+<div style="padding-top: 1.0rem; padding-bottom: 1.0rem;border-bottom: 0.05rem solid #e5e5e5;{% if fecha.activada == false %}text-decoration:line-through;{% endif %}"><b>{{ fecha.titulo }}:</b> {{ fecha.contenido }} <i class="fa fa-calendar fa-fw ml-1" aria-hidden="true"></i></div>
+{% endfor %}
+</div>
+</div>
+
+<div>
+<h5 style="padding: 0.2rem;color:white; background-color: #e3041e; border-radius: 5px"><i class="fa fa-comment mr-3"></i>
+	<b>Noticias</b></h5>
+	<div style="line-height: 1.5;font-size: 0.9rem">
+		{% assign noticias = site.data.noticias | sort: 'fecha_ref' | reverse %}
+{% for noticia in noticias %}
+<div style="padding-top: 1.0rem; padding-bottom: 1.0rem;border-bottom: 0.05rem solid #e5e5e5;"><b>{{ noticia.fecha }}</b> {{ noticia.contenido }}</div>
+{% endfor %}
+</div>
+</div>
