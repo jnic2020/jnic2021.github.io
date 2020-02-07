@@ -15,7 +15,7 @@ __[Sede]({{site.url}}/sede)__ / [Cómo llegar]({{site.url}}/llegar) / [Informaci
 </div><br>
 
 
-![](/web_jnic2020/images/ESI.jpg)
+![](/images/ESI.jpg)
 
 
 JNIC2020 tendrá lugar en la [Escuela Superior de Informática](https://esi.uclm.es/) de la [Universidad de Castilla-La Mancha](https://www.uclm.es), en Ciudad Real, España.
