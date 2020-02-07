@@ -11,9 +11,3 @@ Paseo de la Universidad nº 4
 13071 Ciudad Real 
 
 <img class="" src="{{ site.url }}/images/Email.jpg">
-
-
-<!--<img src="{{ site.url }}/images/epcc.PNG">
-
-<span style="color:#008cba">congreso.jnic2020@uclm.es</span>
--->
