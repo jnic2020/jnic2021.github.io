@@ -38,14 +38,14 @@ Por otra parte, también se hará entrega a los premios otorgados por la [RENIC]
 * __Mejor TFM en Ciberseguridad__   
 	
 
-Por su parte, [INCIBE](https://www.incibe.es/) también premia a las mejores propuestas de retos y a los grupos de investigación implicados en la solución de retos, con las siguientes modalidades:
+Por su parte, JNIC también premia a las mejores propuestas de retos y a los grupos de investigación implicados en [la solución de retos](https://sites.google.com/site/transferenciajnic/edicion-2019-20), con las siguientes modalidades:
 
-* __Programa de Transferencia JNIC2019/20. Premio a la mejor solución del reto IN1__  
+* __Programa de Transferencia JNIC2019/20. Premio a la mejor solución del reto COM1__  
 	
 
-* __Programa de Transferencia JNIC2019/20. Premio a la mejor solución del reto IN2__   
-	
 * __Programa de Transferencia JNIC2019/20. Premio a la mejor solución del reto EP1__   
+	
+* __Programa de Transferencia JNIC2019/20. Premio a la mejor solución del reto EP2__   
 	
 
 * __Programa de Transferencia JNIC2019/20. Premio a la mejor solución del certamen__   
