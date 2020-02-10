@@ -119,8 +119,6 @@ Distancias:
   <br>&nbsp;&nbsp;&nbsp;&nbsp; 20 minutos caminando a/desde la [ESI](https://www.google.com/maps/dir/Hotel+Santa+Cecilia,+Calle+Tinte,+3,+13001+Ciudad+Real,+Cdad.+Real/Escuela+Superior+de+Inform%C3%A1tica,+Paseo+Universidad,+Ciudad+Real/@38.9862702,-3.9287996,16z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd6bc315068d4829:0x20f6c2bdcc8e478a!2m2!1d-3.9287351!2d38.9819253!1m5!1m1!1s0xd6bc3441815e52f:0xe9d3de4afcb57d4d!2m2!1d-3.9200735!2d38.9902389!3e2)
   <br>&nbsp;&nbsp;&nbsp;&nbsp; 6 minutos caminando a/desde centro [Ciudad Real](https://www.google.com/maps/dir/Hotel+Santa+Cecilia,+Calle+Tinte,+3,+13001+Ciudad+Real,+Cdad.+Real/Plaza+Mayor,+13001 +Ciudad+Real,+Cdad.+Real/@38.9836858,-3.9305986,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd6bc315068d4829:0x20f6c2bdcc8e478a!2m2!1d-3.9287351!2d38 .9819253!1m5!1m1!1s0xd6bc36ae853415d:0xff9f99208a5918a5!2m2!1d-3.9287594!2d38.9854464!3e2)
 
-
-
 <a data-fancybox="gallery-scecilia" href="{{site.url}}/images/hoteles/scecilia1.jpg"></a>
 <a data-fancybox="gallery-scecilia" href="{{site.url}}/images/hoteles/scecilia2.jpg"></a>
 <a data-fancybox="gallery-scecilia" href="{{site.url}}/images/hoteles/scecilia3.jpg"></a>
@@ -131,7 +129,10 @@ Distancias:
 
 
 
-<a data-fancybox="gallery-navarro" href="{{site.url}}/images/hoteles/navarro.jpg"><img src="{{site.url}}/images/hoteles/navarro.jpg" style="margin-left:15px;width: 100%; border-radius: 25px; max-width: 400px; height: auto; float: right"></a>
+__OTRAS OPCIONES__
+
+
+
 ##### __Hotel Navarro **__  
 
  Contacto/Dirección
@@ -139,18 +140,13 @@ Distancias:
    &nbsp;&nbsp;&nbsp;&nbsp; Dirección: Av. Pío XII.
    <br>&nbsp;&nbsp;&nbsp;&nbsp; Teléfono de reservas: (+34) 926 214 377 
 <br>
- Distancias:
-  <br>&nbsp;&nbsp;&nbsp;&nbsp; 32 minutos caminando a/desde la [estación de tren](https://www.google.com/maps/dir/Parking+Estaci%C3%B3n+AVE,+Ciudad+Real/Hotel+Navarro+en+Ciudad+Real,+Avenida+P%C3%ADo+XII,+Ciudad+Real/@38.9850966,-3.9328114,15z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd6bc349e56b276f:0x8692a93cf4952340!2m2!1d-3.91209!2d38.98543!1m5!1m1!1s0xd6bc312b47e6ccb:0x9d97b7c74bdecd75!2m2!1d-3.9366313!2d38.9839446!3e2)
-  <br>&nbsp;&nbsp;&nbsp;&nbsp; 25 minutos caminando a/desde la [ESI](https://www.google.com/maps/dir/Hotel+Navarro+en+Ciudad+Real,+Av.+P%C3%ADo+XII,+18,+13002+Ciudad+Real,+Cdad.+Real/Escuela+Superior+de+Inform%C3%A1tica,+Paseo+Universidad,+Ciudad+Real/@38.9869677,-3.932743,16z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd6bc312b47e6ccb:0x9d97b7c74bdecd75!2m2!1d-3.9366313!2d38.9839446!1m5!1m1!1s0xd6bc3441815e52f:0xe9d3de4afcb57d4d!2m2!1d-3.9200735!2d38.9902389!3e2)
-  <br>&nbsp;&nbsp;&nbsp;&nbsp; 11 minutos caminando a/desde centro [Ciudad Real](https://www.google.com/maps/dir/Hotel+Navarro+en+Ciudad+Real,+Av.+P%C3%ADo+XII,+18,+13002+Ciudad+Real,+Cdad.+Real/Plaza+Mayor,+13001+Ciudad+Real,+Cdad.+Real/@38.9845292,-3.9345927,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd6bc312b47e6ccb:0x9d97b7c74bdecd75!2m2!1d-3.9366313!2d38.9839446!1m5!1m1!1s0xd6bc36ae853415d:0xff9f99208a5918a5!2m2!1d-3.9287594!2d38.9854464!3e2)
-
+ 
   
-<a data-fancybox="gallery-pesteban" href="{{site.url}}/images/hoteles/navarro.jpg"></a>
-
-<div style="margin-bottom:50px;clear:both"></div>
 
 
-<a data-fancybox="gallery-elmolino" href="{{site.url}}/images/hoteles/elmolino.jpg"><img src="{{site.url}}/images/hoteles/elmolino.jpg" style="margin-left:15px;width: 100%; border-radius: 25px; max-width: 400px; height: auto; float: right"></a>
+
+
+
 ##### __Hotel El Molino **__  
 
  Contacto/Dirección
@@ -158,21 +154,10 @@ Distancias:
    &nbsp;&nbsp;&nbsp;&nbsp; Dirección: Crta Carrion 10, 13005.
    <br>&nbsp;&nbsp;&nbsp;&nbsp; Teléfono de reservas: (+34) 926 223 050
 <br>
- Distancias:
- <br>&nbsp;&nbsp;&nbsp;&nbsp; 9 minutos caminando a/desde la [estación de tren](https://www.google.com/maps/dir/Parking+Estaci%C3%B3n+AVE,+Ciudad+Real/Hotel+El+Molino,+Carretera+Carri%C3%B3n,+Ciudad+Real/@38.9864246,-3.9146872,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd6bc349e56b276f:0x8692a93cf4952340!2m2!1d-3.91209!2d38.98543!1m5!1m1!1s0xd6bc34077dff13b:0xe9edcaad7c90669c!2m2!1d-3.9136193!2d38.9875202!3e2)
-  <br>&nbsp;&nbsp;&nbsp;&nbsp; 12 minutos caminando a/desde la [ESI](https://www.google.com/maps/dir/Hotel+El+Molino,+Carretera+Carri%C3%B3n,+10,+13005+Ciudad+Real,+Cdad.+Real/Escuela+Superior+de+Inform%C3%A1tica,+Paseo+Universidad,+Ciudad+Real/@38.988985,-3.922039,16z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd6bc34077dff13b:0xe9edcaad7c90669c!2m2!1d-3.9136193!2d38.9875202!1m5!1m1!1s0xd6bc3441815e52f:0xe9d3de4afcb57d4d!2m2!1d-3.9200735!2d38.9902389!3e2)
-  <br>&nbsp;&nbsp;&nbsp;&nbsp; 18 minutos caminando a/desde centro [Ciudad Real](https://www.google.com/maps/dir/Hotel+El+Molino,+Carretera+Carri%C3%B3n,+10,+13005+Ciudad+Real,+Cdad.+Real/Plaza+Mayor,+13001+Ciudad+Real,+Cdad.+Real/@38.986161,-3.9256209,16z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd6bc34077dff13b:0xe9edcaad7c90669c!2m2!1d-3.9136193!2d38.9875202!1m5!1m1!1s0xd6bc36ae853415d:0xff9f99208a5918a5!2m2!1d-3.9287594!2d38.9854464!3e2)
-
-
-<a data-fancybox="gallery-elmolino" href="{{site.url}}/images/hoteles/elmolino.jpg"></a>
-
-<div style="margin-bottom:50px;clear:both"></div>
 
 
 
 
-
-<a data-fancybox="gallery-lafrasca" href="{{site.url}}/images/hoteles/lafrasca.jpg"><img src="{{site.url}}/images/hoteles/lafrasca.jpg" style="margin-left:15px;width: 100%; border-radius: 25px; max-width: 400px; height: auto; float: right"></a>
 ##### __Hostal Frasca__  
 
  Contacto/Dirección
@@ -180,17 +165,8 @@ Distancias:
    &nbsp;&nbsp;&nbsp;&nbsp; Dirección: Plaza Agustín Salido 2.
    <br>&nbsp;&nbsp;&nbsp;&nbsp; Teléfono de reservas: (+34) 651 838 660
 <br>
- Distancias:
-  <br>&nbsp;&nbsp;&nbsp;&nbsp; 23 minutos caminando a/desde la [estación de tren](https://www.google.com/maps/dir/Parking+Estaci%C3%B3n+AVE,+Ciudad+Real/OYO+Hostal+Frasca,+Plaza+Agust%C3%ADn+Salido,+2,+13002+Ciudad+Real,+Cdad.+Real/@38.9868283,-3.9230731,16z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd6bc349e56b276f:0x8692a93cf4952340!2m2!1d-3.91209!2d38.98543!1m5!1m1!1s0xd6bc341f790c123:0xace9c071d3834d07!2m2!1d-3.9259574!2d38.9894843!3e2)
-  <br>&nbsp;&nbsp;&nbsp;&nbsp; 8 minutos caminando a/desde la [ESI](https://www.google.com/maps/dir/OYO+Hostal+Frasca,+Plaza+Agust%C3%ADn+Salido,+2,+13002+Ciudad+Real,+Cdad.+Real/Escuela+Superior+de+Inform%C3%A1tica,+Paseo+Universidad,+Ciudad+Real/@38.9897201,-3.9252041,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd6bc341f790c123:0xace9c071d3834d07!2m2!1d-3.9259574!2d38.9894843!1m5!1m1!1s0xd6bc3441815e52f:0xe9d3de4afcb57d4d!2m2!1d-3.9200735!2d38.9902389!3e2)
-  <br>&nbsp;&nbsp;&nbsp;&nbsp; 7 minutos caminando a/desde centro [Ciudad Real](https://www.google.com/maps/dir/OYO+Hostal+Frasca,+Plaza+Agust%C3%ADn+Salido,+2,+13002+Ciudad+Real,+Cdad.+Real/Escuela+Superior+de+Inform%C3%A1tica,+Paseo+Universidad,+Ciudad+Real/@38.9897201,-3.9252041,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd6bc341f790c123:0xace9c071d3834d07!2m2!1d-3.9259574!2d38.9894843!1m5!1m1!1s0xd6bc3441815e52f:0xe9d3de4afcb57d4d!2m2!1d-3.9200735!2d38.9902389!3e2)
 
-  
-<a data-fancybox="gallery-pesteban" href="{{site.url}}/images/hoteles/pesteban.jpg"></a>
 
-<div style="margin-bottom:50px;clear:both"></div>
-
-<a data-fancybox="gallery-pesteban" href="{{site.url}}/images/hoteles/pesteban.jpg"><img src="{{site.url}}/images/hoteles/pesteban.jpg" style="margin-left:15px;width: 100%; border-radius: 25px; max-width: 400px; height: auto; float: right"></a>
 ##### __Pensión Esteban__  
 
  Contacto/Dirección
@@ -198,15 +174,10 @@ Distancias:
    &nbsp;&nbsp;&nbsp;&nbsp; Dirección: Calle Reyes 15, 13002.
    <br>&nbsp;&nbsp;&nbsp;&nbsp; Teléfono de reservas: (+34) 926 224 578
 <br>
- Distancias:
-  <br>&nbsp;&nbsp;&nbsp;&nbsp; 28 minutos caminando a/desde la [estación de tren](https://www.google.com/maps/dir/Parking+Estaci%C3%B3n+AVE,+Ciudad+Real/Pensi%C3%B3n+Esteban,+Calle+Reyes,+15,+13002+Ciudad+Real,+Cdad.+Real/@38.9850969,-3.9260584,16z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd6bc349e56b276f:0x8692a93cf4952340!2m2!1d-3.91209!2d38.98543!1m5!1m1!1s0xd6bc36c80641e61:0x78c3852c1ca05acc!2m2!1d-3.9319279!2d38.9866914!3e2)
-  <br>&nbsp;&nbsp;&nbsp;&nbsp; 16 minutos caminando a/desde la [ESI](https://www.google.com/maps/dir/Pensi%C3%B3n+Esteban,+Calle+Reyes,+Ciudad+Real/Escuela+Superior+de+Inform%C3%A1tica,+Paseo+Universidad,+Ciudad+Real/@38.9889638,-3.9304458,16z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd6bc36c80641e61:0x78c3852c1ca05acc!2m2!1d-3.9319279!2d38.9866914!1m5!1m1!1s0xd6bc3441815e52f:0xe9d3de4afcb57d4d!2m2!1d-3.9200735!2d38.9902389!3e2)
-  <br>&nbsp;&nbsp;&nbsp;&nbsp; 5 minutos caminando a/desde centro [Ciudad Real](https://www.google.com/maps/dir/Pensi%C3%B3n+Esteban,+Calle+Reyes,+Ciudad+Real/Plaza+Mayor,+13001+Ciudad+Real,+Cdad.+Real/@38.9860111,-3.931438,18z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd6bc36c80641e61:0x78c3852c1ca05acc!2m2!1d-3.9319279!2d38.9866914!1m5!1m1!1s0xd6bc36ae853415d:0xff9f99208a5918a5!2m2!1d-3.9287594!2d38.9854464!3e2)
+
 
   
-<a data-fancybox="gallery-pesteban" href="{{site.url}}/images/hoteles/pesteban.jpg"></a>
 
-<div style="margin-bottom:50px;clear:both"></div>
 
 
 
