@@ -19,7 +19,7 @@ Para la publicación en cualquier tema relacionado con la __investigación en ci
 2. __Artículos cortos__ (máximo 4 páginas) con contribuciones científicas originales en un estado preliminar y/o en desarrollo.
 3. __Resúmenes extendidos__ (máximo 2 páginas) con resultados científicos muy relevantes, y publicados durante el año 2019 y 2020. En este caso, se ha de indicar el título y el congreso o la revista donde fue publicado. 
 4. Publicaciones relacionadas con la __formación e innovación educativa en ciberseguridad__, se espera un único tipo de contribución como artículo largo (máximo 8 páginas). 
-5. Resultados de __TFMs y Tesis Doctorales__ sobre ciberseguridad que deseen presentarse a la “Edición 2020 de Premios RENIC de Investigación en Ciberseguridad” que se concederá durante las Jornadas. [Ver bases y fechas](http://www.renic.es).
+5. Resultados de __TFMs y Tesis Doctorales__ sobre ciberseguridad que deseen presentarse a la “Edición 2020 de Premios RENIC de Investigación en Ciberseguridad” que se concederá durante las Jornadas. [Ver bases y fechas](https://www.renic.es/es/convocados-los-premios-de-investigacion-en-ciberseguridad-2020).
 6. __Programa de transferencia tecnológica__ (certamen de retos científicos). [Más información](http://transferencia.jnic.es/).
 
 __Fecha límite__ de recepción de trabajos: 23 de marzo del 2020.
