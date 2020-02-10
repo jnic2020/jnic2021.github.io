@@ -30,13 +30,13 @@ Desde la organización de las JNIC 2020 se premiarán las contribuciones más im
 
 * __Premio al mejor trabajo ya publicado__   
 	
-
+<!--
 Por otra parte, también se hará entrega a los premios otorgados por la [RENIC](https://www.incibe.es/red-excelencia-idi-ciberseguridad) a la mejor Tesis y TFM de Ciberseguridad, cuyos premiados son los siguientes:
 
 * __Mejor Tesis en Ciberseguridad__   
 
 * __Mejor TFM en Ciberseguridad__   
-	
+	-->
 
 Por su parte, JNIC también premia a las mejores propuestas de retos y a los grupos de investigación implicados en [la solución de retos](https://sites.google.com/site/transferenciajnic/edicion-2019-20), con las siguientes modalidades:
 

@@ -31,5 +31,6 @@ Independientemente del tipo de contribución (en investigación y en formación 
 
 Todas las contribuciones (que podrán ser en español o en inglés) seguirán el estilo __IEEEtrans__ dispuesto para JNIC tanto en formato [Latex]({{site.url}}/assets/jnic2020_trabajos_latex.zip) como en formato [MS WORD]({{site.url}}/assets/jnic2020_trabajos_word.zip).
 <!--El tamaño del póster debería ser A0 en formato vertical (841 mm ancho x 1189 mm alto).  -->
-Las versiones extendidas de los mejores artículos en investigación en ciberseguridad podrán enviarse a Special Issues de revistas indexadas en el JCR en posiciones relevantes. Los detalles se irán comunicando próximamente.
+
+__Las versiones extendidas de los mejores artículos en investigación en ciberseguridad podrán enviarse a Special Issues de revistas indexadas en el JCR en posiciones relevantes. Los detalles se irán comunicando próximamente.__
 
