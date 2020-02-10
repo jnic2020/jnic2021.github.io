@@ -7,8 +7,6 @@ layout: page
 ---
 Llamada a la participación en las <b>VI <span style="color:#e3041e">J</span>ornadas <span style="color:#e3041e">N</span>acionales de <span style="color:#e3041e">I</span>nvestigación en <span style="color:#e3041e">C</span>iberseguridad (<span style="color:#e3041e">JNIC</span>)</b>
 
-Las Jornadas se estructuran en tres áreas de trabajo:  
-
 Las Jornadas, organizadas de forma conjunta con INCIBE, se centrarán fundamentalmente en tres áreas de trabajo:
 
 1 - Investigación en ciberseguridad  
