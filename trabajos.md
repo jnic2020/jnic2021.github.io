@@ -10,8 +10,8 @@ Llamada a la participación en las <b>VI <span style="color:#e3041e">J</span>orn
 Las Jornadas, organizadas de forma conjunta con INCIBE, se centrarán fundamentalmente en tres áreas de trabajo:
 
 1 - Investigación en ciberseguridad. Se consideran los siguientes tipos de contribución:
-&nbsp;&nbsp;&nbsp;&nbsp; a) __Artículos largos__ (máximo 8 páginas) correspondientes a contribuciones científicas originales, ya consolidadas y contrastadas.
-&nbsp;&nbsp;&nbsp;&nbsp; b) __Artículos cortos__ (máximo 4 páginas) con contribuciones científicas originales en un estado preliminar y/o en desarrollo.
+&nbsp;&nbsp;&nbsp;&nbsp; a) __Artículos largos__ (máximo 8 páginas) correspondientes a contribuciones científicas originales, ya consolidadas y contrastadas.<br>
+&nbsp;&nbsp;&nbsp;&nbsp; b) __Artículos cortos__ (máximo 4 páginas) con contribuciones científicas originales en un estado preliminar y/o en desarrollo.<br>
 &nbsp;&nbsp;&nbsp;&nbsp; c) __Resúmenes extendidos__ (máximo 2 páginas) con resultados científicos muy relevantes, y publicados durante el año 2019 y 2020. En este caso, se ha de indicar el título y el congreso o la revista donde fue publicado. 
 
 2 - Formación e innovación educativa en ciberseguridad. En este caso, se espera un único tipo de contribución como artículo largo (máximo 8 páginas).
