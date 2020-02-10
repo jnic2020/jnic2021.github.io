@@ -13,14 +13,17 @@ Las Jornadas, organizadas de forma conjunta con INCIBE, se centrarán fundamenta
 2 - Formación e innovación educativa en ciberseguridad  
 3 - Programa de transferencia tecnológica (certamen de retos científicos). [Más información](https://transferencia.jnic.es/edicion-2019-20).
 
-Para la publicación en cualquier tema relacionado con la __investigación en ciberseguridad__ o la __formación e innovación educativa en ciberseguridad__ se considerarán tres tipos de contribuciones:
+Para la publicación en cualquier tema relacionado con la __investigación en ciberseguridad__ se considerarán tres tipos de contribuciones:
 
 1. __Artículos largos__ (máximo 8 páginas) correspondientes a contribuciones científicas originales, ya consolidadas y contrastadas.
 2. __Artículos cortos__ (máximo 4 páginas) con contribuciones científicas originales en un estado preliminar y/o en desarrollo.
 3. __Resúmenes extendidos__ (máximo 2 páginas) con resultados científicos muy relevantes, y publicados durante el año 2019 y 2020. En este caso, se ha de indicar el título y el congreso o la revista donde fue publicado. 
-4. Publicaciones relacionadas con la __formación e innovación educativa en ciberseguridad__, se espera un único tipo de contribución como artículo largo (máximo 8 páginas). 
-5. Resultados de __TFMs y Tesis Doctorales__ sobre ciberseguridad que deseen presentarse a la “Edición 2020 de Premios RENIC de Investigación en Ciberseguridad” que se concederá durante las Jornadas. [Ver bases y fechas](https://www.renic.es/es/convocados-los-premios-de-investigacion-en-ciberseguridad-2020).
-6. __Programa de transferencia tecnológica__ (certamen de retos científicos). [Más información](http://transferencia.jnic.es/).
+
+En cuanto a las publicaciones relacionadas con la __formación e innovación educativa en ciberseguridad__, se espera un único tipo de contribución como artículo largo (máximo 8 páginas). 
+ 
+A parte de esto, se considerarán resultados de __TFMs y Tesis Doctorales__ sobre ciberseguridad que deseen presentarse a la “Edición 2020 de Premios RENIC de Investigación en Ciberseguridad” que se concederá durante las Jornadas. [Ver bases y fechas](https://www.renic.es/es/convocados-los-premios-de-investigacion-en-ciberseguridad-2020).
+
+__Programa de transferencia tecnológica__ (certamen de retos científicos). [Más información](http://transferencia.jnic.es/).
 
 __Fecha límite__ de recepción de trabajos: 23 de marzo del 2020.
 
