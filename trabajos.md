@@ -11,7 +11,7 @@ Las Jornadas, organizadas de forma conjunta con INCIBE, se centrarán fundamenta
 
 1 - __Investigación en ciberseguridad__. Se consideran los siguientes tipos de contribución:
 
-*  Artículos largos (máximo 8 páginas) correspondientes a contribuciones científicas originales, ya consolidadas y contrastadas.
+&nbsp;&nbsp;&nbsp;  *  Artículos largos (máximo 8 páginas) correspondientes a contribuciones científicas originales, ya consolidadas y contrastadas.
 *  Artículos cortos (máximo 4 páginas) con contribuciones científicas originales en un estado preliminar y/o en desarrollo.
 *  Resúmenes extendidos (máximo 2 páginas) con resultados científicos muy relevantes, y publicados durante el año 2019 y 2020. En este caso, se ha de indicar el título y el congreso o la revista donde fue publicado. 
 
