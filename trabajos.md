@@ -9,7 +9,7 @@ Llamada a la participación en las <b>VI <span style="color:#e3041e">J</span>orn
 
 Las Jornadas, organizadas de forma conjunta con INCIBE, se centrarán fundamentalmente en tres áreas de trabajo:
 
-1 - Investigación en ciberseguridad. Para la publicación en cualquier tema relacionado con la __investigación en ciberseguridad__ se considerarán lo siguientes tipos de contribución:
+1 - Investigación en ciberseguridad. Se consideran los siguientes tipos de contribución:
 
 *  __Artículos largos__ (máximo 8 páginas) correspondientes a contribuciones científicas originales, ya consolidadas y contrastadas.
 *  __Artículos cortos__ (máximo 4 páginas) con contribuciones científicas originales en un estado preliminar y/o en desarrollo.
