@@ -33,7 +33,7 @@ En ciudad Real podreis ver arquitectura religiosa/civil, museos, disfrutar de su
 En la actualidad, Ciudad Real cuenta con una amplia infraestructura hotelera y de restauración, siendo una ciudad cómoda (menos de 100.000 habitantes), para moverse a pie, con una temperatura muy agradable a principios de junio (unos 25º C).  
 
 __Más información turística:__  
-[Que ver/hacer en Ciudad Real](https://turismo.ciudadreal.es/)  
-[Ciudad Real y sus pueblos](https://www.spain.info/es/que-quieres/ciudades-pueblos/provincias/ciudad_real.html)
+<a href="https://turismo.ciudadreal.es/" target="_blank">Que ver/hacer en Ciudad Real</a>
+<a href="https://www.spain.info/es/que-quieres/ciudades-pueblos/provincias/ciudad_real.html" target="_blank">Ciudad Real y sus pueblos</a>
 
 
