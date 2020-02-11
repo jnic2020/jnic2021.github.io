@@ -9,15 +9,15 @@ Llamada a la participación en las <b>VI <span style="color:#e3041e">J</span>orn
 
 Las Jornadas, organizadas de forma conjunta con INCIBE, se centrarán fundamentalmente en tres áreas de trabajo:
 
-1 - Investigación en ciberseguridad. Se consideran los siguientes tipos de contribución:
+1 - __Investigación en ciberseguridad__. Se consideran los siguientes tipos de contribución:
 
-*  __Artículos largos__ (máximo 8 páginas) correspondientes a contribuciones científicas originales, ya consolidadas y contrastadas.
-*  __Artículos cortos__ (máximo 4 páginas) con contribuciones científicas originales en un estado preliminar y/o en desarrollo.
-*  __Resúmenes extendidos__ (máximo 2 páginas) con resultados científicos muy relevantes, y publicados durante el año 2019 y 2020. En este caso, se ha de indicar el título y el congreso o la revista donde fue publicado. 
+*  Artículos largos (máximo 8 páginas) correspondientes a contribuciones científicas originales, ya consolidadas y contrastadas.
+*  Artículos cortos (máximo 4 páginas) con contribuciones científicas originales en un estado preliminar y/o en desarrollo.
+*  Resúmenes extendidos (máximo 2 páginas) con resultados científicos muy relevantes, y publicados durante el año 2019 y 2020. En este caso, se ha de indicar el título y el congreso o la revista donde fue publicado. 
 
-2 - Formación e innovación educativa en ciberseguridad. En este caso, se espera un único tipo de contribución como artículo largo (máximo 8 páginas).
+2 - __Formación e innovación educativa en ciberseguridad__. En este caso, se espera un único tipo de contribución como artículo largo (máximo 8 páginas).
 
-3 - Programa de transferencia tecnológica (certamen de retos científicos). [Más información](https://transferencia.jnic.es/edicion-2019-20).
+3 - __Programa de transferencia tecnológica__ (certamen de retos científicos). [Más información](https://transferencia.jnic.es/edicion-2019-20).
  
 A parte de esto, se considerarán resultados de __TFMs y Tesis Doctorales__ sobre ciberseguridad que deseen presentarse a la “Edición 2020 de Premios RENIC de Investigación en Ciberseguridad” que se concederá durante las Jornadas. [Ver bases y fechas](https://www.renic.es/es/convocados-los-premios-de-investigacion-en-ciberseguridad-2020).
 
