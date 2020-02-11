@@ -15,9 +15,9 @@ Las Jornadas, organizadas de forma conjunta con INCIBE, se centrarán fundamenta
 
 Para la publicación en cualquier tema relacionado con la __investigación en ciberseguridad__ se considerarán tres tipos de contribuciones:
 
-* . __Artículos largos__ (máximo 8 páginas) correspondientes a contribuciones científicas originales, ya consolidadas y contrastadas.
-* . __Artículos cortos__ (máximo 4 páginas) con contribuciones científicas originales en un estado preliminar y/o en desarrollo.
-* . __Resúmenes extendidos__ (máximo 2 páginas) con resultados científicos muy relevantes, y publicados durante el año 2019 y 2020. En este caso, se ha de indicar el título y el congreso o la revista donde fue publicado. 
+*  __Artículos largos__ (máximo 8 páginas) correspondientes a contribuciones científicas originales, ya consolidadas y contrastadas.
+*  __Artículos cortos__ (máximo 4 páginas) con contribuciones científicas originales en un estado preliminar y/o en desarrollo.
+*  __Resúmenes extendidos__ (máximo 2 páginas) con resultados científicos muy relevantes, y publicados durante el año 2019 y 2020. En este caso, se ha de indicar el título y el congreso o la revista donde fue publicado. 
 
 En cuanto a las publicaciones relacionadas con la __formación e innovación educativa en ciberseguridad__, se espera un único tipo de contribución como artículo largo (máximo 8 páginas). 
  
