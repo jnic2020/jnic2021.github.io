@@ -2,37 +2,37 @@
 	{
 		"titulo":"Recepción de trabajos",
 		"contenido":"Hasta el 23/03/2020",
-		"fecha_ref":"23-03-2020",
+		"fecha_ref":"1",
 		"activada": true
 	},
 	{
 		"titulo":"Notificación a los autores",
 		"contenido":"05/05/2020",
-		"fecha_ref":"05-05-2020",
+		"fecha_ref":"3",
 		"activada": true
 	},
 	{
 		"titulo":"Inscripción temprana a las jornadas",
 		"contenido":"Precio reducido de 04/05/2020 a 13/05/2020",
-		"fecha_ref":"04-05-2020",
+		"fecha_ref":"4",
 		"activada": true
 	},
 	{
 		"titulo":"Inscripción ordinaria a las jornadas",
 		"contenido":"Precio standard a partir del 14/05/2020",
-		"fecha_ref":"05-05-2020",
+		"fecha_ref":"5",
 		"activada": true
 	},
 	{
 		"titulo":"Envío de trabajos definitivos",
 		"contenido":"13/05/2020",
-		"fecha_ref":"13-05-2020",
+		"fecha_ref":"2",
 		"activada": true
 	},
 	{
 		"titulo":"Celebración de las Jornadas",
 		"contenido":"3, 4 y 5 de junio del 2020",
-		"fecha_ref":"05-06-2030",
+		"fecha_ref":"6",
 		"activada": true
 	}
 ]
