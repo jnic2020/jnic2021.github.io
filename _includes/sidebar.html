@@ -4,7 +4,7 @@
 	<b>Fechas importantes</b></h5>
 
 <div style="line-height: 1.5; font-size: 0.9rem">
-{% assign fechas = site.data.fechas_importantes | sort: 'fecha_ref' %}
+{% assign fechas = site.data.fechas_importantes | sort: 'fecha_ref' | reverse %}
 {% for fecha in fechas %}
 <div style="padding-top: 1.0rem; padding-bottom: 1.0rem;border-bottom: 0.05rem solid #e5e5e5;{% if fecha.activada == false %}text-decoration:line-through;{% endif %}"><b>{{ fecha.titulo }}:</b> {{ fecha.contenido }} <i class="fa fa-calendar fa-fw ml-1" aria-hidden="true"></i></div>
 {% endfor %}
