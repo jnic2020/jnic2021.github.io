@@ -1,20 +1,20 @@
 [
 	{"name": "Juan","surname": "Díez González", "surname_sort": "Diez Gonzalez",
-		"organization": "INCIBE"},
-	{"name": "Javier","surname": "García Villalva", "surname_sort": "García Villalva",
+			"organization": "INCIBE"},
+	{"name": "Luis Javier","surname": "García Villalva", "surname_sort": "García Villalva",
 			"organization": "Universidad de Complutense de Madrid"},
 	{"name": "Eduardo","surname": "Fernández-Medina Patón", "surname_sort": "Fernandez-Medina Paton",
 			"organization": "Universidad de Castilla-La Mancha"},
 	{"name": "Guillermo","surname": "Suárez-Tangil", "surname_sort": "Suarez-Tangil",
 			"organization": "King's College London"},							
 	{"name": "Andrés","surname": "Caro Lindo", "surname_sort": "Caro Lindo",
-	"organization": "Universidad de Extremadura"},	
+			"organization": "Universidad de Extremadura"},	
 	{"name": "Pedro","surname": "García Teodoro", "surname_sort": "García Teodoro",
-	"organization": "Universidad de Granada. Representante de red RENIC"},
+			"organization": "Universidad de Granada. Representante de red RENIC"},
 	{"name": "Noemí","surname": "de Castro García", "surname_sort": "de Castro García",
-	"organization": "Universidad de León"},
+			"organization": "Universidad de León"},
 	{"name": "Rafael María","surname": "Estepa Alonso", "surname_sort": "Estepa Alonso",
-	"organization": "Universidad de Sevilla"},
+			"organization": "Universidad de Sevilla"},
 	{"name": "Pedro","surname": "Peris López", "surname_sort": "Peris López",
-		"organization": "Universidad Carlos III de Madrid"}
+			"organization": "Universidad Carlos III de Madrid"}
 ]
