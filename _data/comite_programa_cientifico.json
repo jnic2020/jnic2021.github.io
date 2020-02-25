@@ -18,9 +18,148 @@
 				"organization": "INCIBE"
 			},
 			{
-				"name" : [{"n":"Próximamente", "a":"", "a_sort": ""}],
-				"organization": ""
+				"name" : [{"n":"Marcos", "a":"Arjona Fernández", "a_sort": "Arjona Fernández"}],
+				"organization": "ElevenPaths"
+			},
+			{
+				"name" : [{"n":"Ana", "a":"Ayerbe Fernández-Cuesta", "a_sort": "Ayerbe Fernández-Cuesta"}],
+				"organization": "Tecnalia "
+			},
+			{
+				"name" : [{"n":"Marta", "a":"Beltrán Pardo", "a_sort": "Beltrán Pardo"}],
+				"organization": "Universidad Rey Juan Carlos"
+			},
+			{
+				"name" : [{"n":"Carlos", "a":"Blanco Bueno", "a_sort": "Blanco Bueno"}],
+				"organization": "Universidad de Cantabria"
+			},
+			{
+				"name" : [{"n":"Jorge", "a":"Blasco Alís", "a_sort": "Blasco Alís"}],
+				"organization": "Royal Holloway, University of London"
+			},
+			{
+				"name" : [{"n":"Pino", "a":"Caballero Gil", "a_sort": "Caballero Gil"}],
+				"organization": "Universidad de La Laguna "
+			},
+			{
+				"name" : [{"n":"Andrés", "a":"Caro Lindo", "a_sort": "Caro Lindo"}],
+				"organization": "Universidad de Extremadura"
+			},
+			{
+				"name" : [{"n":"Jordi", "a":"Castellà Roca", "a_sort": "Castellà Roca "}],
+				"organization": "Universitat Rovira i Vigili"
+			},
+			{
+				"name" : [{"n":"José María", "a":"María de Fuentes García-Romero de Tejada", "a_sort": "María de Fuentes García-Romero de Tejada"}],
+				"organization": "Universidad Carlos III de Madrid"
+			},
+			{
+				"name" : [{"n":"Jesús Esteban", "a":"Díaz Verdejo", "a_sort": "Díaz Verdejo"}],
+				"organization": "Universidad de Granada "
+			},
+			{
+				"name" : [{"n":"Josep Lluis", "a":"Ferrer Gomila", "a_sort": "Ferrer Gomila"}],
+				"organization": "Universitat de les Illes Balears"
+			},
+			{
+				"name" : [{"n":"Dario", "a":"Fiore", "a_sort": "Fiore"}],
+				"organization": "IMDEA Software Institute "
+			},
+			{
+				"name" : [{"n":"David", "a":"García Rosado", "a_sort": "García Rosado"}],
+				"organization": "Universidad de Castilla-La Mancha"
+			},
+			{
+				"name" : [{"n":"Pedro", "a":"García Teodoro", "a_sort": "García Teodoro"}],
+				"organization": "Universidad de Granada"
+			},
+			{
+				"name" : [{"n":"Luis Javier", "a":"García Villalba", "a_sort": "García Villalba"}],
+				"organization": "Universidad Complutense de Madrid"
+			},
+			{
+				"name" : [{"n":"Iñaki", "a":"Garitano Garitano", "a_sort": "Garitano Garitano"}],
+				"organization": "Mondragon Unibertsitatea "
+			},
+			{
+				"name" : [{"n":"Félix", "a":"Gómez Mármol", "a_sort": "Gómez Mármol"}],
+				"organization": "Universidad de Murcia "
+			},
+			{
+				"name" : [{"n":"Lorena", "a":"González Manzano", "a_sort": "González Manzano"}],
+				"organization": "Universidad Carlos III de Madrid "
+			},
+			{
+				"name" : [{"n":"María Isabel", "a":"González Vasco", "a_sort": "González Vasco"}],
+				"organization": "Universidad Rey Juan Carlos I "
+			},
+			{
+				"name" : [{"n":"Julio César ", "a":"Hernández Castro", "a_sort": "Hernández Castro"}],
+				"organization": "University of Kent"
+			},
+			{
+				"name" : [{"n":"Luis", "a":"Hernández Encinas", "a_sort": "Hernández Encinas"}],
+				"organization": "Consejo Superior de Investigaciones Científicas "
+			},
+			{
+				"name" : [{"n":"Jorge", "a":"López Hernández-Ardieta", "a_sort": "López Hernández-Ardieta"}],
+				"organization": "Banco Santander "
+			},
+			{
+				"name" : [{"n":"Javier", "a":"López Muñoz", "a_sort": "López Muñoz"}],
+				"organization": "Universidad de Málaga"
+			},
+			{
+				"name" : [{"n":"Rafael", "a":"Martínez Gasca", "a_sort": "Martínez Gasca"}],
+				"organization": "Banco Santander "
+			},
+			{
+				"name" : [{"n":"Gregorio", "a":"Martínez Pérez", "a_sort": "Martínez Pérez"}],
+				"organization": "Universidad de Murcia"
+			},
+			{
+				"name" : [{"n":"David", "a":"Megías Jiménez", "a_sort": "Megías Jiménez"}],
+				"organization": "Universitat Oberta de Cataluña "
+			},
+			{
+				"name" : [{"n":"Luis", "a":"Panizo Alonso", "a_sort": "Panizo Alonso"}],
+				"organization": "Universidad de León "
+			},
+			{
+				"name" : [{"n":"Aljosa", "a":"Pasic", "a_sort": "Pasic"}],
+				"organization": "ATOS"
+			},
+			{
+				"name" : [{"n":"Ricardo J.", "a":"Rodríguez ", "a_sort": "Rodríguez"}],
+				"organization": "Centro Universitario de la Defensa de Zaragoza "
+			},
+			{
+				"name" : [{"n":"Fernando", "a":"Román Muñoz", "a_sort": "Román Muñoz"}],
+				"organization": "Universidad Complutense de Madrid "
+			},
+			{
+				"name" : [{"n":"Luis Enrique", "a":"Sánchez Crespo", "a_sort": "Sánchez Crespo"}],
+				"organization": "Universidad de Castilla-La Mancha "
+			},
+			{
+				"name" : [{"n":"José", "a":"Soler", "a_sort": "Soler"}],
+				"organization": "Technical University of Denmark - DTU"
+			},
+			{
+				"name" : [{"n":"Miguel", "a":"Soriano Ibáñez", "a_sort": "Soriano Ibáñez"}],
+				"organization": "Universidad Politécnica de Cataluña"
+			},
+			{
+				"name" : [{"n":"Victor A.", "a":"Villagrá González", "a_sort": "Villagrá González"}],
+				"organization": "Universidad Politécnica de Madrid"
+			},
+			{
+				"name" : [{"n":"Urko", "a":"Zurutuza Ortega", "a_sort": "Zurutuza Ortega"}],
+				"organization": "Mondragon Unibertsitatea"
 			}
+
+
+			
 		]
 	}
 ]
