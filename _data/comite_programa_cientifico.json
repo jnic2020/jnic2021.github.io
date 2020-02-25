@@ -23,7 +23,7 @@
 			},
 			{
 				"name" : [{"n":"Ana", "a":"Ayerbe Fernández-Cuesta", "a_sort": "Ayerbe Fernández-Cuesta"}],
-				"organization": "Tecnalia "
+				"organization": "Tecnalia"
 			},
 			{
 				"name" : [{"n":"Marta", "a":"Beltrán Pardo", "a_sort": "Beltrán Pardo"}],
@@ -39,7 +39,7 @@
 			},
 			{
 				"name" : [{"n":"Pino", "a":"Caballero Gil", "a_sort": "Caballero Gil"}],
-				"organization": "Universidad de La Laguna "
+				"organization": "Universidad de La Laguna"
 			},
 			{
 				"name" : [{"n":"Andrés", "a":"Caro Lindo", "a_sort": "Caro Lindo"}],
@@ -55,7 +55,7 @@
 			},
 			{
 				"name" : [{"n":"Jesús Esteban", "a":"Díaz Verdejo", "a_sort": "Díaz Verdejo"}],
-				"organization": "Universidad de Granada "
+				"organization": "Universidad de Granada"
 			},
 			{
 				"name" : [{"n":"Josep Lluis", "a":"Ferrer Gomila", "a_sort": "Ferrer Gomila"}],
@@ -63,7 +63,7 @@
 			},
 			{
 				"name" : [{"n":"Dario", "a":"Fiore", "a_sort": "Fiore"}],
-				"organization": "IMDEA Software Institute "
+				"organization": "IMDEA Software Institute"
 			},
 			{
 				"name" : [{"n":"David", "a":"García Rosado", "a_sort": "García Rosado"}],
@@ -79,19 +79,19 @@
 			},
 			{
 				"name" : [{"n":"Iñaki", "a":"Garitano Garitano", "a_sort": "Garitano Garitano"}],
-				"organization": "Mondragon Unibertsitatea "
+				"organization": "Mondragon Unibertsitatea"
 			},
 			{
 				"name" : [{"n":"Félix", "a":"Gómez Mármol", "a_sort": "Gómez Mármol"}],
-				"organization": "Universidad de Murcia "
+				"organization": "Universidad de Murcia"
 			},
 			{
 				"name" : [{"n":"Lorena", "a":"González Manzano", "a_sort": "González Manzano"}],
-				"organization": "Universidad Carlos III de Madrid "
+				"organization": "Universidad Carlos III de Madrid"
 			},
 			{
 				"name" : [{"n":"María Isabel", "a":"González Vasco", "a_sort": "González Vasco"}],
-				"organization": "Universidad Rey Juan Carlos I "
+				"organization": "Universidad Rey Juan Carlos I"
 			},
 			{
 				"name" : [{"n":"Julio César ", "a":"Hernández Castro", "a_sort": "Hernández Castro"}],
@@ -99,11 +99,11 @@
 			},
 			{
 				"name" : [{"n":"Luis", "a":"Hernández Encinas", "a_sort": "Hernández Encinas"}],
-				"organization": "Consejo Superior de Investigaciones Científicas "
+				"organization": "Consejo Superior de Investigaciones Científicas"
 			},
 			{
 				"name" : [{"n":"Jorge", "a":"López Hernández-Ardieta", "a_sort": "López Hernández-Ardieta"}],
-				"organization": "Banco Santander "
+				"organization": "Banco Santander"
 			},
 			{
 				"name" : [{"n":"Javier", "a":"López Muñoz", "a_sort": "López Muñoz"}],
@@ -119,11 +119,11 @@
 			},
 			{
 				"name" : [{"n":"David", "a":"Megías Jiménez", "a_sort": "Megías Jiménez"}],
-				"organization": "Universitat Oberta de Cataluña "
+				"organization": "Universitat Oberta de Cataluña"
 			},
 			{
 				"name" : [{"n":"Luis", "a":"Panizo Alonso", "a_sort": "Panizo Alonso"}],
-				"organization": "Universidad de León "
+				"organization": "Universidad de León"
 			},
 			{
 				"name" : [{"n":"Fernando", "a":"Pérez González", "a_sort": "Pérez González"}],
@@ -143,7 +143,7 @@
 			},
 			{
 				"name" : [{"n":"Luis Enrique", "a":"Sánchez Crespo", "a_sort": "Sánchez Crespo"}],
-				"organization": "Universidad de Castilla-La Mancha "
+				"organization": "Universidad de Castilla-La Mancha"
 			},
 			{
 				"name" : [{"n":"José", "a":"Soler", "a_sort": "Soler"}],
@@ -161,9 +161,6 @@
 				"name" : [{"n":"Urko", "a":"Zurutuza Ortega", "a_sort": "Zurutuza Ortega"}],
 				"organization": "Mondragon Unibertsitatea"
 			}
-
-
-			
 		]
 	}
 ]
