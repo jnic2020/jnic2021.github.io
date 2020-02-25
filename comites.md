@@ -26,7 +26,7 @@ layout: page
 <div style="font-size: 0.9rem; padding-top: 1.5rem; padding-bottom: 1.5rem;">
 <span style="font-size: 1.05rem">{{ chair.chair }}</span><br>
 {% for member in chair.members %}
-{% assign names = member.name | sort: 'a_sort' %}
+<b>{% assign names = member.name | sort: 'a_sort' %}</b>
 {% for name in names %}
 <br><b>{{ name.n }} {{ name.a }}</b><br>
 {% endfor %}
