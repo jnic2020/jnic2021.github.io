@@ -111,7 +111,7 @@
 			},
 			{
 				"name" : [{"n":"Rafael", "a":"Martínez Gasca", "a_sort": "Martínez Gasca"}],
-				"organization": "Banco Santander "
+				"organization": "Universidad de Sevilla"
 			},
 			{
 				"name" : [{"n":"Gregorio", "a":"Martínez Pérez", "a_sort": "Martínez Pérez"}],
@@ -124,6 +124,10 @@
 			{
 				"name" : [{"n":"Luis", "a":"Panizo Alonso", "a_sort": "Panizo Alonso"}],
 				"organization": "Universidad de León "
+			},
+			{
+				"name" : [{"n":"Fernando", "a":"Pérez González", "a_sort": "Pérez González"}],
+				"organization": "Universidad de Vigo"
 			},
 			{
 				"name" : [{"n":"Aljosa", "a":"Pasic", "a_sort": "Pasic"}],
