@@ -17,7 +17,7 @@ layout: page
     <a href="https://www.renic.es" target="_blank"><img style="max-height: 130px; padding:25px;" src="{{site.url}}/images/patrocinadores/LogoRENIC.jpg"></a>
     <a href="https://www.cojali.com/es/" target="_blank"><img style="max-height: 130px; padding:25px;" src="{{site.url}}/images/patrocinadores/GrupoCojali.jpg"></a>
     <br>
-    <a href="https://avanttic.com//" target="_blank"><img style="max-height: 100px; padding:20px;" src="{{site.url}}/images/patrocinadores/AulaAvanttic.jpg"></a>
+    <a href="https://avanttic.com/" target="_blank"><img style="max-height: 100px; padding:20px;" src="{{site.url}}/images/patrocinadores/AulaAvanttic.jpg"></a>
     <a href="http://alpinia.digital/" target="_blank"><img style="max-height: 100px; padding:20px;" src="{{site.url}}/images/patrocinadores/LogoAulaAlpinia.jpg"></a>
     <br>
     <a href="https://esi.uclm.es/" target="_blank"><img style="max-height: 130px; padding:25px;" src="{{site.url}}/images/patrocinadores/LogoESI.jpg"></a>
