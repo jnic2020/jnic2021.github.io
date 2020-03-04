@@ -50,7 +50,7 @@
 				"organization": "Universitat Rovira i Vigili"
 			},
 			{
-				"name" : [{"n":"José Maria", "a":"Maria de Fuentes García-Romero de Tejada", "a_sort": "María de Fuentes García-Romero de Tejada"}],
+				"name" : [{"n":"José Maria", "a":"Maria de Fuentes García-Romero de Tejada", "a_sort": "Maria de Fuentes García-Romero de Tejada"}],
 				"organization": "Universidad Carlos III de Madrid"
 			},
 			{
@@ -90,7 +90,7 @@
 				"organization": "Universidad Carlos III de Madrid"
 			},
 			{
-				"name" : [{"n":"María Isabel", "a":"González Vasco", "a_sort": "González Vasco"}],
+				"name" : [{"n":"Maria Isabel", "a":"González Vasco", "a_sort": "González Vasco"}],
 				"organization": "Universidad Rey Juan Carlos I"
 			},
 			{
