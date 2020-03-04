@@ -160,6 +160,14 @@
 			{
 				"name" : [{"n":"Urko", "a":"Zurutuza Ortega", "a_sort": "Zurutuza Ortega"}],
 				"organization": "Mondragon Unibertsitatea"
+			},
+			{
+				"name" : [{"n":"Lilian", "a":"Adkinson Orellana", "a_sort": "Adkinson Orellana"}],
+				"organization": "Gradiant"
+			},
+			{
+				"name" : [{"n":"Juan", "a":"Hernández Serrano", "a_sort": "Hernández Serrano"}],
+				"organization": "Universitat Politécnica de Cataluña"
 			}
 		]
 	}
