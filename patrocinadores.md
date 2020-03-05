@@ -19,6 +19,7 @@ layout: page
     <br>
     <a href="https://avanttic.com/aula-smact/" target="_blank"><img style="max-height: 100px; padding:20px;" src="{{site.url}}/images/patrocinadores/AulaAvanttic.jpg"></a>
     <a href="http://alpinia.digital/" target="_blank"><img style="max-height: 100px; padding:20px;" src="{{site.url}}/images/patrocinadores/LogoAulaAlpinia.jpg"></a>
+    <a href="https://www.uclm.es/perfiles/empresa/colaboracionmecenazgo/catedrasaulasempresa/catedra_indra" target="_blank"><img style="max-height: 100px; padding:20px;" src="{{site.url}}/images/patrocinadores/LogoCatedraIndra.jpg"></a>
     <br>
     <a href="https://esi.uclm.es/" target="_blank"><img style="max-height: 130px; padding:25px;" src="{{site.url}}/images/patrocinadores/LogoESI.jpg"></a>
     <a href="https://alarcos.esi.uclm.es/itsi/" target="_blank"><img style="max-height: 130px; padding:25px;" src="{{site.url}}/images/patrocinadores/LogoITSI.jpg"></a>
