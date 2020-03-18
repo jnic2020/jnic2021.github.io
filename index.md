@@ -4,7 +4,7 @@
 
 layout: home
 ---
-Las <b>VI <span style="color:#e3041e">J</span>ornadas <span style="color:#e3041e">N</span>acionales de <span style="color:#e3041e">I</span>nvestigación en <span style="color:#e3041e">C</span>iberseguridad (<span style="color:#e3041e">JNIC</span>)</b> se celebrarán en la [Escuela Superior de Informática]({{site.url}}/sede) de Ciudad Real del __3 al 5 junio de 2020__. 
+Las <b>VI <span style="color:#e3041e">J</span>ornadas <span style="color:#e3041e">N</span>acionales de <span style="color:#e3041e">I</span>nvestigación en <span style="color:#e3041e">C</span>iberseguridad (<span style="color:#e3041e">JNIC</span>)</b> se celebrarán en la [Escuela Superior de Informática]({{site.url}}/sede) de Ciudad Real del __3̶ ̶a̶l̶ ̶5̶ ̶j̶u̶n̶i̶o̶ ̶d̶e̶ ̶2̶0̶2̶0̶__. 
 
 El Instituto Nacional de Ciberseguridad ([INCIBE](https://www.incibe.es/)) colabora en la realización de estas Jornadas. INCIBE es la entidad de referencia nacional para el desarrollo de la ciberseguridad y de la confianza digital de ciudadanos, red académica y de investigación, profesionales, empresas y especialmente para sectores estratégicos. Es misión de INCIBE apoyar la I+D+i para generar conocimiento y tecnología que haga frente a las necesidades y retos que plantean las ciberamenazas y ciberataques.   
 
