@@ -5,6 +5,7 @@
 layout: home
 ---
 
+<H2 style="text-align: center;">AVISO </h2>
 <div class="p-3 mb-2 bg-warning text-dark">Las JNIC’2020 se posponen
 Como consecuencia de la situación generada por la pandemia del coronavirus (SARS-CoV-2), desde la organización de JNIC’2020 queremos ser responsables y aplazamos su celebración sin fecha, aunque con la intención de retomar las actividades en cuando podamos y de celebrar las jornadas en el presente año, probablemente en el último trimestre del 2020. La nueva fecha de celebración dependerá del desarrollo de los acontecimientos.
 </div>
