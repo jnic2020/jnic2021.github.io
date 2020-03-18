@@ -9,6 +9,8 @@ layout: home
 <p style="text-align: center; bg-danger; text-white">JNIC’2020 se posponen
 Como consecuencia de la situación generada por la pandemia del coronavirus (SARS-CoV-2), desde la organización de JNIC’2020 queremos ser responsables y aplazamos su celebración sin fecha, aunque con la intención de retomar las actividades en cuando podamos y de celebrar las jornadas en el presente año, probablemente en el último trimestre del 2020. La nueva fecha de celebración dependerá del desarrollo de los acontecimientos.
 </p>
+Os mantendremos informados.
+<p style="text-align: center; background:bg-danger; color:text-white">Ánimo para todos en estos momentos</p>
 
 Las <b>VI <span style="color:#e3041e">J</span>ornadas <span style="color:#e3041e">N</span>acionales de <span style="color:#e3041e">I</span>nvestigación en <span style="color:#e3041e">C</span>iberseguridad (<span style="color:#e3041e">JNIC</span>)</b> se celebrarán en la [Escuela Superior de Informática]({{site.url}}/sede) de Ciudad Real del __3̶ ̶a̶l̶ ̶5̶ ̶j̶u̶n̶i̶o̶ ̶d̶e̶ ̶2̶0̶2̶0̶__. 
 
