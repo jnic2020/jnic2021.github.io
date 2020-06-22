@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: JNIC 2020
+title: JNIC 2021
 email: congreso.jnic2020@uclm.es
 description: VI Jornadas Nacionales de Investigación en Ciberseguridad
 location: Ciudad Real
-date: Del 3 al 5 de junio de 2020
+date: Del 3 al 5 de junio de 2021
 logo: logo_jnic2021.png
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://2020.jnic.es" # the base hostname & protocol for your site, e.g. http://example.com
