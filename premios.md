@@ -17,7 +17,7 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
 
 ### __Premios JNIC 2020__
 
-Desde la organización de las JNIC 2020 se premiarán las contribuciones más importantes de las jornadas, en las siguientes categorías:
+Desde la organización de las JNICse premiarán las contribuciones más importantes de las jornadas, en las siguientes categorías:
 
 * __Premio al mejor artículo de investigación__  
 	
