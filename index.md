@@ -7,7 +7,7 @@ layout: home
 
 <H2 style="text-align: center; background-color:red; color:white;">AVISO </h2>
 <p style="text-align: justify;">JNIC’2020 se posponen
-como consecuencia de la situación generada por la pandemia del coronavirus (SARS-CoV-2), desde la organización de JNIC’2020 se ha decidido aplazar su celebración sin fecha, aunque con la intención de retomar las actividades en cuando podamos y de celebrar las jornadas en el presente año, probablemente en el último trimestre del 2020. La nueva fecha de celebración dependerá del desarrollo de los acontecimientos.
+como consecuencia de la situación generada por la pandemia del coronavirus (SARS-CoV-2), desde la organización de JNIC’2020 se ha decidido aplazar su celebración a junio de 2021.  Las nuevas jornadas JNIC'2021 se celebrarán del 9 al 11 de junio de 2021. Os esperamos en Ciudad Real.
 </p>
 
 <p style="text-align: center; background-color:red; color:white;">Os mantendremos informados. Ánimo para todos en estos momentos.</p>
