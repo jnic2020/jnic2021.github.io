@@ -21,9 +21,10 @@ Las Jornadas, organizadas de forma conjunta con INCIBE, se centrarán fundamenta
  
 Aparte de esto, se considerarán resultados de __TFMs y Tesis Doctorales__ sobre ciberseguridad que deseen presentarse a la “Ediciónde Premios RENIC de Investigación en Ciberseguridad” que se concederá durante las Jornadas. [Ver bases y fechas](https://www.renic.es/es/convocados-los-premios-de-investigacion-en-ciberseguridad-2020).
 
-__Fecha límite__ de recepción de trabajos:  ̶2̶3̶ ̶d̶e̶ ̶m̶a̶r̶z̶o̶ ̶d̶e̶l̶ ̶2̶0̶2̶0̶.
+__Fecha límite__ de recepción de trabajos:  _Próximamente_.
 
-El envío de contribuciones se realizará a través de la plataforma EasyChair, mediante este [enlace](https://easychair.org/conferences/?conf=jnic2020).
+El envío de contribuciones se realizará a través de la plataforma EasyChair.
+<!-- , mediante este [enlace](https://easychair.org/conferences/?conf=jnic2020). -->
 
 Toda participación en las JNIC2020 estará sujeta a la aceptación de las [bases de participación]({{site.url}}/bases).
 Independientemente del tipo de contribución (en investigación y en formación e innovación educativa), los autores se deben comprometer a presentar los trabajos aceptados durante las Jornadas. 
