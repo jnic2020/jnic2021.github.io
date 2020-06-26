@@ -1,6 +1,6 @@
 # Web para la JNIC 2020
 
-La URL para probar la web es https://2020.jnic.es/
+La URL para probar la web es https://2021.jnic.es/
 
 Después de subir cambios a este repositorio, hay que esperar unos 15 segundos y refrescar la web varias veces para que se reflejen.
 
