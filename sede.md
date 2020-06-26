@@ -18,7 +18,7 @@ __[Sede]({{site.url}}/sede)__ / [Cómo llegar]({{site.url}}/llegar) / [Informaci
 ![](/images/ESI.jpg)
 
 
-JNIC2020 tendrá lugar en la [Escuela Superior de Informática](https://esi.uclm.es/) de la [Universidad de Castilla-La Mancha](https://www.uclm.es), en Ciudad Real, España.
+JNIC2021 tendrá lugar en la [Escuela Superior de Informática](https://esi.uclm.es/) de la [Universidad de Castilla-La Mancha](https://www.uclm.es), en Ciudad Real, España.
 
 Ciudad Real, capital de La Mancha, está situada en la región natural del [Campo de Calatrava](https://es.wikipedia.org/wiki/Campo_de_Calatrava), caracterizada por el relieve y los fenómenos volcánicos.
 
