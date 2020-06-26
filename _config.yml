@@ -20,7 +20,7 @@ location: Ciudad Real
 date: Del 9 al 11 de junio de 2021
 logo: logo_jnic2021.png
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://2020.jnic.es" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://2021.jnic.es" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
