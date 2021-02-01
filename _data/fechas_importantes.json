@@ -1,31 +1,31 @@
 [
 	{
 		"titulo":"Recepción de trabajos",
-		"contenido":"Próximamente",
+		"contenido":"15/03/2021",
 		"fecha_ref":"1",
 		"activada": true
 	},
 	{
 		"titulo":"Notificación a los autores",
-		"contenido":"Próximamente",
+		"contenido":"03/05/2021",
 		"fecha_ref":"3",
 		"activada": true
 	},
 	{
 		"titulo":"Inscripción temprana a las jornadas",
-		"contenido":"Próximamente",
+		"contenido":"4/05/2021 al 14/05/2021",
 		"fecha_ref":"4",
 		"activada": true
 	},
 	{
 		"titulo":"Inscripción ordinaria a las jornadas",
-		"contenido":"Próximamente",
+		"contenido":"15/05/2021",
 		"fecha_ref":"5",
 		"activada": true
 	},
 	{
 		"titulo":"Envío de trabajos definitivos",
-		"contenido":"Próximamente",
+		"contenido":"14/05/2021",
 		"fecha_ref":"2",
 		"activada": true
 	},
