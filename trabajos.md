@@ -25,7 +25,7 @@ __Fecha límite__ de recepción de trabajos:  _15/03/2021 (para tanto a artícul
 
 El envío de contribuciones se realizará a través de la plataforma EasyChair, mediante este [enlace](https://easychair.org/conferences/?conf=jnic2021).
 
-Toda participación en las JNIC2020 estará sujeta a la aceptación de las [bases de participación]({{site.url}}/bases).
+Toda participación en las JNIC2021 estará sujeta a la aceptación de las [bases de participación]({{site.url}}/bases).
 Independientemente del tipo de contribución (en investigación y en formación e innovación educativa), los autores se deben comprometer a presentar los trabajos aceptados durante las Jornadas. 
 
 Todas las contribuciones (que podrán ser en español o en inglés) seguirán el estilo __IEEEtrans__ dispuesto para JNIC tanto en formato [Latex]({{site.url}}/assets/jnic2020_trabajos_latex.zip) como en formato [MS WORD]({{site.url}}/assets/jnic2020_trabajos_word.zip).
