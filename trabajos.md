@@ -23,8 +23,7 @@ Aparte de esto, se considerarán resultados de __TFMs y Tesis Doctorales__ sobre
 
 __Fecha límite__ de recepción de trabajos:  _Próximamente_.
 
-El envío de contribuciones se realizará a través de la plataforma EasyChair.
-<!-- , mediante este [enlace](https://easychair.org/conferences/?conf=jnic2020). -->
+El envío de contribuciones se realizará a través de la plataforma EasyChair, mediante este [enlace](https://easychair.org/conferences/?conf=jnic2021).
 
 Toda participación en las JNIC2020 estará sujeta a la aceptación de las [bases de participación]({{site.url}}/bases).
 Independientemente del tipo de contribución (en investigación y en formación e innovación educativa), los autores se deben comprometer a presentar los trabajos aceptados durante las Jornadas. 
