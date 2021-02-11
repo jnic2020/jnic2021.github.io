@@ -22,6 +22,6 @@ Para la publicación se consideran dos tipos de contribuciones en cualquier tema
 3. Resultados de Tesis Doctorales y TFMs sobre ciberseguridad que deseen presentarse a la “1ª Edición de Premios RENIC a la mejor Tesis Doctoral y mejor TFM” que se concederá durante las Jornadas.  [Consulta bases y fechas](http://www.renic.es).
 4. Programa de transferencia tecnológica (certamen de retos científicos). [Más información](http://transferencia.jnic.es/).
 
-Toda participación en las JNIC2020 estará sujeta a la aceptación de las [bases de participación]({{site.url}}/bases).
+Toda participación en las JNIC2021 estará sujeta a la aceptación de las [bases de participación]({{site.url}}/bases).
 
 

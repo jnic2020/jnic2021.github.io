@@ -6,7 +6,7 @@ layout: page
 ---
 
 <!--
-__[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/actividades-sociales) / [Premios JNIC 2020]({{site.url}}/premios) / [Track de transferencia]({{site.url}}/track-transferencia)
+__[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/actividades-sociales) / [Premios JNIC 2021]({{site.url}}/premios) / [Track de transferencia]({{site.url}}/track-transferencia)
 -->
 <div class="text-center">
 <a href="{{site.url}}/programa"><img src="{{site.url}}/images/IcoPrograma.jpg" class="img-circle" 	width="40" height="40"><strong>Programa</strong></a> &nbsp;&nbsp;&nbsp;

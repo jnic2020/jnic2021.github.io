@@ -6,7 +6,7 @@ layout: page
 ---
 
 <!--
-__[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/actividades-sociales) / [Premios JNIC 2020]({{site.url}}/premios) / [Track de transferencia]({{site.url}}/track-transferencia)
+__[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/actividades-sociales) / [Premios JNIC 2021]({{site.url}}/premios) / [Track de transferencia]({{site.url}}/track-transferencia)
 -->
 <div class="text-center">
 <a href="{{site.url}}/programa"><img src="{{site.url}}/images/IcoPrograma.jpg" class="img-circle" 	width="40" height="40"><strong>Programa</strong></a> &nbsp;&nbsp;&nbsp;
@@ -22,7 +22,7 @@ Con el objetivo de convertir estas jornadas en un foro científico de excelencia
 
 Este Programa, se basa en un certamen de retos científicos planteados por usuarios finales con necesidades en ciberseguridad (no cubiertas actualmente por el mercado) para ser resueltos por equipos nacionales de investigación.
 
-El Programa de Transferencia se articula en ediciones de un año de duración. En <b>JNIC <span style="color:#e3041e">2020</span></b>, dentro de esta sección, se darán a conocer los ganadores de la [edición 2019](http://2019.jnic.es/) y de igual forma, se presentarán los retos científicos disponibles de la edición 2020.
+El Programa de Transferencia se articula en ediciones de un año de duración. En <b>JNIC <span style="color:#e3041e">2021</span></b>, dentro de esta sección, se darán a conocer los ganadores de la [edición 2019](http://2019.jnic.es/) y de igual forma, se presentarán los retos científicos disponibles de la edición 2021.
 
 
 ### __¿Cómo participar?__

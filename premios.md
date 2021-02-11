@@ -6,7 +6,7 @@ layout: page
 ---
 
 <!--
-__[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/actividades-sociales) / [Premios JNIC 2020]({{site.url}}/premios) / [Track de transferencia]({{site.url}}/track-transferencia)
+__[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/actividades-sociales) / [Premios JNIC2021]({{site.url}}/premios) / [Track de transferencia]({{site.url}}/track-transferencia)
 -->
 <div class="text-center">
 <a href="{{site.url}}/programa"><img src="{{site.url}}/images/IcoPrograma.jpg" class="img-circle" 	width="40" height="40"><strong>Programa</strong></a> &nbsp;&nbsp;&nbsp;
@@ -56,8 +56,8 @@ Por su parte, JNIC también premia a las mejores propuestas de retos y a los gru
 	<img style="max-height: 200px; padding:50px;" src="{{site.url}}/images/cybercamp.png">
 	</div>
 
-Además, [INCIBE](https://www.incibe.es/) podrá seleccionar de entre los trabajos expuestos en las JNIC, aquellos que considere que mejor representan el espíritu del evento [CyberCamp 2020](https://cybercamp.es/) (mayoritariamente técnico y de carácter innovador). En caso de ser seleccionados, se entregará una invitación para la presentación de su trabajo de forma presencial en ese evento. Los seleccionados expondrán, durante el evento, una ponencia/taller dando a conocer las investigaciones realizadas y que se expusieron en las JNIC2020.
+Además, [INCIBE](https://www.incibe.es/) podrá seleccionar de entre los trabajos expuestos en las JNIC, aquellos que considere que mejor representan el espíritu del evento [CyberCamp 2021](https://cybercamp.es/) (mayoritariamente técnico y de carácter innovador). En caso de ser seleccionados, se entregará una invitación para la presentación de su trabajo de forma presencial en ese evento. Los seleccionados expondrán, durante el evento, una ponencia/taller dando a conocer las investigaciones realizadas y que se expusieron en las JNIC2021.
 
-Esta invitación incluirá: el viaje (para una persona) desde la ciudad de origen hasta la ciudad de destino donde se celebre CyberCamp 2020, el alojamiento por una noche en un hotel lo más cercano posible a la zona de influencia del evento (la fecha exacta dependerá de la fecha en la que se realice la ponencia/taller) y la reserva de una plaza como ponente de CyberCamp 2020.
+Esta invitación incluirá: el viaje (para una persona) desde la ciudad de origen hasta la ciudad de destino donde se celebre CyberCamp 2021, el alojamiento por una noche en un hotel lo más cercano posible a la zona de influencia del evento (la fecha exacta dependerá de la fecha en la que se realice la ponencia/taller) y la reserva de una plaza como ponente de CyberCamp 2021.
 
-La gestión del viaje y alojamiento serán realizados por la Organización de [CyberCamp 2020](https://cybercamp.es/).
+La gestión del viaje y alojamiento serán realizados por la Organización de [CyberCamp 2021](https://cybercamp.es/).

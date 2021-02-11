@@ -1,4 +1,4 @@
-# Web para la JNIC 2020
+# Web para la JNIC 2021
 
 La URL para probar la web es https://2021.jnic.es/
 
