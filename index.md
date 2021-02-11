@@ -6,14 +6,11 @@ layout: home
 ---
 
 <H2 style="text-align: center; background-color:red; color:white;">INFORMACION</h2>
-<p style="text-align: justify;">Por primera vez la  VI Jornadas Nacionales de Investigación en Ciberseguridad JNIC’2021 se harán de forma online.
+<p style="text-align: justify;">
 </p>
 
 <p style="text-align: center; background-color:red; color:white;"></p>
-<br>
-<br>
-<br>
-Las <b>VI <span style="color:#e3041e">J</span>ornadas <span style="color:#e3041e">N</span>acionales de <span style="color:#e3041e">I</span>nvestigación en <span style="color:#e3041e">C</span>iberseguridad (<span style="color:#e3041e">JNIC</span>)</b> se celebrarán en la [Escuela Superior de Informática]({{site.url}}/sede) de Ciudad Real del __9 al 11 de junio de 2021__. 
+Por primera vez la  <b>VI <span style="color:#e3041e">J</span>ornadas <span style="color:#e3041e">N</span>acionales de <span style="color:#e3041e">I</span>nvestigación en <span style="color:#e3041e">C</span>iberseguridad (<span style="color:#e3041e">JNIC</span>)</b> se celebrarán de forma LIVE. 
 
 El Instituto Nacional de Ciberseguridad ([INCIBE](https://www.incibe.es/)) colabora en la realización de estas Jornadas. INCIBE es la entidad de referencia nacional para el desarrollo de la ciberseguridad y de la confianza digital de ciudadanos, red académica y de investigación, profesionales, empresas y especialmente para sectores estratégicos. Es misión de INCIBE apoyar la I+D+i para generar conocimiento y tecnología que haga frente a las necesidades y retos que plantean las ciberamenazas y ciberataques.   
 
