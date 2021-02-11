@@ -5,9 +5,5 @@
 layout: page
 ---
 __JNIC 2021__  
-__Universidad de Castilla-la Mancha__  
-Escuela Superior de Informática 
-Paseo de la Universidad nº 4  
-13071 Ciudad Real 
 
 <img class="" src="{{ site.url }}/images/Email.jpg">
