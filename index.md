@@ -5,12 +5,11 @@
 layout: home
 ---
 
-<H2 style="text-align: center; background-color:red; color:white;">AVISO </h2>
-<p style="text-align: justify;">JNIC’2021 se posponen
-como consecuencia de la situación generada por la pandemia del coronavirus (SARS-CoV-2), desde la organización de JNIC’2021 se ha decidido aplazar su celebración a junio de 2021.  Las nuevas jornadas JNIC'2021 se celebrarán del 9 al 11 de junio de 2021. Os esperamos en Ciudad Real.
+<H2 style="text-align: center; background-color:red; color:white;">INFORMACION</h2>
+<p style="text-align: justify;">Por primera vez la  VI Jornadas Nacionales de Investigación en Ciberseguridad JNIC’2021 se harán de forma online.
 </p>
 
-<p style="text-align: center; background-color:red; color:white;">Os mantendremos informados. Ánimo para todos en estos momentos.</p>
+<p style="text-align: center; background-color:red; color:white;"></p>
 <br>
 <br>
 <br>
