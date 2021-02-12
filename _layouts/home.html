@@ -6,16 +6,15 @@
 <body class="home-template" itemscope itemtype="http://schema.org/WebPage">
 <header style="margin-top:20px" class="notepad-site-head">
     <div style="text-align: center" class="notepad-site-head-menu">
-        <div class="notepad-blog-logo"><a href="{{ site.url }}">
-            <img style="margin-bottom: 2rem" src="{{ site.url }}/images/{{ site.logo }}" alt="Blog Logo" /></a>
+        <a href="{{ site.url }}"><img style="margin-bottom: 2rem" src="{{ site.url }}/images/{{ site.logo }}" alt="Blog Logo" /></a>
+        <div class="notepad-blog-logo">
             <br>
-          </div>
+            <span style="font-size: 1.0rem;line-height: 1.5;"><b>VI <span style="color:#e3041e">J</span>ornadas <span style="color:#e3041e">N</span>acionales de <span style="color:#e3041e">I</span>nvestigación en <span style="color:#e3041e">C</span>iberseguridad</b>
+            <br>
+            {{ site.date }}</span></div>
         
         <div class="notepad-blog-menu">      
     <div class="notepad-mobile-menu show-for-small">
-        <span style="font-size: 1.0rem;line-height: 1.5;"><b>VI <span style="color:#e3041e">J</span>ornadas <span style="color:#e3041e">N</span>acionales de <span style="color:#e3041e">I</span>nvestigación en <span style="color:#e3041e">C</span>iberseguridad</b>
-        <br>
-        {{ site.date }}</span>
         <a href="#"><i class="fa fa-bars"></i></a>
     </div>
    
