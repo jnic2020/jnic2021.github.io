@@ -6,76 +6,41 @@
 <body class="home-template" itemscope itemtype="http://schema.org/WebPage">
 <header style="margin-top:20px" class="notepad-site-head">
     <div style="text-align: center" class="notepad-site-head-menu">
-        <div class="container">
-            <div class="row">
-                <br>
-                <a href="{{ site.url }}"><img style="margin-bottom: 2rem" src="{{ site.url }}/images/{{ site.logo }}" alt="Blog Logo" /></a>
-                <br>
-                <span style="font-size: 1.3rem;line-height: 1.5;"><b>VI <span style="color:#e3041e">J</span>ornadas <span style="color:#e3041e">N</span>acionales de <span style="color:#e3041e">I</span>nvestigación en <span style="color:#e3041e">C</span>iberseguridad</b>
-                <br>
-                {{ site.date }}</span>
-                <div class="notepad-blog-menu">      
-                    <div class="notepad-mobile-menu show-for-small">
-                        <a href="#"><i class="fa fa-bars"></i></a>
-                    </div>
-                    <ul class="notepad-menu">
-                        <li class="show-for-small"><div align="left"><img src="{{ site.url }}/images/JNICMOVIL.png" class="img-responsive" style="display: block;"></div></li>
-                        <li class="notepad-mobile-close-btn show-for-small text-right">
-                            <a href="#"><i class="fa fa-times"></i></a>
-                        </li>
-                        <li><a href="{{ site.url }}"><i class="fa fa-home"></i></a></li>
-                {% for link in site.links %}
-                            <li>{% if link.external %}
-                            <a href="{{ link.url }}"><b>{{ link.title }}</b></a>
-                            {% else %}
-                            <a href="{{ site.url }}{{ link.url }}"><b>{{ link.title }}</b></a>
-                            {% endif %} </li>
-                {% endfor %}
-                        <li><a href="https://twitter.com/hashtag/jnic2021"><i class="fa fa-twitter-square"></i></a></li>           
-                    </ul>
-                </div>
-                        <div class="clearfix"></div>
-                </div>
-            </div>
-        </div>
+        <div class="notepad-blog-logo"><a href="{{ site.url }}"><img style="margin-bottom: 2rem" src="{{ site.url }}/images/{{ site.logo }}" alt="Blog Logo" /></a><br><span style="font-size: 1.0rem;line-height: 1.5;"><b>VI <span style="color:#e3041e">J</span>ornadas <span style="color:#e3041e">N</span>acionales de <span style="color:#e3041e">I</span>nvestigación en <span style="color:#e3041e">C</span>iberseguridad</b><br>{{ site.date }} - {{ site.location }}</span></div><img id="img_main" src="{{ site.url }}/images/slider_nuevo_1.jpg" style="box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);max-height: 20rem;">
         
+        <div class="notepad-blog-menu">      
+    <div class="notepad-mobile-menu show-for-small">
+        <a href="#"><i class="fa fa-bars"></i></a>
+    </div>
+    <ul class="notepad-menu">
+        <li class="show-for-small"><div align="left"><img src="{{ site.url }}/images/{{ site.logo }}" style="max-height: 100px"></div></li>
+        <li class="notepad-mobile-close-btn show-for-small text-right">
+            <a href="#"><i class="fa fa-times"></i></a>
+        </li>
+        <li><a href="{{ site.url }}"><i class="fa fa-home"></i></a></li>
+{% for link in site.links %}
+            <li>{% if link.external %}
+            <a href="{{ link.url }}"><b>{{ link.title }}</b></a>
+            {% else %}
+            <a href="{{ site.url }}{{ link.url }}"><b>{{ link.title }}</b></a>
+            {% endif %} </li>
+{% endfor %}
+        <li><a href="https://twitter.com/hashtag/jnic2021"><i class="fa fa-twitter-square"></i></a></li>           
+    </ul>
+</div>
+        <div class="clearfix"></div>
+    </div>
 </header>
 
+<div align="center">
+<div class="notepad-content">
 
-
-<div class="wrapper" >
-  <aside class="sidebar" style="background-color: #F5F5F5;box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">{% include sidebar.html %}</aside>
-  <article class="content">
-    {{ content }}
-  </article>
+            {{ content }}
 </div>
-
+</div>
     {% include footer.html %}
 
-<div align="center" style="margin-bottom: 4rem">
-
-<h3><b>Patrocinadores</b></h3>
-
-<div>
-    <a href="http://catedratelefonica.ulpgc.es/" target="_blank"><img style="max-height: 130px; padding:25px;" src="{{site.url}}/images/patrocinadores/LogoCatedraTelefonica.jpg"></a>
-    <a href="https://www.renic.es" target="_blank"><img style="max-height: 130px; padding:25px;" src="{{site.url}}/images/patrocinadores/LogoRENIC.jpg"></a>
-    <a href="https://www.cojali.com/es/" target="_blank"><img style="max-height: 130px; padding:25px;" src="{{site.url}}/images/patrocinadores/GrupoCojali.jpg"></a>
-    <br>
-    <a href="https://avanttic.com/aula-smact/" target="_blank"><img style="max-height: 100px; padding:20px;" src="{{site.url}}/images/patrocinadores/AulaAvanttic.jpg"></a>
-    <a href="http://alpinia.digital/" target="_blank"><img style="max-height: 100px; padding:20px;" src="{{site.url}}/images/patrocinadores/LogoAulaAlpinia.jpg"></a>
-    <a href="https://www.uclm.es/perfiles/empresa/colaboracionmecenazgo/catedrasaulasempresa/catedra_indra" target="_blank"><img style="max-height: 100px; padding:20px;" src="{{site.url}}/images/patrocinadores/LogoCatedraIndra.jpg"></a>
-    <br>
-    <a href="https://esi.uclm.es/" target="_blank"><img style="max-height: 130px; padding:25px;" src="{{site.url}}/images/patrocinadores/LogoESI.jpg"></a>
-    <a href="https://alarcos.esi.uclm.es/itsi/" target="_blank"><img style="max-height: 130px; padding:25px;" src="{{site.url}}/images/patrocinadores/LogoITSI.jpg"></a>
-    <a href="https://www.uclm.es/departamentos/dtsi" target="_blank"><img style="max-height: 130px; padding:25px;" src="{{site.url}}/images/patrocinadores/LogoDTSI.jpg"></a>
-      <br>
-</div>
-
-
-</div>
-
-
-{% include scripts.html %}
+{% include scripts.html %}  
 <script language="JavaScript" type="text/javascript">
  $(document).ready(function(){
 
@@ -98,7 +63,6 @@ var urlArray = [
 '{{ site.url }}/images/slider_nuevo_9.jpg'
 ];
 
-
 preload(urlArray);
 
 var i=0;
@@ -114,13 +78,3 @@ setInterval(function() {var image = $("#img_main");
 </script>
 </body>
 </html>
-
-<!--
-
-"Sed fugit interea, fugit irreparabile tempus" 
-
-Ha sido un honor y un placer. ¡Nos vemos en Ciudad Real!
-
-alopezvivar@fdi.ucm.es
-
--->
