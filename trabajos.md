@@ -28,7 +28,7 @@ El envío de contribuciones se realizará a través de la plataforma EasyChair, 
 Toda participación en las JNIC2021 estará sujeta a la aceptación de las [bases de participación]({{site.url}}/bases).
 Independientemente del tipo de contribución (en investigación y en formación e innovación educativa), los autores se deben comprometer a presentar los trabajos aceptados durante las Jornadas. 
 
-Todas las contribuciones (que podrán ser en español o en inglés) seguirán el estilo __IEEEtrans__ dispuesto para JNIC tanto en formato [Latex]({{site.url}}/assets/jnic2021_trabajos_latex.zip) como en formato [MS WORD]({{site.url}}/assets/jnic1_trabajos_word.zip).
+Todas las contribuciones (que podrán ser en español o en inglés) seguirán el estilo __IEEEtrans__ dispuesto para JNIC tanto en formato [Latex]({{site.url}}/assets/jnic2021_trabajos_latex.zip) como en formato [MS WORD]({{site.url}}/assets/jnic2021_trabajos_word.zip).
 <!--El tamaño del póster debería ser A0 en formato vertical (841 mm ancho x 1189 mm alto).  -->
 <!--
 __Las versiones extendidas de los mejores artículos en investigación en ciberseguridad podrán enviarse a Special Issues de revistas indexadas en el JCR en posiciones relevantes. Los detalles se irán comunicando próximamente.__
