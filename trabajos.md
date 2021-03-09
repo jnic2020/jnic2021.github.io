@@ -13,7 +13,7 @@ Las Jornadas, organizadas de forma conjunta con INCIBE, se centrarán fundamenta
 
 *  Artículos largos (máximo 8 páginas) correspondientes a contribuciones científicas originales, ya consolidadas y contrastadas.
 *  Artículos cortos (máximo 4 páginas) con contribuciones científicas originales en un estado preliminar y/o en desarrollo.
-*  Resúmenes extendidos (máximo 2 páginas) con resultados científicos muy relevantes, y publicados durante el año 2019 y 2021. En este caso, se ha de indicar el título y el congreso o la revista donde fue publicado. 
+*  Resúmenes extendidos (máximo 2 páginas) con resultados científicos muy relevantes, y publicados durante los años 2019, 2020 y 2021. En este caso, se ha de indicar el título y el congreso o la revista donde fue publicado. 
 
 2 - __Formación e innovación educativa en ciberseguridad__. En este caso, se espera un único tipo de contribución como artículo largo (máximo 8 páginas).
 
