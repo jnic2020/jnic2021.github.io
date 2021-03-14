@@ -21,7 +21,7 @@ Las Jornadas, organizadas de forma conjunta con INCIBE, se centrarán fundamenta
  
 Aparte de esto, se considerarán resultados de __TFMs y Tesis Doctorales__ sobre ciberseguridad que deseen presentarse a la “Edición de Premios RENIC de Investigación en Ciberseguridad” que se concederá durante las Jornadas. [Ver bases y fechas](https://www.renic.es/es/convocados-los-premios-de-investigacion-en-ciberseguridad-2021).
 
-__Fecha límite__ de recepción de trabajos:  _15/03/2021 (para tanto a artículos como resúmenes extendidos)_.
+__Fecha límite__ de recepción de trabajos:  _28/03/2021 (para tanto a artículos como resúmenes extendidos)_.
 
 El envío de contribuciones se realizará a través de la plataforma EasyChair, mediante este [enlace](https://easychair.org/conferences/?conf=jnic2021).
 
