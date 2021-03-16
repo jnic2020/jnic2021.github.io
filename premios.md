@@ -51,6 +51,7 @@ Por su parte, JNIC también premia a las mejores propuestas de retos y a los gru
 	
 
 * __Programa de Transferencia JNIC2019/20. Premio a la mejor solución del certamen__   
+
 <!--	
 	<div class="text-center">
 	<img style="max-height: 200px; padding:50px;" src="{{site.url}}/images/cybercamp.png">
