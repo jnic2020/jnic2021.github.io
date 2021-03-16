@@ -51,7 +51,7 @@ Por su parte, JNIC también premia a las mejores propuestas de retos y a los gru
 	
 
 * __Programa de Transferencia JNIC2019/20. Premio a la mejor solución del certamen__   
-	
+<!--	
 	<div class="text-center">
 	<img style="max-height: 200px; padding:50px;" src="{{site.url}}/images/cybercamp.png">
 	</div>
@@ -61,3 +61,4 @@ Además, [INCIBE](https://www.incibe.es/) podrá seleccionar de entre los trabaj
 Esta invitación incluirá: el viaje (para una persona) desde la ciudad de origen hasta la ciudad de destino donde se celebre CyberCamp 2021, el alojamiento por una noche en un hotel lo más cercano posible a la zona de influencia del evento (la fecha exacta dependerá de la fecha en la que se realice la ponencia/taller) y la reserva de una plaza como ponente de CyberCamp 2021.
 
 La gestión del viaje y alojamiento serán realizados por la Organización de [CyberCamp 2021](https://cybercamp.es/).
+-->
