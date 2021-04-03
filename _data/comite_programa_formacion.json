@@ -37,10 +37,6 @@
 				"name" : [{"n":"Xavier", "a":"Larriva", "a_sort": "Larriva"}],
 				"organization": "Universidad Politécnica de Madrid"
 			},
-			// {
-			// 	"name" : [{"n":"Victor", "a":"Villagrá González", "a_sort": "Villagrá González"}],
-			// 	"organization": "Universidad Politécnica de Madrid"
-			// },
 			{
 				"name" : [{"n":"Ana Lucila", "a":"Sandoval Orozco", "a_sort": "Sandoval Orozco"}],
 				"organization": "Universidad Complutense de Madrid"
