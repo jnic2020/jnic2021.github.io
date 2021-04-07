@@ -15,12 +15,18 @@
 		"titulo":"Inscripción temprana a las jornadas",
 		"contenido":"4/05/2021 al 14/05/2021",
 		"fecha_ref":"4",
-		"activada": true
+		"activada": false
 	},
 	{
 		"titulo":"Inscripción ordinaria a las jornadas",
 		"contenido":"15/05/2021",
 		"fecha_ref":"5",
+		"activada": false
+	},
+	{
+		"titulo":"Inscripción a las jornadas",
+		"contenido":"4/05/2021",
+		"fecha_ref":"4",
 		"activada": true
 	},
 	{
