@@ -34,4 +34,4 @@ Todas las contribuciones (que podrán ser en español o en inglés) seguirán el
 __Las versiones extendidas de los mejores artículos en investigación en ciberseguridad podrán enviarse a Special Issues de revistas indexadas en el JCR en posiciones relevantes. Los detalles se irán comunicando próximamente.__
 -->
 
-__Las versiones extendidas de los mejores artículos podrán enviarse a Special Issues de revistas indexadas en el JCR en posiciones relevantes tales como [Applied Sciences MDPI](https://www.mdpi.com/journal/applsci/special_issues/Cybersecurity_Opportunities) (Q2) y otras que se irán comunicando próximamente.__
+__Las versiones extendidas de los mejores artículos podrán enviarse a Special Issues de revistas indexadas en el JCR en posiciones relevantes tales como [Applied Sciences MDPI](https://www.mdpi.com/journal/applsci/special_issues/Cybersecurity_Opportunities) (Q2) y [electronics MDPI](https://www.mdpi.com/journal/electronics/special_issues/Cybersecurity_defense) (Q2).__
