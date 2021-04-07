@@ -3,12 +3,12 @@
 		"titulo":"Recepción de trabajos",
 		"contenido":"EXTENDIDO al 28/03/2021",
 		"fecha_ref":"1",
-		"activada": true
+		"activada": false
 	},
 	{
 		"titulo":"Notificación a los autores",
 		"contenido":"03/05/2021",
-		"fecha_ref":"3",
+		"fecha_ref":"2",
 		"activada": true
 	},
 	{
@@ -20,7 +20,7 @@
 	{
 		"titulo":"Envío de trabajos definitivos",
 		"contenido":"14/05/2021",
-		"fecha_ref":"2",
+		"fecha_ref":"3",
 		"activada": true
 	},
 	{
