@@ -11,6 +11,7 @@ layout: page
 <br><br>
 
 <p>Para inscribirte visita  <a href="http://eventos.uclm.es/go/jnic2021">http://eventos.uclm.es/go/jnic2021</a> y rellena el formulario que se encuentra al pulsar el botón <a href="https://eventos.uclm.es/event_detail/48324/tickets.html">INSCRIBIRSE</a> </p>
+<p>O puedes ir directamente al <a href="https://eventos.uclm.es/event_detail/48324/tickets.html">Formulario de Inscripción</a></p>
 
 <p>Es obligatorio que, al menos, un autor de cada contribución aceptada se inscriba en las JNIC para que el trabajo sea incluido en las actas. </p>
 <br><br>
