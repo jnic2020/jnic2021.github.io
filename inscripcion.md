@@ -5,6 +5,7 @@
 layout: page
 ---
 <h5 style="color:white; background-color: #550000;" class="text-center"><i class="far fa-clock mr-3"></i> <b> Abierto el plazo de inscripción a las jornadas. </b></h5>
+<br/>
 
 <p>Para inscribirte visita  <a href="http://eventos.uclm.es/go/jnic2021">http://eventos.uclm.es/go/jnic2021</a> y rellena el formulario que se encuentra al pulsar el botón <a href="https://eventos.uclm.es/event_detail/48324/tickets.html">INSCRIBIRSE</a> </p>
 <p>O puedes ir directamente al <a href="https://eventos.uclm.es/event_detail/48324/tickets.html">Formulario de Inscripción</a></p>
