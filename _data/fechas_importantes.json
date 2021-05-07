@@ -9,7 +9,7 @@
 		"titulo":"Notificación a los autores",
 		"contenido":"03/05/2021",
 		"fecha_ref":"2",
-		"activada": true
+		"activada": false
 	},
 	{
 		"titulo":"Inscripción a las jornadas",
