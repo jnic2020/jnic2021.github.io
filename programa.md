@@ -16,8 +16,102 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
 ### __Programa JNIC 2021__
 
 <br>
-<h5 style="color:white; background-color: #550000;" class="text-center"><i class="far fa-clock mr-3"></i> <b>Contenido del programa proximamente...</b></h5>
- <br>
+<!-- <h5 style="color:white; background-color: #550000;" class="text-center"><i class="far fa-clock mr-3"></i> <b>Contenido del programa proximamente...</b></h5>
+ <br> -->
+<h4>Miércoles 9 de Junio</h4>
+<table class="table" style="width:100%">
+  <tbody valign="top">
+    <tr>
+      <th>Hora</th>
+      <th>Sesión</th>
+    </tr>
+    <tr>
+      <td>9:30-10:00</td>
+      <td><center><b>Apertura</b></center></td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>10:00-10:45</td>
+      <td><center><b>Charla Invitada</b></center></td>
+    </tr>
+    <tr>
+      <td>11:00-12:30</td>
+      <td><b>Sesión de Investigación A1:</b> Detección de Intrusos y Gestión Anomalías</td>
+      <td><b>Sesión de Investigación B1:</b> IA y Ciberseguridad</td>
+    </tr>
+    <tr>
+      <td>12:30-14:00</td>
+      <td><b>Sesión de Investigación A2:</b> Detección de Intrusos y Gestión Anomalías</td>
+      <td><b>Sesión de Investigación B2:</b> Gobierno y Gestión de Riesgos </td>
+    </tr>
+    <tr>
+      <td>14:00-15:00</td>
+      <td><b>Sesión de Investigación A3:</b> Ciberataques e Inteligencia de Amenazas</td>
+      <td><b>Sesión de Investigación B3:</b> Tecnologías Emergentes y Entrenamiento</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td><center>DESCANSO</center></td>
+    </tr>
+    <tr>
+      <td>16:30-17:15</td>
+      <td><center><b>Sesión de Transferencia Tecnológica</b></center></td>
+    </tr>
+    <tr>
+      <td>17:15-18:00</td>
+      <td><center><b>Charla Invitada</b></center></td>
+    </tr>
+    <tr>
+      <td>18:00-19:30</td>
+      <td><center><b>Mesa Redonda</b></center></td>
+    </tr>
+  </tbody>
+</table>
+
+<h4>Jueves 10 de Junio</h4>
+<table class="table" style="width:100%">
+  <tbody valign="top">
+    <tr>
+      <th>Hora</th>
+      <th>Sesión</th>
+    </tr>
+    <tr>
+      <td>9:30-10:15</td>
+      <td><center><b>Charla Invitada</b></center></td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>10:15-11:45</td>
+      <td><center><b>Sesión de Formación e Innovación Educativa</b></center></td>
+    </tr>
+    <tr>
+      <td>11:45-13:15</td>
+      <td><b>Sesión de Investigación A4:</b> Análisis Forense y Cibercrimen </td>
+      <td><b>Sesión de Investigación B4:</b> Criptografía</td>
+    </tr>
+    <tr>
+      <td>13:15-14:45</td>
+      <td><b>Sesión de Investigación A5:</b> Ciberseguridad Industrial y aplicaciones</td>
+      <td><b>Sesión de Investigación B5:</b> Privacidad </td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td><center>DESCANSO</center></td>
+    </tr>
+    <tr>
+      <td>16:30-18:00</td>
+      <td><center><b>Mesa Redonda</b></center></td>
+    </tr>
+    <tr>
+      <td>18:00-18:45</td>
+      <td><center><b>Premios RENIC</b></center></td>
+    </tr>
+    <tr>
+      <td>18:00-19:30</td>
+      <td><center><b>Clausura</b></center></td>
+    </tr>
+  </tbody>
+</table>
 
 <!--
 <h4>Martes 4 de Junio</h4>
