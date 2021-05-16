@@ -28,7 +28,6 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
     <tr>
       <td>9:30-10:00</td>
       <td colspan="2"><center><b>Apertura</b></center></td>
-      <td>&nbsp;</td>
     </tr>
     <tr>
       <td>10:00-10:45</td>
