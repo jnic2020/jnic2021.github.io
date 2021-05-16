@@ -27,12 +27,12 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
     </tr>
     <tr>
       <td>9:30-10:00</td>
-      <td><center><b>Apertura</b></center></td>
+      <td colspan="2"><center><b>Apertura</b></center></td>
       <td>&nbsp;</td>
     </tr>
     <tr>
       <td>10:00-10:45</td>
-      <td><center><b>Charla Invitada</b></center></td>
+      <td colspan="2"><center><b>Charla Invitada</b></center></td>
     </tr>
     <tr>
       <td>11:00-12:30</td>
@@ -51,19 +51,19 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td><center>DESCANSO</center></td>
+      <td colspan="2"><center>DESCANSO</center></td>
     </tr>
     <tr>
       <td>16:30-17:15</td>
-      <td><center><b>Sesión de Transferencia Tecnológica</b></center></td>
+      <td colspan="2"><center><b>Sesión de Transferencia Tecnológica</b></center></td>
     </tr>
     <tr>
       <td>17:15-18:00</td>
-      <td><center><b>Charla Invitada</b></center></td>
+      <td colspan="2"><center><b>Charla Invitada</b></center></td>
     </tr>
     <tr>
       <td>18:00-19:30</td>
-      <td><center><b>Mesa Redonda</b></center></td>
+      <td colspan="2"><center><b>Mesa Redonda</b></center></td>
     </tr>
   </tbody>
 </table>
@@ -77,12 +77,11 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
     </tr>
     <tr>
       <td>9:30-10:15</td>
-      <td><center><b>Charla Invitada</b></center></td>
-      <td>&nbsp;</td>
+      <td colspan="2"><center><b>Charla Invitada</b></center></td>
     </tr>
     <tr>
       <td>10:15-11:45</td>
-      <td><center><b>Sesión de Formación e Innovación Educativa</b></center></td>
+      <td colspan="2"><center><b>Sesión de Formación e Innovación Educativa</b></center></td>
     </tr>
     <tr>
       <td>11:45-13:15</td>
@@ -96,19 +95,19 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td><center>DESCANSO</center></td>
+      <td colspan="2"><center>DESCANSO</center></td>
     </tr>
     <tr>
       <td>16:30-18:00</td>
-      <td><center><b>Mesa Redonda</b></center></td>
+      <td colspan="2"><center><b>Mesa Redonda</b></center></td>
     </tr>
     <tr>
       <td>18:00-18:45</td>
-      <td><center><b>Premios RENIC</b></center></td>
+      <td colspan="2"><center><b>Premios RENIC</b></center></td>
     </tr>
     <tr>
       <td>18:00-19:30</td>
-      <td><center><b>Clausura</b></center></td>
+      <td colspan="2"><center><b>Clausura</b></center></td>
     </tr>
   </tbody>
 </table>
