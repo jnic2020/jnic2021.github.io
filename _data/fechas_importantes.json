@@ -21,7 +21,7 @@
 		"titulo":"Envío de trabajos definitivos",
 		"contenido":"14/05/2021",
 		"fecha_ref":"3",
-		"activada": true
+		"activada": false
 	},
 	{
 		"titulo":"Celebración de las Jornadas",
