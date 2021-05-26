@@ -23,8 +23,8 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
 <table class="table" style="width:100%">
   <tbody valign="top">
     <tr>
-      <th><p><b>Hora</b></p></th>
-      <th colspan="2"><p><b>Sesión</b></p></th>
+      <th>Hora</th>
+      <th colspan="2">Sesión</th>
     </tr>
     <tr>
       <td>9:30</td>
