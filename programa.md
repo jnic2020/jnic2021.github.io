@@ -90,7 +90,7 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
           <li>Cecilio Angulo Bahon. UPC, Representante PLANETIC</li>
           <li>Susana Asensio. Centro de Ciberseguridad Industrial (CCI)</li>
           <li>Representante RENIC</li>
-        <ul>
+        </ul>
       </td>
     </tr>
   </tbody>
