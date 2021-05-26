@@ -68,7 +68,11 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
     </tr>
     <tr>
       <td>17:15</td>
-      <td colspan="2"><center><b>Conferencia invitada: </b>Soledad Antelada Toledano</center></td>
+      <td colspan="2">
+        <b>Conferencia invitada: </b>Soledad Antelada Toledano
+        <br>
+        <i>Cybersecurity Operations and Research from Lawrence Berkeley National Lab, United States Department of Energy</i>
+      </td>
     </tr>
     <tr>
       <td>18:00</td>
