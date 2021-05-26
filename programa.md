@@ -79,10 +79,11 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
       <td colspan="2">
         <b>Mesa Redonda</b>
         <br>
-        Colaboración en I+D+i nacional de Ciberseguridad: Grupo Interplataformas y Sector empresarial innovador 
+        <i>Colaboración en I+D+i nacional de Ciberseguridad: Grupo Interplataformas y Sector empresarial innovador </i>
         <br>
         Modera: Javier Larrañeta. Secretario General de PESI
-        Participantes:
+        <br>
+        <p>Participantes:
         <ul>
           <li>Representante INCIBE </li>
           <li>Sr. D. Tomás Castro. Presidente AEI Ciberseguridad y CONETIC</li>
@@ -91,6 +92,7 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
           <li>Sr. D. Susana Asensio. Centro de Ciberseguridad Industrial (CCI)</li>
           <li>Representante RENIC</li>
         </ul>
+        </p>
       </td>
     </tr>
   </tbody>
