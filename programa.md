@@ -448,7 +448,7 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
     </tr>
     <tr>
       <td>13:34</td>
-      <td valign="top" >Un resumen de "Un modelo de evaluación de la calidad de los datos y su aplicación a las fuentes de datos de ciberseguridad"<br>
+      <td valign="top" >Un resumen de "Un modelo de evaluación de la calidad de los datos y su aplicación a las fuentes de datos de ciberseguridad"
       <br><em>Enrique Pinto, Noemí DeCastro-García</em></td>
     </tr>
   </tbody>
