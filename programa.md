@@ -55,12 +55,12 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
     <tr>
       <td>12:30</td>
       <td><a href="#A2"><b>Sesión de Investigación A2:</b> Detección de Intrusos y Gestión Anomalías</a></td>
-      <td><b>Sesión de Investigación B2:</b> Gobierno y Gestión de Riesgos </td>
+      <td><a href="#B2"><b>Sesión de Investigación B2:</b> Gobierno y Gestión de Riesgos </a></td>
     </tr>
     <tr>
       <td>14:00</td>
       <td><a href="#A3"><b>Sesión de Investigación A3:</b> Ciberataques e Inteligencia de Amenazas</a></td>
-      <td><b>Sesión de Investigación B3:</b> Tecnologías Emergentes y Entrenamiento</td>
+      <td><a href="#B3"><b>Sesión de Investigación B3:</b> Tecnologías Emergentes y Entrenamiento</a></td>
     </tr>
     <tr>
       <td>&nbsp;</td>
@@ -184,10 +184,13 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
   </tbody>
 </table>
 
+<a href="#miercoles">Subir</a>
+<br>
+
 <a id="A1"></a>
 <h4>Sesión de Investigación A1: Detección de intrusiones y gestión de anomalías I</h4>
 <p>Presidente de Sesión: <i>Pedro García Teodoro (Universidad de Granada)</i>
-<br>Miércoles 9, 11:00-12:30
+<br>Miércoles 9 de junio, 11:00-12:30
 </p>
 <table class="table" style="width:100%">
   <tbody valign="top">
@@ -268,7 +271,7 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
 <a id="A2"></a>
 <h4>Sesión de Investigación A2: Detección de intrusiones y gestión de anomalías II </h4>
 <p>Presidente de Sesión: <i>Félix Gómez Mármol (Universidad de Murcia)</i>
-<br> Miércoles 9, 12:30-14:00
+<br> Miércoles 9 de junio, 12:30-14:00
 </p>
 <table class="table" style="width:100%">
   <tbody valign="top">
@@ -358,6 +361,137 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
       <td>14:38</td>
       <td valign="top" >A review of Leveraging Cyber Threat Intelligence for a Dynamic Risk Framework
       <br><em>Raúl Riesco Granadino, Victor A. Villagrá</em></td>
+    </tr>
+  </tbody>
+</table> 
+
+<a href="#miercoles">Subir</a>
+<br>
+
+<a id="B1"></a>
+<h4>Sesión de Investigación B1: Inteligencia Artificial en ciberseguridad </h4>
+<p>Presidente de Sesión: <i>Ana Ayerbe Fernández-Cuesta (Tecnalia)</i>
+<br>Miércoles 9 de junio, 11:00-12:30
+</p>
+<table class="table" style="width:100%">
+  <tbody valign="top">
+    <tr>
+      <th>Hora</th>
+      <th>Ponencia</th>
+    </tr>
+    <tr>
+      <td>11:00</td>
+      <td valign="top" >Estado del arte en generación y detección de contenido sintético. Limitaciones y oportunidades
+      <br><em>Miguel Hernández Boza, José Ignacio Escribano Pablos</em></td>
+    </tr>
+    <tr>
+      <td>11:20</td>
+      <td valign="top" >A review of: Effect of the Sampling of a Dataset in the Hyperparameter Optimization Phase over the <em>Efficiency of a Machine Learning Algorithm</em>
+      <br><em>David Escudero García, Noemí De Castro-García, Ángel Luis Muñoz Castañeda, Miguel V. Carriegos</em></td>
+    </tr>
+    <tr>
+      <td>11:27</td>
+      <td valign="top" >HOUSE: Marco de trabajo modular de arquitectura escalable y desacoplada para el uso de técnicas de fuzzing en HPC
+      <br><em>Francisco Borja Garnelo Del Rio, Francisco J. Rodríguez Lera, Gonzalo Esteban Costales, Camino Fernández Llamas, Vicente Matellán Olivera</em></td>
+    </tr>
+    <tr>
+      <td>11:47</td>
+      <td valign="top" >Reducción de dimensionalidad sin pérdida en representaciones semánticas de texto
+      <br><em>Iñaki Velez de Mendizabal, Enaitz Ezpeleta, Urko Zurutuza</em></td>
+    </tr>
+    <tr>
+      <td>11:54</td>
+      <td valign="top" >Entrenamiento optimizado de redes neuronales para reconocimiento biométrico
+      <br><em>Gonzalo García Miranda, Alberto Calvo García, Alvarez-Aparicio Claudia, Ángel Manuel Guerrero-Higueras, Francisco J Rodríguez Lera, Camino Fernández Llamas</em></td>
+    </tr>
+  </tbody>
+</table> 
+
+<a href="#miercoles">Subir</a>
+<br>
+
+<a id="B2"></a>
+<h4>Sesión de Investigación B2: Gobernanza y gestión de riesgos </h4>
+<p>Presidente de Sesión: <i>José María de Fuentes García-Romero de Tejada (Universidad Carlos III de Madrid)</i>
+<br> Miércoles 9 de junio, 12:30-14:00
+</p>
+<table class="table" style="width:100%">
+  <tbody valign="top">
+    <tr>
+      <th>Hora</th>
+      <th>Ponencia</th>
+    </tr>
+    <tr>
+      <td>12:30</td>
+      <td valign="top" >Verificación remota de controles de seguridad en contextos de seguridad adaptativa
+      <br><em>Miguel Calvo, Marta Beltrán</em></td>
+    </tr>
+    <tr>
+      <td>12:50</td>
+      <td valign="top" >MARISMA-BiDa Pattern: Integrated Risk Analysis for Big Data
+      <br><em>David G. Rosado, Julio Moreno, Luis Enrique Sanchez Crespo, Antonio Santos-Olmo, Manuel Serrano, Eduardo Fernandez-Medina</em></td>
+    </tr>
+    <tr>
+      <td>12:57</td>
+      <td valign="top" >Análisis de la Normativa sobre Seguridad de Redes y Sistemas de Información: el Real Decreto 43/2021
+      <br><em>Margarita Robles</em></td>
+    </tr>
+    <tr>
+      <td>13:17</td>
+      <td valign="top" >Automatic Verification and Diagnosis of Security Risk Assessments in Business Process Models
+      <br><em>Angel Jesús Varela-Vaca, Rafael M. Gasca, Luisa Parody, María Teresa Gómez-López</em></td>
+    </tr>
+    <tr>
+      <td>13:24</td>
+      <td valign="top" >Enforcing cloud security controls
+      <br><em>Javier Jerónimo Suárez, Jorge López Hernández-Ardieta</em></td>
+    </tr>
+    <tr>
+      <td>13:34</td>
+      <td valign="top" >Un resumen de "Un modelo de evaluación de la calidad de los datos y su aplicación a las fuentes de datos de ciberseguridad"<br>
+      <br><em>Enrique Pinto, Noemí DeCastro-García</em></td>
+    </tr>
+  </tbody>
+</table> 
+
+<a href="#miercoles">Subir</a>
+<br>
+
+<a id="B3"></a>
+<h4>Sesión de Investigación B3: Tecnologías emergentes y entrenamiento en ciberseguridad</h4>
+<p>Presidente de Sesión:<i>Luis E. Sánchez Crespo (Universidad de Castilla-La Mancha)</i>
+<br> Miércoles 9 de junio, 14:00-15:00 
+</p>
+<table class="table" style="width:100%">
+  <tbody valign="top">
+    <tr>
+      <th>Hora</th>
+      <th>Ponencia</th>
+    </tr>
+    <tr>
+      <td>14:00</td>
+      <td valign="top" >IoT-as-a-Service: definición y retos tecnológicos
+      <br><em>Santiago de Diego de Diego, Gabriel Maciá-Fernández, Cristina Regueiro Senderos</em></td>
+    </tr>
+    <tr>
+      <td>14:10</td>
+      <td valign="top" >Análisis de Seguridad y Privacidad en dispositivos de la Internet de las Cosas usados por jóvenes
+      <br><em>Sonia Solera-Cotanilla, Mario Vega-Barbas, Manuel Álvarez-Campana, Cayetano Valero, Jaime Fúster, Gregorio López</em></td>
+    </tr>
+    <tr>
+      <td>14:20</td>
+      <td valign="top" >Un resumen de: “Security information sharing in smart grids: Persisting security audits to the blockchain”
+      <br><em>Sergio Chica Manjarrez, Andrés Marín López, David Arroyo, Florina Almenares Mendoza, Daniel Díaz Sánchez</em></td>
+    </tr>
+    <tr>
+      <td>14:27</td>
+      <td valign="top" >COBRA: Cibermaniobras adaptativas y personalizables de simulación hiperrealista de APTs y entrenamiento en ciberdefensa usando gamificación
+      <br><em>Félix Gómez Mármol, José Antonio Ruipérez Valiente, Pantaleone Nespoli, Gregorio Martinez Perez, Diego Rivera Pinto, Xavier Larriva Novo, Manuel Álvarez-Campana, Víctor Villagrá González, Jorge Maestre Vidal, Francisco Antonio Rodriguez López, Miguel Páramo Castrillo, Javier Ignacio Rojo Lacal, Ramón García-Abril Alonso.</em></td>
+    </tr>
+    <tr>
+      <td>14:37</td>
+      <td valign="top" >Exploring the Affordances of Multimodal Data to Improve Cybersecurity Training with Cyber Range Environments
+      <br><em>Mariano Albaladejo-Gonzalez, Sofia Strukova, José A. Ruipérez-Valiente, Félix Gómez Mármol</em></td>
     </tr>
   </tbody>
 </table> 
