@@ -128,7 +128,7 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
     </tr>
     <tr>
       <td>10:15</td>
-      <td colspan="2"><b>Sesión de Formación e Innovación Educativa</b></td>
+      <td colspan="2"><a hre="#formacion"><b>Sesión de Formación e Innovación Educativa</b></a></td>
     </tr>
     <tr>
       <td>11:45</td>
@@ -506,6 +506,48 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
 </table> 
 
 <a href="#miercoles">Subir</a>
+<br>
+
+<a id="formacion"></a>
+<h4>Sesión de Formación e Innovación Educativa</h4>
+<p>Presidente de Sesión: <i>Noemí de Castro García (Universidad de León)</i>
+<br>Jueves 10 de junio, 10:15-11:45
+</p>
+<table class="table" style="width:100%">
+  <tbody valign="top">
+    <tr>
+      <th>Hora</th>
+      <th>Ponencia</th>
+    </tr>
+    <tr>
+      <td>10:15</td>
+      <td valign="top" >Guía de resolución de pruebas CTF para adquirir habilidades de seguridad informática y análisis forense
+      <br><em>José Carlos Sancho Núñez, Delia Mª Pablo Rodríguez, Andrés Caro Lindo</em></td>
+    </tr>
+    <tr>
+      <td>10:30</td>
+      <td valign="top" >Selección de competencias en ciberseguridad para la formación en la industria de Defensa
+      <br><em>Rafael Estepa, José María de Fuentes, Lorena González-Manzano, Antonio Estepa, Jaime Domínguez, Daniel Segovia-Vargas</em></td>
+    </tr>
+    <tr>
+      <td>10:45</td>
+      <td valign="top" >Mapa Funcional de competencias en seguridad para el personal no TI de las universidades españolas
+      <br><em>Josu Mendivil, Miren Gutierrez, Borja Sanz</em></td>
+    </tr>
+    <tr>
+      <td>11:00</td>
+      <td valign="top" >Análisis de componentes principales (ACP), una aproximación basada en proyectos
+      <br><em>Diego Asterio de Zaballa, Miguel Carriegos</em></td>
+    </tr>
+    <tr>
+      <td>11:15</td>
+      <td valign="top" >Curso de Especialización en Ciberseguridad, ¿están preparados nuestros docentes?
+      <br><em>Francisco José de Haro Olmo, Ángel Jesús Varela Vaca, José Antonio Álvarez Bermejo</em></td>
+    </tr>
+  </tbody>
+</table> 
+
+<a href="#jueves">Subir</a>
 <br>
 
 <!--
