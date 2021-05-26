@@ -18,6 +18,7 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
 <br>
 <!-- <h5 style="color:white; background-color: #550000;" class="text-center"><i class="far fa-clock mr-3"></i> <b>Contenido del programa proximamente...</b></h5>
  <br> -->
+<a id="inicio"></a>
 <h4>Miércoles 9 de Junio</h4>
 <table class="table" style="width:100%">
   <tbody valign="top">
@@ -40,7 +41,7 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
     </tr>
     <tr>
       <td>10:00</td>
-      <td colspan="2"><center><b>Conferencia invitada: </b>Ramsés Gallego</center></td>
+      <td colspan="2"><b>Conferencia invitada: </b>Ramsés Gallego</td>
     </tr>
     <tr>
       <td>11:00</td>
