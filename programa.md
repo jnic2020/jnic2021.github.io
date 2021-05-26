@@ -8,6 +8,7 @@ layout: page
 __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/actividades-sociales) / [Premios JNIC 2021]({{site.url}}/premios) / [Track de transferencia]({{site.url}}/track-transferencia)
 -->
 <div class="text-center">
+<a id="inicio"></a>
 <a href="{{site.url}}/programa"><img src="{{site.url}}/images/IcoPrograma.jpg" class="img-circle" 	width="40" height="40"><strong>Programa</strong></a> &nbsp;&nbsp;&nbsp;
 <a href="{{site.url}}/premios"><img src="{{site.url}}/images/IcoPremios.jpg" class="img-circle" 	width="40" height="40"><strong>Premios</strong></a>&nbsp;&nbsp;&nbsp;
 <a href="{{site.url}}/track-transferencia" class=""><img src="{{site.url}}/images/IcoTrackTX.jpg" class="img-circle" 	width="40" height="40"><strong>Track de Transferencia</strong></a>
@@ -18,7 +19,6 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
 <br>
 <!-- <h5 style="color:white; background-color: #550000;" class="text-center"><i class="far fa-clock mr-3"></i> <b>Contenido del programa proximamente...</b></h5>
  <br> -->
-<a id="miercoles"></a>
 <h4>Miércoles 9 de Junio</h4>
 <table class="table" style="width:100%">
   <tbody valign="top">
@@ -193,7 +193,7 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
   </tbody>
 </table>
 
-<a href="#miercoles">Subir</a>
+<a href="#inicio">Subir</a>
 <br>
 
 <a id="A1"></a>
@@ -274,7 +274,7 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
   </tbody>
 </table> 
 
-<a href="#miercoles">Subir</a>
+<a href="#inicio">Subir</a>
 <br>
 
 <a id="A2"></a>
@@ -327,7 +327,7 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
   </tbody>
 </table> 
 
-<a href="#miercoles">Subir</a>
+<a href="#inicio">Subir</a>
 <br>
 
 <a id="A3"></a>
@@ -374,7 +374,7 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
   </tbody>
 </table> 
 
-<a href="#miercoles">Subir</a>
+<a href="#inicio">Subir</a>
 <br>
 
 <a id="B1"></a>
@@ -416,7 +416,7 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
   </tbody>
 </table> 
 
-<a href="#miercoles">Subir</a>
+<a href="#inicio">Subir</a>
 <br>
 
 <a id="B2"></a>
@@ -463,7 +463,7 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
   </tbody>
 </table> 
 
-<a href="#miercoles">Subir</a>
+<a href="#inicio">Subir</a>
 <br>
 
 <a id="B3"></a>
@@ -505,7 +505,7 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
   </tbody>
 </table> 
 
-<a href="#miercoles">Subir</a>
+<a href="#inicio">Subir</a>
 <br>
 
 <a id="formacion"></a>
@@ -547,7 +547,7 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
   </tbody>
 </table> 
 
-<a href="#jueves">Subir</a>
+<a href="#inicio">Subir</a>
 <br>
 
 <!--
