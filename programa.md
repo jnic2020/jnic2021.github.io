@@ -131,13 +131,13 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
     </tr>
     <tr>
       <td>11:45</td>
-      <td><b>Sesión de Investigación A4:</b> Análisis Forense y Cibercrimen </td>
-      <td><b>Sesión de Investigación B4:</b> Criptografía</td>
+      <td><a href="#A4"><b>Sesión de Investigación A4:</b> Análisis Forense y Cibercrimen </a></td>
+      <td><a href="#B4"><b>Sesión de Investigación B4:</b> Criptografía</a></td>
     </tr>
     <tr>
       <td>13:15</td>
-      <td><b>Sesión de Investigación A5:</b> Ciberseguridad Industrial y aplicaciones</td>
-      <td><b>Sesión de Investigación B5:</b> Privacidad </td>
+      <td><a href="#A5"><b>Sesión de Investigación A5:</b> Ciberseguridad Industrial y aplicaciones</a></td>
+      <td><a href="#B5"><b>Sesión de Investigación B5:</b> Privacidad </a></td>
     </tr>
     <tr>
       <td>&nbsp;</td>
@@ -599,6 +599,58 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
       <td>12:50</td>
       <td valign="top" >A Review of “Bringing Order to Approximate Matching: Classification and Attacks on Similarity Digest Algorithms”
       <br><em>Miguel Martín-Pérez, Ricardo J. Rodríguez, Frank Breitinger</em></td>
+    </tr>
+  </tbody>
+</table> 
+
+<a href="#inicio">Subir</a>
+<br>
+
+<a id="A5"></a>
+<h4>Sesión de Investigación A5: Ciberseguridad industrial y aplicaciones </h4>
+<p>Presidente de Sesión: <i>Urko Zurutuza Ortega (Mondragon Unibertsitatea)</i>
+<br>Jueves 10 de junio, 13:15-14:45
+</p>
+<table class="table" style="width:100%">
+  <tbody valign="top">
+    <tr>
+      <th>Hora</th>
+      <th>Ponencia</th>
+    </tr>
+    <tr>
+      <td>13:15</td>
+      <td valign="top" >Diseño de un IDS basado en anomalías para IoT: caso de estudio en SmartCities
+      <br><em>Rafael Estepa, Antonio Estepa, Jesús Díaz-Verdejo, Agustín W. Lara, Germán Madinabeitia, José A. Morales Sánchez</em></td>
+    </tr>
+    <tr>
+      <td>13:25</td>
+      <td valign="top" >A Review of MADICS: A Methodology for Anomaly Detection in Industrial Control Systems
+      <br><em>Angel Luis Perales Gómez, Lorenzo Fernandez Maimó, Alberto Huertas Celdrán, Félix J. García Clemente</em></td>
+    </tr>
+    <tr>
+      <td>13:32</td>
+      <td valign="top" >CloudWall: A Cloud-enabled Resiliency Framework for HealthCare IT Infrastructures
+      <br><em>Ivan Marsa-Maestre, Jose Manuel Gimenez-Guzman, Luis Cruz-Piris, Susel Fernandez-Melian, Jose-Javier Martínez-Herraiz, Bernardo Alarcos, Iván Blanco-Chacón</em></td>
+    </tr>
+    <tr>
+      <td>13:42</td>
+      <td valign="top" >Towards decentralized and scalable architectures for Access Control Systems in IIoT environments
+      <br><em>Santiago Figueroa-Lorenzo, Saioa Arrizabalaga, Javier Añorga</em></td>
+    </tr>
+    <tr>
+      <td>13:49</td>
+      <td valign="top" >Protocolo de comunicación entre vehículos basado en el número de bastidor digital
+      <br><em>Pablo Escapa, Adriana Suarez Corona</em></td>
+    </tr>
+    <tr>
+      <td>13:59</td>
+      <td valign="top" >Classifying Screenshots of Industrial Control System Using Transfer Learning and Fine-Tuning
+      <br><em>Roberto A. Vasco-Carofilis, Pablo Blanco-Medina, Franciso Jáñez-Martino, Guru Swaroop Bennabhaktula, Eduardo Fidalgo, Alejandro Prieto Castro, Víctor Fidalgo</em></td>
+    </tr>
+    <tr>
+      <td>14:06</td>
+      <td valign="top" >Retos de ciberseguridad en automoción. Encriptando el bus CAN
+      <br><em>Estibaliz Amparan Calonge Alejandra Ruiz</em></td>
     </tr>
   </tbody>
 </table> 
