@@ -115,14 +115,16 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
     <tr>
       <td>9:30</td>
       <td colspan="2">
-        <b>Conferencia invitada: </b>Mónica Mateos Calle
+        <b>Conferencia invitada: </b>
+        <br>
+        Mónica Mateos Calle
         <br>
         <i>I+D+i (en el ámbito del ciberespacio) dentro del Ministerio de Defensa</i>
       </td>
     </tr>
     <tr>
       <td>10:15</td>
-      <td colspan="2"><center><b>Sesión de Formación e Innovación Educativa</b></center></td>
+      <td colspan="2"><b>Sesión de Formación e Innovación Educativa</b></td>
     </tr>
     <tr>
       <td>11:45</td>
