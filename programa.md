@@ -317,9 +317,9 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
 <br>
 
 <a id="A3"></a>
-<h4>Sesión de Investigación A3: Ciberataques e inteligencia de amenazas </h4
-<p><b>Presidente de Sesión: <b><i>Rafael Martínez Gasca (Universidad de Sevilla)</i>
-<br> Miércoles 9, 14:00-15:00</p>
+<h4>Sesión de Investigación A3: Ciberataques e inteligencia de amenazas </h4>
+<b>Presidente de Sesión: <b><i>Rafael Martínez Gasca (Universidad de Sevilla)</i>
+<br> Miércoles 9, 14:00-15:00
 <table class="table" style="width:100%">
   <tbody valign="top">
     <tr>
@@ -338,7 +338,7 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
     </tr>
     <tr>
       <td>14:14</td>
-      <td valign="top" >A review of Cybersecurity Threat Intelligence Knowledge Exchange based on blockchain<br>
+      <td valign="top" >A review of Cybersecurity Threat Intelligence Knowledge Exchange based on blockchain
       <br><em>Raúl Riesco Granadino, Xavier Larriva-Novo, Victor A. Villagrá</em></td>
     </tr>  
     <tr>
