@@ -160,7 +160,12 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
     </tr>
     <tr>
       <td>18:00</td>
-      <td colspan="2"><center>Sesión de Entrega de los Premios <b>RENIC</b></center></td>
+      <td colspan="2">
+        <b>Sesión de Entrega de los Premios RENIC</b>
+        <br>
+        <br>
+        Presidente de Sesión: Javier López Muñoz (Universidad de Málaga)
+      </td>
     </tr>
     <tr>
       <td>18:45</td>
