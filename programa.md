@@ -68,7 +68,7 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
     </tr>
     <tr>
       <td>16:30</td>
-      <td colspan="2"><center><b>Sesión de Transferencia Tecnológica</b></center></td>
+      <td colspan="2"><b>Sesión de Transferencia Tecnológica</b></td>
     </tr>
     <tr>
       <td>17:15</td>
@@ -143,7 +143,7 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
         Modera: Javier López. Universidad de Málaga
         <br>
         <br>
-        Ponentes:
+        Participantes:
         <ul>
           <li>Sra. Dña. Mar López. DSN y Women4Cyber Spain</li>
           <li>Sra. Dña. Soledad Antelada. Berkeley Lab y Women4Cyber Spain</li>
@@ -162,7 +162,6 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
       <td>18:00</td>
       <td colspan="2">
         <b>Sesión de Entrega de los Premios RENIC</b>
-        <br>
         <br>
         Presidente de Sesión: Javier López Muñoz (Universidad de Málaga)
       </td>
