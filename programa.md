@@ -59,7 +59,7 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
     </tr>
     <tr>
       <td>14:00</td>
-      <td><b>Sesión de Investigación A3:</b> Ciberataques e Inteligencia de Amenazas</td>
+      <td><a href="#A3"><b>Sesión de Investigación A3:</b> Ciberataques e Inteligencia de Amenazas</a></td>
       <td><b>Sesión de Investigación B3:</b> Tecnologías Emergentes y Entrenamiento</td>
     </tr>
     <tr>
@@ -262,6 +262,7 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
 </table> 
 
 <a href="#miercoles">Subir</a>
+<br>
 
 <a id="A2"></a>
 <h4>Sesión de Investigación A2: Detección de intrusiones y gestión de anomalías II </h4>
@@ -313,6 +314,54 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
 </table> 
 
 <a href="#miercoles">Subir</a>
+<br>
+
+<a id="A3"></a>
+<h4>Sesión de Investigación A3: Ciberataques e inteligencia de amenazas </h4
+<p><b>Presidente de Sesión: <b><i>Rafael Martínez Gasca (Universidad de Sevilla)</i>
+<br> Miércoles 9, 14:00-15:00</p>
+<table class="table" style="width:100%">
+  <tbody valign="top">
+    <tr>
+      <th>Hora</th>
+      <th>Ponencia</th>
+    </tr>
+    <tr>
+      <td>14:00</td>
+      <td valign="top" >A Review of Cyberattacks on Miniature Brain Implants to Disrupt Spontaneous Neural Signaling
+      <br><em>Sergio Lopez Bernal, Alberto Huertas Celdrán, Gregorio Martínez Pérez</em></td>
+    </tr>
+    <tr>
+      <td>14:07</td>
+      <td valign="top" >Extended Abstract – AVCLASS2: Massive Malware Tag Extraction from AV Labels
+      <br><em>Silvia Sebastián, Juan Caballero</em></td>
+    </tr>
+    <tr>
+      <td>14:14</td>
+      <td valign="top" >A review of Cybersecurity Threat Intelligence Knowledge Exchange based on blockchain<br>
+      <br><em>Raúl Riesco Granadino, Xavier Larriva-Novo, Victor A. Villagrá</em></td>
+    </tr>  
+    <tr>
+      <td>14:21</td>      
+      <td valign="top" >Hacia un modelo analítico de APT basado en factores técnico-geopolíticos
+      <br><em>Lorena Gonzalez-Manzano, Jose M. de Fuentes, Cristina Ramos, Florabel Quispe</em></td>
+    </tr>
+    <tr>
+      <td>14:31</td>
+      <td valign="top" >Twitter bots interfered the 2019 Spanish election  
+      <br><em>Javier Pastor-Galindo, Mattia Zago, Pantaleone Nespoli, Sergio Lopez Bernal, Alberto Huertas Celdrán, Manuel Gil Pérez, Jose A. Ruipérez-Valiente, Gregorio Martínez Pérez, Félix Gómez Mármol</em></td>
+    </tr>  
+    <tr>
+      <td>14:38</td>
+      <td valign="top" >A review of Leveraging Cyber Threat Intelligence for a Dynamic Risk Framework
+      <br><em>Raúl Riesco Granadino, Victor A. Villagrá</em></td>
+    </tr>
+  </tbody>
+</table> 
+
+<a href="#miercoles">Subir</a>
+<br>
+
 <!--
 <h4>Martes 4 de Junio</h4>
  <table class="table" style="width:100%">
