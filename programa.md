@@ -68,7 +68,16 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
     </tr>
     <tr>
       <td>16:30</td>
-      <td colspan="2"><b>Sesión de Transferencia Tecnológica</b></td>
+      <td colspan="2">
+        <b>Sesión de Transferencia Tecnológica</b>
+        <br>
+        <br>
+        Presidente de Sesión: Guillermo Calvo Flores (Instituto Nacional de Ciberseguridad)
+        <br>
+        <br>
+        <p>Aplicación de control de acceso y técnicas de Blockchain para el control de datos genéticos <br>
+        <em>Isabel Román, Germán Madinabeitia, Rafael Estepa, Jesús Diaz-Verdejo, Antonio Estepa, José Luis González-Sánchez, Felipe Lemus Prieto</em></p>
+      </td>
     </tr>
     <tr>
       <td>17:15</td>
