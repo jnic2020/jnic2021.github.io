@@ -66,7 +66,7 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
         <center>
           <b>Mesa Redonda</b>
           <br>
-          Colaboración en I+D+i nacional de Ciberseguridad: Grupo Interplataformas y Sector empresarial innovador Moderador
+          Colaboración en I+D+i nacional de Ciberseguridad: Grupo Interplataformas y Sector empresarial innovador 
         </center>
       </td>
     </tr>
