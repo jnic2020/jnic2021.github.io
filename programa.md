@@ -128,7 +128,7 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
     </tr>
     <tr>
       <td>10:15</td>
-      <td colspan="2"><a hre="#formacion"><b>Sesión de Formación e Innovación Educativa</b></a></td>
+      <td colspan="2"><a href="#formacion"><b>Sesión de Formación e Innovación Educativa</b></a></td>
     </tr>
     <tr>
       <td>11:45</td>
