@@ -83,7 +83,7 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
         <br>
         Modera: Javier Larrañeta. Secretario General de PESI
         <br>
-        <p>Participantes:
+        Participantes:
         <ul>
           <li>Representante INCIBE </li>
           <li>Sr. D. Tomás Castro. Presidente AEI Ciberseguridad y CONETIC</li>
@@ -92,7 +92,6 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
           <li>Sr. D. Susana Asensio. Centro de Ciberseguridad Industrial (CCI)</li>
           <li>Representante RENIC</li>
         </ul>
-        </p>
       </td>
     </tr>
   </tbody>
