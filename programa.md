@@ -18,7 +18,7 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
 <br>
 <!-- <h5 style="color:white; background-color: #550000;" class="text-center"><i class="far fa-clock mr-3"></i> <b>Contenido del programa proximamente...</b></h5>
  <br> -->
-<a id="inicio"></a>
+<a id="miercoles"></a>
 <h4>Miércoles 9 de Junio</h4>
 <table class="table" style="width:100%">
   <tbody valign="top">
@@ -50,11 +50,11 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
     <tr>
       <td>11:00</td>
       <td><a href="#A1"><b>Sesión de Investigación A1:</b> Detección de Intrusos y Gestión Anomalías</a></td>
-      <td><b>Sesión de Investigación B1:</b> IA y Ciberseguridad</td>
+      <td><a href="#B1"><b>Sesión de Investigación B1:</b> IA y Ciberseguridad</a></td>
     </tr>
     <tr>
       <td>12:30</td>
-      <td><b>Sesión de Investigación A2:</b> Detección de Intrusos y Gestión Anomalías</td>
+      <td><a href="#A2"><b>Sesión de Investigación A2:</b> Detección de Intrusos y Gestión Anomalías</a></td>
       <td><b>Sesión de Investigación B2:</b> Gobierno y Gestión de Riesgos </td>
     </tr>
     <tr>
@@ -101,6 +101,7 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
   </tbody>
 </table>
 
+<a id="jueves"></a>
 <h4>Jueves 10 de Junio</h4>
 <table class="table" style="width:100%">
   <tbody valign="top">
@@ -186,6 +187,7 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
 <a id="A1">
 <h4>Sesión de Investigación A1: Detección de intrusiones y gestión de anomalías I</h4>
 <p><b>Presidente de Sesión: <b><i>Pedro García Teodoro (Universidad de Granada)</i></p>
+<p>Miércoles 9, 11:00-12:30</p>
 <table class="table" style="width:100%">
   <tbody valign="top">
     <tr>
@@ -259,8 +261,58 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
   </tbody>
 </table> 
 
-<a href="#inicio">Subir</a>
+<a href="#miercoles">Subir</a>
 
+<a id="A2">
+<h4>Sesión de Investigación A2: Detección de intrusiones y gestión de anomalías II </h4>
+<p><b>Presidente de Sesión: <b><i>Félix Gómez Mármol (Universidad de Murcia)</i></p>
+<p>Miércoles 9, 12:30-14:00</p>
+<table class="table" style="width:100%">
+  <tbody valign="top">
+    <tr>
+      <th>Hora</th>
+      <th>Ponencia</th>
+    </tr>
+    <tr>
+      <td>12:30</td>
+      <td valign="top" >Sobre las capacidades de detección de los IDS basados en firmas
+      <br><em>Jesús Diaz-Verdejo, Francisco Javier Muñoz-Calle, Rafael Estepa, Antonio Estepa, Germán Madinabeitia</em></td>
+    </tr>
+    <tr>
+      <td>12:50</td>
+      <td valign="top" >Diseño y evaluación de modelos de aprendizaje automático no supervisado para la detección de anomalías en un sistema Spark
+      <br><em>Farid Bagheri-Gisour Marandyn, Xavier Larriva-Novo, Víctor A. Villagrá</em></td>
+    </tr>
+    <tr>
+      <td>13:00</td>
+      <td valign="top" >Aplicación de transfer learning a la detección de malware
+      <br><em>David Escudero García, Ángel Luis Muñoz Castañeda, Noemí DeCastro-García</em></td>
+    </tr>
+    <tr>
+      <td>13:20</td>
+      <td valign="top" >Temporal graph-based approach for behavioural entity classification
+      <br><em>Francesco Zola, Lander Segurola, Jan Lukas Bruse, Mikel Galar Idoate</em></td>
+    </tr>
+    <tr>
+      <td>13:30</td>
+      <td valign="top" >Diseño de un sistema de correlación basado en software libre para la detección de anomalías en el campo de la ciberseguridad
+      <br><em>Beatriz Esteban-Navarro, Xavier A. Larriva-Novo, Víctor A. Villagrá.</em></td>
+    </tr>
+    <tr>
+      <td>13:40</td>
+      <td valign="top" >Un resumen de: Present and future of network security monitoring
+      <br><em>Marta Fuentes-García, José Camacho, Gabriel Macía-Fernández</em></td>      
+    </tr>  
+    <tr>
+      <td>13:47</td>
+      <td valign="top" >Secure Crowdsensing Platforms Through Device Behavior Fingerprinting
+      <br><em>Pedro Miguel Sánchez Sánchez, Alberto Huertas Celdrán, Gérôme Bovet, Gregorio Martínez Pérez, Burkhard Stiller</em><br>
+      </td>
+    </tr>
+  </tbody>
+</table> 
+
+<a href="#miercoles">Subir</a>
 <!--
 <h4>Martes 4 de Junio</h4>
  <table class="table" style="width:100%">
