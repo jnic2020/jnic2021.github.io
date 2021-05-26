@@ -186,8 +186,8 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
 
 <a id="A1"></a>
 <h4>Sesión de Investigación A1: Detección de intrusiones y gestión de anomalías I</h4>
-<p><b>Presidente de Sesión: <b><i>Pedro García Teodoro (Universidad de Granada)</i></p>
-<p>Miércoles 9, 11:00-12:30</p>
+<p><b>Presidente de Sesión: <b><i>Pedro García Teodoro (Universidad de Granada)</i>
+<br>Miércoles 9, 11:00-12:30</p>
 <table class="table" style="width:100%">
   <tbody valign="top">
     <tr>
@@ -265,8 +265,8 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
 
 <a id="A2"></a>
 <h4>Sesión de Investigación A2: Detección de intrusiones y gestión de anomalías II </h4>
-<p><b>Presidente de Sesión: <b><i>Félix Gómez Mármol (Universidad de Murcia)</i></p>
-<p>Miércoles 9, 12:30-14:00</p>
+<p><b>Presidente de Sesión: <b><i>Félix Gómez Mármol (Universidad de Murcia)</i>
+<br> Miércoles 9, 12:30-14:00</p>
 <table class="table" style="width:100%">
   <tbody valign="top">
     <tr>
