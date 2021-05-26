@@ -658,4 +658,47 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
 <a href="#inicio">Subir</a>
 <br>
 
+<a id="B4"></a>
+<h4>Sesión de Investigación B4: Criptografía </h4>
+<p>Presidente de Sesión: <i>Pino Caballero-Gil (Universidad de La Laguna)</i>
+<br>Jueves 10 de junio, 11:45-13:15
+</p>
+<table class="table" style="width:100%">
+  <tbody valign="top">
+    <tr>
+      <th>Hora</th>
+      <th>Ponencia</th>
+    </tr>
+    <tr>
+      <td>11:45</td>
+      <td valign="top" >Quantum and post-quantum cryptography and cybersecurity: A systematic mapping
+      <br><em>Beatriz Garcia Markaida, Xabier Larrucea, Manuel Graña</em></td>
+    </tr>
+    <tr>
+      <td>12:05</td>
+      <td valign="top" >Homomorphic SVM Inference for Fraud Detection
+      <br><em>Adrián Vázquez-Saavedra, Gonzalo Jiménez-Balsa, Jaime Loureiro-Acuña, Manuel Fernández-Veiga, Alberto Pedrouzo-Ulloa</em></td>
+    </tr>
+    <tr>
+      <td>12:15</td>
+      <td valign="top" >Intercambio de clave multiusuario en anillos de grupo
+      <br><em>María Dolores Gómez Olvera, Juan Antonio López Ramos, Blas Torrecillas Jover.</em></td>
+    </tr>
+    <tr>
+      <td>12:22</td>
+      <td valign="top" >Implementación de un protocolo postcuántico de intercambio de clave en grupo seguro en el Quantum Random Oracle Model basado en Kyber
+      <br><em>José Ignacio Escribano Pablos</em></td>
+    </tr>
+    <tr>
+      <td>12:42</td>
+      <td valign="top" >Análisis y evaluación experimental del circuito generador de números aleatorios Lampert Circuit
+      <br><em>Alejandro Rodríguez, Javier Matanza, Gregorio López, Carlos Rodríguez-Morcillo, Álvaro López, Julio Hernández-Castro</em></td>
+    </tr>
+  </tbody>
+</table> 
+
+<a href="#inicio">Subir</a>
+<br>
+
+
 <p align="center"><i>Nota: El programa está en proceso de definición. Esta página se irá actualizando con más información.</i></p>
