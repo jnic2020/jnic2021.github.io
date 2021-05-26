@@ -186,8 +186,9 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
 
 <a id="A1"></a>
 <h4>Sesión de Investigación A1: Detección de intrusiones y gestión de anomalías I</h4>
-<p><b>Presidente de Sesión: <b><i>Pedro García Teodoro (Universidad de Granada)</i>
-<br>Miércoles 9, 11:00-12:30</p>
+<p>Presidente de Sesión: <i>Pedro García Teodoro (Universidad de Granada)</i>
+<br>Miércoles 9, 11:00-12:30
+</p>
 <table class="table" style="width:100%">
   <tbody valign="top">
     <tr>
@@ -266,8 +267,9 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
 
 <a id="A2"></a>
 <h4>Sesión de Investigación A2: Detección de intrusiones y gestión de anomalías II </h4>
-<p><b>Presidente de Sesión: <b><i>Félix Gómez Mármol (Universidad de Murcia)</i>
-<br> Miércoles 9, 12:30-14:00</p>
+<p>Presidente de Sesión: <i>Félix Gómez Mármol (Universidad de Murcia)</i>
+<br> Miércoles 9, 12:30-14:00
+</p>
 <table class="table" style="width:100%">
   <tbody valign="top">
     <tr>
@@ -318,8 +320,9 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
 
 <a id="A3"></a>
 <h4>Sesión de Investigación A3: Ciberataques e inteligencia de amenazas </h4>
-<b>Presidente de Sesión: <b><i>Rafael Martínez Gasca (Universidad de Sevilla)</i>
-<br> Miércoles 9, 14:00-15:00
+<p>Presidente de Sesión:<i>Rafael Martínez Gasca (Universidad de Sevilla)</i>
+<br> Miércoles 9 de junio, 14:00-15:00 
+</p>
 <table class="table" style="width:100%">
   <tbody valign="top">
     <tr>
