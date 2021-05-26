@@ -81,9 +81,7 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
     <tr>
       <td>18:00</td>
       <td colspan="2">
-        <b>Mesa Redonda</b>
-        <br>
-        <i>Colaboración en I+D+i nacional de Ciberseguridad: Grupo Interplataformas y Sector empresarial innovador </i>
+        <b>Mesa Redonda: </b><i>Colaboración en I+D+i nacional de Ciberseguridad: Grupo Interplataformas y Sector empresarial innovador </i>
         <br>
         <br>
         Modera: Javier Larrañeta. Secretario General de PESI
