@@ -49,7 +49,7 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
     </tr>
     <tr>
       <td>11:00</td>
-      <td><b>Sesión de Investigación A1:</b> Detección de Intrusos y Gestión Anomalías</td>
+      <td><a href="#A1"><b>Sesión de Investigación A1:</b> Detección de Intrusos y Gestión Anomalías</a></td>
       <td><b>Sesión de Investigación B1:</b> IA y Ciberseguridad</td>
     </tr>
     <tr>
@@ -182,6 +182,68 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
     </tr>
   </tbody>
 </table>
+
+<a id="A1">
+<h4>Sesión de Investigación A1: Detección de intrusiones y gestión de anomalías I</h4>
+<p><b>Presidente de Sesión: <b><i>Pedro García Teodoro (Universidad de Granada)</¡></p>
+<table class="table" style="width:100%">
+  <tbody valign="top">
+    <tr>
+      <th>Hora</th>
+      <th>Ponencia</th>
+    </tr>
+    <tr>
+      <td><p>11:00</p></td>
+      <td valign="top" >
+        <p>Distributed Architecture for Intrusion Detection in IoT Network using Smart Contracts</p>
+        <p><em>Rafael Zerbini Alves da Mata, Francisco Lopes de Caldas Filho, Lucas M. C. E Martins, Fábio Lúcio Lopes de Mendonça, Rafael T. de Sousa Jr.</em></p>
+      </td>
+    </tr>
+    <tr>
+      <td><p>11:20</p></td>
+      <td valign="top" >
+        <p>A review of SSH botnet detection in initial stages of infection: a Machine Learning-based approach</p>
+        <p><em>José Tomás Martínez Garre, Manuel Gil Pérez, Antonio Ruiz-Martínez</em></p>
+      </td>
+    </tr>
+    <tr>
+      <td><p>11:27</p></td>
+      <td valign="top" >
+        <p>A Multi-agent Approach for Online Twitter Bot Detection</p>
+        <p><em>Jefferson Viana Fonseca Abreu, Célia Ghedini Ralha, Joao José Costa Gondim</em></p>
+      </td>
+    </tr>
+    <tr>
+      <td><p>11:47</p></td>
+      <td valign="top" >
+        <p>Un resumen: Un enfoque para la aplicación de un clasificador dinámico de clases múltiples para sistemas de detección de intrusiones en la red</p>
+        <p><em>Xavier A. Larriva-Novo, Carmen Sánchez-Zas, Víctor A. Villagrá, Mario Vega-Barbas, Diego Rivera</em></p>
+      </td>
+    </tr>
+    <tr>
+      <td><p>11:54</p></td>
+      <td valign="top" ><p>Despliegue de técnicas SDNFV para la detección, gestión y mitigación de amenazas a la seguridad de centros de supercomputación (HPC)</p>
+      <p><em>Felipe Lemus Prieto, David Cortés Polo, José Luis González Sánchez</em></p></td>
+    </tr>
+    <tr>
+      <td><p>12:04</p></td>
+      <td valign="top" ><p>Evaluation of state-of-art phishing detection strategies based on machine learning</p>
+      <p><em>F. Castano, M. Sanchez-Paniagua, J. Delgado, J. Velasco-Mata, A. Sepulveda, E. Fidalgo, E. Alegre</em></p></td>
+    </tr>
+    <tr>
+      <td><p>12:11</p></td>
+      <td valign="top" ><p>Automating Intrusion Detection Systems in Smart Contracts</p>
+      <p><em>Xabier Echeberria-Barrio, Francesco Zola, Lander Segurola-Gil, Raul Orduna-Urrutia</em></p></td>     
+    </tr>
+    <tr>
+      <td><p>12:21</p></td>
+      <td valign="top" ><p>Un resumen de: Un sistema de detección de intrusiones enfocado en el preprocesamiento de características de red para sistemas IoT</p>
+      <p><em>Xavier Larriva-Novo, Victor Villagra, Mario Vega-Barbas, Diego Rivera, Mario Sanz </em></p></td>
+    </tr>
+  </tbody>
+</table> 
+
+<a href="#inicio">Subir</a>
 
 <!--
 <h4>Martes 4 de Junio</h4>
