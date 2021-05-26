@@ -26,43 +26,49 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
       <th colspan="2">Sesión</th>
     </tr>
     <tr>
-      <td>9:30-10:00</td>
-      <td colspan="2"><center><b>Apertura</b></center></td>
+      <td>9:30</td>
+      <td colspan="2"><center><b>Inauguración oficial de las JNIC 2021 Live</b></center></td>
     </tr>
     <tr>
-      <td>10:00-10:45</td>
-      <td colspan="2"><center><b>Charla Invitada</b></center></td>
+      <td>10:00</td>
+      <td colspan="2"><center><b>Conferencia invitada: </b>Ramsés Gallego</center></td>
     </tr>
     <tr>
-      <td>11:00-12:30</td>
+      <td>11:00</td>
       <td><b>Sesión de Investigación A1:</b> Detección de Intrusos y Gestión Anomalías</td>
       <td><b>Sesión de Investigación B1:</b> IA y Ciberseguridad</td>
     </tr>
     <tr>
-      <td>12:30-14:00</td>
+      <td>12:30</td>
       <td><b>Sesión de Investigación A2:</b> Detección de Intrusos y Gestión Anomalías</td>
       <td><b>Sesión de Investigación B2:</b> Gobierno y Gestión de Riesgos </td>
     </tr>
     <tr>
-      <td>14:00-15:00</td>
+      <td>14:00</td>
       <td><b>Sesión de Investigación A3:</b> Ciberataques e Inteligencia de Amenazas</td>
       <td><b>Sesión de Investigación B3:</b> Tecnologías Emergentes y Entrenamiento</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td colspan="2"><center>DESCANSO</center></td>
+      <td colspan="2"><center><b>Descanso para comer</b></center></td>
     </tr>
     <tr>
-      <td>16:30-17:15</td>
+      <td>16:30</td>
       <td colspan="2"><center><b>Sesión de Transferencia Tecnológica</b></center></td>
     </tr>
     <tr>
-      <td>17:15-18:00</td>
-      <td colspan="2"><center><b>Charla Invitada</b></center></td>
+      <td>17:15</td>
+      <td colspan="2"><center><b>Conferencia invitada: </b>Soledad Antelada Toledano</center></td>
     </tr>
     <tr>
-      <td>18:00-19:30</td>
-      <td colspan="2"><center><b>Mesa Redonda</b></center></td>
+      <td>18:00</td>
+      <td colspan="2">
+        <center>
+          <b>Mesa Redonda</b>
+          <br>
+          Colaboración en I+D+i nacional de Ciberseguridad: Grupo Interplataformas y Sector empresarial innovador Moderador
+        </center>
+      </td>
     </tr>
   </tbody>
 </table>
@@ -75,38 +81,44 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
       <th colspan="2">Sesión</th>
     </tr>
     <tr>
-      <td>9:30-10:15</td>
-      <td colspan="2"><center><b>Charla Invitada</b></center></td>
+      <td>9:30</td>
+      <td colspan="2"><center><b>Conferencia invitada: </b>Mónica Mateos Calle</center></td>
     </tr>
     <tr>
-      <td>10:15-11:45</td>
+      <td>10:15</td>
       <td colspan="2"><center><b>Sesión de Formación e Innovación Educativa</b></center></td>
     </tr>
     <tr>
-      <td>11:45-13:15</td>
+      <td>11:45</td>
       <td><b>Sesión de Investigación A4:</b> Análisis Forense y Cibercrimen </td>
       <td><b>Sesión de Investigación B4:</b> Criptografía</td>
     </tr>
     <tr>
-      <td>13:15-14:45</td>
+      <td>13:15</td>
       <td><b>Sesión de Investigación A5:</b> Ciberseguridad Industrial y aplicaciones</td>
       <td><b>Sesión de Investigación B5:</b> Privacidad </td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td colspan="2"><center>DESCANSO</center></td>
+      <td colspan="2"><center>Descanso para comer</center></td>
     </tr>
     <tr>
-      <td>16:30-18:00</td>
-      <td colspan="2"><center><b>Mesa Redonda</b></center></td>
+      <td>16:30</td>
+      <td colspan="2">
+        <center>
+          <b>Mesa Redonda</b>
+          <br>
+          Desde la Educación pasando por la I+D, hacia la Empresa Inteligente
+        </center>
+      </td>
     </tr>
     <tr>
-      <td>18:00-18:45</td>
-      <td colspan="2"><center><b>Premios RENIC</b></center></td>
+      <td>18:00</td>
+      <td colspan="2"><center>Sesión de Entrega de los Premios <b>RENIC</b></center></td>
     </tr>
     <tr>
-      <td>18:00-19:30</td>
-      <td colspan="2"><center><b>Clausura</b></center></td>
+      <td>18:45</td>
+      <td colspan="2"><center><b>Clausura de las JNIC 2021 Live</b></center></td>
     </tr>
   </tbody>
 </table>
