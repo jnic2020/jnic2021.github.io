@@ -700,5 +700,41 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
 <a href="#inicio">Subir</a>
 <br>
 
+<a id="B5"></a>
+<h4>Sesión de Investigación B5: Privacidad </h4>
+<p>Presidente de Sesión: <i>Jordi Castellà Roca (Universitat Rovira i Virgili)</i>
+<br>Jueves 10 de junio, 13:15-14:45
+</p>
+<table class="table" style="width:100%">
+  <tbody valign="top">
+    <tr>
+      <th>Hora</th>
+      <th>Ponencia</th>
+    </tr>
+    <tr>
+      <td>13:15</td>
+      <td valign="top" >A privacy preserving approach for avoiding database recovery attacks in software developments
+      <br><em>Xabier Larrucea, Izaskun Santamaria</em></td>
+    </tr>
+    <tr>
+      <td>13:35</td>
+      <td valign="top" >Agente de recomendación para mejorar la privacidad de los usuarios cuando usan gestión de identidades federada
+      <br><em>Carlos Alberto Villarán, Marta Beltrán</em></td>
+    </tr>
+    <tr>
+      <td>13:55</td>
+      <td valign="top" >Darknets: Interconexiones y dark markets
+      <br><em>Carlos Cilleruelo, Luis De-Marcos, Javier Junquera-Sánchez, Jose-Javier Martinez-Herraiz</em></td>
+    </tr>
+    <tr>
+      <td>14:02</td>
+      <td valign="top" >Diversec Voting - Votación remota distribuida para una seguridad en profundidad
+      <br><em>Marino Tejedor-Romero, David Orden, Ivan Marsa-Maestre, Javier Junquera-Sánchez</em></td>
+    </tr>
+  </tbody>
+</table> 
+
+<a href="#inicio">Subir</a>
+<br>
 
 <p align="center"><i>Nota: El programa está en proceso de definición. Esta página se irá actualizando con más información.</i></p>
