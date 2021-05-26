@@ -41,7 +41,11 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
     </tr>
     <tr>
       <td>10:00</td>
-      <td colspan="2"><b>Conferencia invitada: </b>Ramsés Gallego</td>
+      <td colspan="2">
+        <b>Conferencia invitada: </b>
+        <br>
+        Ramsés Gallego
+      </td>
     </tr>
     <tr>
       <td>11:00</td>
@@ -69,7 +73,9 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
     <tr>
       <td>17:15</td>
       <td colspan="2">
-        <b>Conferencia invitada: </b>Soledad Antelada Toledano
+        <b>Conferencia invitada: </b>
+        <br>
+        Soledad Antelada Toledano
         <br>
         <i>Cybersecurity Operations and Research from Lawrence Berkeley National Lab, United States Department of Energy</i>
       </td>
