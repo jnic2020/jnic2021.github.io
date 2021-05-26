@@ -185,7 +185,7 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
 
 <a id="A1">
 <h4>Sesión de Investigación A1: Detección de intrusiones y gestión de anomalías I</h4>
-<p><b>Presidente de Sesión: <b><i>Pedro García Teodoro (Universidad de Granada)</¡></p>
+<p><b>Presidente de Sesión: <b><i>Pedro García Teodoro (Universidad de Granada)</i></p>
 <table class="table" style="width:100%">
   <tbody valign="top">
     <tr>
@@ -226,27 +226,35 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
     </tr>
     <tr>
       <td>11:54</td>
-      <td valign="top" >Despliegue de técnicas SDNFV para la detección, gestión y mitigación de amenazas a la seguridad de centros de supercomputación (HPC)
+      <td valign="top" >
+        Despliegue de técnicas SDNFV para la detección, gestión y mitigación de amenazas a la seguridad de centros de supercomputación (HPC)
         <br>
-      <em>Felipe Lemus Prieto, David Cortés Polo, José Luis González Sánchez</em></td>
+        <em>Felipe Lemus Prieto, David Cortés Polo, José Luis González Sánchez</em>
+      </td>
     </tr>
     <tr>
       <td>12:04</td>
-      <td valign="top" >Evaluation of state-of-art phishing detection strategies based on machine learning
+      <td valign="top" >
+        Evaluation of state-of-art phishing detection strategies based on machine learning
         <br>
-      <em>F. Castano, M. Sanchez-Paniagua, J. Delgado, J. Velasco-Mata, A. Sepulveda, E. Fidalgo, E. Alegre</em></td>
+        <em>F. Castano, M. Sanchez-Paniagua, J. Delgado, J. Velasco-Mata, A. Sepulveda, E. Fidalgo, E. Alegre</em>
+      </td>
     </tr>
     <tr>
       <td>12:11</td>
-      <td valign="top" >Automating Intrusion Detection Systems in Smart Contracts
+      <td valign="top" >
+        Automating Intrusion Detection Systems in Smart Contracts
         <br>
-      <em>Xabier Echeberria-Barrio, Francesco Zola, Lander Segurola-Gil, Raul Orduna-Urrutia</em></td>     
+        <em>Xabier Echeberria-Barrio, Francesco Zola, Lander Segurola-Gil, Raul Orduna-Urrutia</em>
+      </td>     
     </tr>
     <tr>
       <td>12:21</td>
-      <td valign="top" >Un resumen de: Un sistema de detección de intrusiones enfocado en el preprocesamiento de características de red para sistemas IoT
+      <td valign="top" >
+        Un resumen de: Un sistema de detección de intrusiones enfocado en el preprocesamiento de características de red para sistemas IoT
         <br>
-      <em>Xavier Larriva-Novo, Victor Villagra, Mario Vega-Barbas, Diego Rivera, Mario Sanz </em></td>
+        <em>Xavier Larriva-Novo, Victor Villagra, Mario Vega-Barbas, Diego Rivera, Mario Sanz </em>
+      </td>
     </tr>
   </tbody>
 </table> 
