@@ -31,11 +31,11 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
       <td colspan="2">
         <b>Inauguración oficial de las JNIC 2021 Live</b>
         <ul>
-          <li>Julian Garde López-Brea. Rector de la Universidad de Castilla-La Mancha</li>
-          <li>Rosa Ana Rodríguez Pérez. Consejera de Educación, Cultura y Deportes</li>
-          <li>Rosa Díaz Moles. Directora General del Instituto Nacional de Ciberseguridad </li>
-          <li>Eduardo Fernández-Medina Patón. Presidente del Comité Organizador</li>
-          <li>Cristina Alcaraz Tello. Presidenta del Comité de Programa Científico</li>
+          <li>Sr. D. Julian Garde López-Brea. Rector de la Universidad de Castilla-La Mancha</li>
+          <li>Sra. Dña. Rosa Ana Rodríguez Pérez. Consejera de Educación, Cultura y Deportes</li>
+          <li>Sra. Dña. Rosa Díaz Moles. Directora General del Instituto Nacional de Ciberseguridad </li>
+          <li>Sr. D. Eduardo Fernández-Medina Patón. Presidente del Comité Organizador</li>
+          <li>Sra. Dña. Cristina Alcaraz Tello. Presidenta del Comité de Programa Científico</li>
         </ul>
       </td>
     </tr>
@@ -85,10 +85,10 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
         Participantes:
         <ul>
           <li>Representante INCIBE </li>
-          <li>Tomás Castro. Presidente AEI Ciberseguridad y CONETIC</li>
-          <li>Soledad Díaz. APTE, Representante DISRUPTIVE</li>
-          <li>Cecilio Angulo Bahon. UPC, Representante PLANETIC</li>
-          <li>Susana Asensio. Centro de Ciberseguridad Industrial (CCI)</li>
+          <li>Sr. D. Tomás Castro. Presidente AEI Ciberseguridad y CONETIC</li>
+          <li>Sr. Dña. Soledad Díaz. APTE, Representante DISRUPTIVE</li>
+          <li>Sr. D. Cecilio Angulo Bahon. UPC, Representante PLANETIC</li>
+          <li>Sr. D. Susana Asensio. Centro de Ciberseguridad Industrial (CCI)</li>
           <li>Representante RENIC</li>
         </ul>
       </td>
@@ -105,7 +105,11 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
     </tr>
     <tr>
       <td>9:30</td>
-      <td colspan="2"><center><b>Conferencia invitada: </b>Mónica Mateos Calle</center></td>
+      <td colspan="2">
+        <b>Conferencia invitada: </b>Mónica Mateos Calle
+        <br>
+        <i>I+D+i (en el ámbito del ciberespacio) dentro del Ministerio de Defensa</i>
+      </td>
     </tr>
     <tr>
       <td>10:15</td>
@@ -141,7 +145,17 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
     </tr>
     <tr>
       <td>18:45</td>
-      <td colspan="2"><center><b>Clausura de las JNIC 2021 Live</b></center></td>
+      <td colspan="2">
+        <b>Clausura de las JNIC 2021 Live</b>
+        <ul>
+          <li>Sra. Dña. Lola Rebollo Revesado. Gerente de Impulso a la Industria e I+D+i de INCIBE</li>
+          <li>Sra. Dña. Cristina Alcaraz Tello. Presidenta del Comité de Programa Científico</li>
+          <li>Representante Viewnext </li>
+          <li>Sr. D. Juan Díez González. Comité Ejecutivo JNIC. INCIBE</li>
+          <li>Sr. D. Representante de sede JNIC 2022 </li>
+          <li>Sr. D. Manuel A. Serrado. Presidente del Comité Organizador</li>
+        </ul>
+      </td>
     </tr>
   </tbody>
 </table>
