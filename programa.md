@@ -28,7 +28,7 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
     <tr>
       <td>9:30</td>
       <td colspan="2">
-        <center><b>Inauguración oficial de las JNIC 2021 Live</b></center>
+        <b>Inauguración oficial de las JNIC 2021 Live</b>
         <ul>
           <li>Julian Garde López-Brea. Rector de la Universidad de Castilla-La Mancha</li>
           <li>Rosa Ana Rodríguez Pérez. Consejera de Educación, Cultura y Deportes</li>
