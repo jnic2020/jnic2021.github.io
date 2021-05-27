@@ -16,11 +16,12 @@ La competición se realizará durante **72 horas** de **forma virtual**, a trav�
 Podrá participar cualquier persona que resida dentro de España y esté realizando estudios pre-universitarios, universitarios o **haya terminado sus estudios universitarios u otros oficiales, en los tres últimos años (a partir del año 2019 inclusive)**.
 Cualquier otra circunstancia dada, permitirá la participación del usuario/a pero la no disposición a ser premiado/a en el caso de resultar ganador/a.
 
-1. Los usuarios que quieran participar en el CTF JNIC-Viewnext deberán completar el [formulario](https://docs.google.com/forms/d/e/1FAIpQLSdHMuJixKpwDxQapm4x_6xqFmociZ-Baz_IND5KxtxT_J59DQ/viewform) que está publicado en el apartado [**Inscripción**] de esta web. El plazo de inscripciones está abierto hasta las **14:00 horas del 3 de junio de 2021**.
+1. Los usuarios que quieran participar en el CTF JNIC-Viewnext deberán completar el [formulario](https://docs.google.com/forms/d/e/1FAIpQLSdHMuJixKpwDxQapm4x_6xqFmociZ-Baz_IND5KxtxT_J59DQ/viewform) que está publicado en el apartado **Inscripción** de esta web. El plazo de inscripciones está abierto hasta las **14:00 horas del 3 de junio de 2021**.
 2. La competición será **completamente virtual**, celebrándose a través de la plataforma de formación del **Campus Virtual de la Universidad de Extremadura**.
 3. Tras el proceso de inscripción obtendrás credenciales de acceso a la plataforma de la competición. Las credenciales de acceso obtenidas **son intransferibles**. En caso de pérdida u olvido se pueden recuperar automáticamente a través de la propia plataforma donde se realiza la competición.
 4. La competición tendrá una duración de **72 horas**, teniendo lugar desde las **14:00 horas del día 4 de junio hasta las 14:00 horas del día 7 de junio de 2021**.
 5. Los retos tendrán distintos **niveles de dificultad** y abordarán diversas **disciplinas** de la ciberseguridad, entre ellas:
+
     + **Ingeniería inversa**.
     + **Exploiting**.
     + **Análisis Forense**.
