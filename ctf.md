@@ -38,10 +38,10 @@ Cualquier otra circunstancia dada, permitirá la participación del usuario/a pe
 7. La **clasificación** de talento se realizará sumando las puntuaciones de cada reto superado. En caso de **empate** se resolverá según el orden temporal de superación de los restos que estará registrado en la plataforma de competición.
 8. Solo se premiará a un participante por cada entidad de estudio a la que esté adscrito/a. Esto es, si un estudiante de la Universidad de Castilla-La Mancha obtiene una puntuación suficiente como para obtener un premio, ningún otro estudiante de su misma entidad de estudios (ningún otro estudiante de la Universidad de Castilla-La Mancha) podrá optar a premio.
 9. Los **premios** serán entregados, a conveniencia de los premiados, en cualquiera de los Centros Tecnológicos u oficinas de **Viewnext** situadas por el territorio nacional.
-+ Se premiará con material tecnológico a los tres primeros clasificados:
-    - 1º PREMIO: IPAD MINI: Gris espacial de 64GB
-    - 2º PREMIO: AURICULARES Plantronics Voyager 8200 UC
-    - 3º PREMIO: RELOJ INTELIGENTE: Samsung Galaxy Watch Active
+    + Se premiará con material tecnológico a los tres primeros clasificados:
+        - 1º PREMIO: IPAD MINI: Gris espacial de 64GB
+        - 2º PREMIO: AURICULARES Plantronics Voyager 8200 UC
+        - 3º PREMIO: RELOJ INTELIGENTE: Samsung Galaxy Watch Active
 
     En caso de haber problemas de stock, existencias o cualquier otra circunstancia que impidan la entrega de los premios establecidos, la organización se compromete a entregar un producto similar (en cuanto a características y precio) a los anteriormente expuestos.
 
