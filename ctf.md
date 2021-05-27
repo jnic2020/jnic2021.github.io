@@ -27,13 +27,14 @@ Cualquier otra circunstancia dada, permitirá la participación del usuario/a pe
     + **Hacking web**.
     + **Criptografía y esteganografía**.
 
-6.- La suma global de la puntuación de los retos será de 100 puntos repartidos en función de su dificultad, de la siguiente manera:
+6. La suma global de la puntuación de los retos será de 100 puntos repartidos en función de su dificultad, de la siguiente manera:
+
     + **Reto 1**: 10 puntos.
     + **Reto 2**: 15 puntos.
     + **Reto 3**: 20 puntos.
     + **Reto 4**: 25 puntos.
     + **Reto 5**: 30 puntos.
-    
+
 7. La **clasificación** de talento se realizará sumando las puntuaciones de cada reto superado. En caso de **empate** se resolverá según el orden temporal de superación de los restos que estará registrado en la plataforma de competición.
 8. Solo se premiará a un participante por cada entidad de estudio a la que esté adscrito/a. Esto es, si un estudiante de la Universidad de Castilla-La Mancha obtiene una puntuación suficiente como para obtener un premio, ningún otro estudiante de su misma entidad de estudios (ningún otro estudiante de la Universidad de Castilla-La Mancha) podrá optar a premio.
 9. Los **premios** serán entregados, a conveniencia de los premiados, en cualquiera de los Centros Tecnológicos u oficinas de **Viewnext** situadas por el territorio nacional.
