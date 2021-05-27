@@ -16,7 +16,7 @@ La competición se realizará durante **72 horas** de **forma virtual**, a trav�
 Podrá participar cualquier persona que resida dentro de España y esté realizando estudios pre-universitarios, universitarios o **haya terminado sus estudios universitarios u otros oficiales, en los tres últimos años (a partir del año 2019 inclusive)**.
 Cualquier otra circunstancia dada, permitirá la participación del usuario/a pero la no disposición a ser premiado/a en el caso de resultar ganador/a.
 
-1. Los usuarios que quieran participar en el CTF JNIC-Viewnext deberán completar el formulario que está publicado en el apartado **Inscripción** de esta web. El plazo de inscripciones está abierto hasta las **14:00 horas del 3 de junio de 2021**.
+1. Los usuarios que quieran participar en el CTF JNIC-Viewnext deberán completar el [formulario](https://docs.google.com/forms/d/e/1FAIpQLSdHMuJixKpwDxQapm4x_6xqFmociZ-Baz_IND5KxtxT_J59DQ/viewform) que está publicado en el apartado [**Inscripción**] de esta web. El plazo de inscripciones está abierto hasta las **14:00 horas del 3 de junio de 2021**.
 2. La competición será **completamente virtual**, celebrándose a través de la plataforma de formación del **Campus Virtual de la Universidad de Extremadura**.
 3. Tras el proceso de inscripción obtendrás credenciales de acceso a la plataforma de la competición. Las credenciales de acceso obtenidas **son intransferibles**. En caso de pérdida u olvido se pueden recuperar automáticamente a través de la propia plataforma donde se realiza la competición.
 4. La competición tendrá una duración de **72 horas**, teniendo lugar desde las **14:00 horas del día 4 de junio hasta las 14:00 horas del día 7 de junio de 2021**.
@@ -26,15 +26,17 @@ Cualquier otra circunstancia dada, permitirá la participación del usuario/a pe
     + **Análisis Forense**.
     + **Hacking web**.
     + **Criptografía y esteganografía**.
+
 6.- La suma global de la puntuación de los retos será de 100 puntos repartidos en función de su dificultad, de la siguiente manera:
-    + Reto 1: 10 puntos.
-    + Reto 2: 15 puntos.
-    + Reto 3: 20 puntos.
-    + Reto 4: 25 puntos.
-    + Reto 5: 30 puntos.
-7. La clasificación de talento se realizará sumando las puntuaciones de cada reto superado. En caso de empate se resolverá según el orden temporal de superación de los restos que estará registrado en la plataforma de competición.
+    + **Reto 1**: 10 puntos.
+    + **Reto 2**: 15 puntos.
+    + **Reto 3**: 20 puntos.
+    + **Reto 4**: 25 puntos.
+    + **Reto 5**: 30 puntos.
+    
+7. La **clasificación** de talento se realizará sumando las puntuaciones de cada reto superado. En caso de **empate** se resolverá según el orden temporal de superación de los restos que estará registrado en la plataforma de competición.
 8. Solo se premiará a un participante por cada entidad de estudio a la que esté adscrito/a. Esto es, si un estudiante de la Universidad de Castilla-La Mancha obtiene una puntuación suficiente como para obtener un premio, ningún otro estudiante de su misma entidad de estudios (ningún otro estudiante de la Universidad de Castilla-La Mancha) podrá optar a premio.
-9. Los premios serán entregados, a conveniencia de los premiados, en cualquiera de los Centros Tecnológicos u oficinas de Viewnext situadas por el territorio nacional.
+9. Los **premios** serán entregados, a conveniencia de los premiados, en cualquiera de los Centros Tecnológicos u oficinas de **Viewnext** situadas por el territorio nacional.
 + Se premiará con material tecnológico a los tres primeros clasificados:
     - 1º PREMIO: IPAD MINI: Gris espacial de 64GB
     - 2º PREMIO: AURICULARES Plantronics Voyager 8200 UC
