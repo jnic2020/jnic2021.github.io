@@ -141,7 +141,7 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td colspan="2"><center>Descanso para comer</center></td>
+      <td colspan="2"><center><b>Descanso para comer</b></center></td>
     </tr>
     <tr>
       <td>16:30</td>
@@ -172,7 +172,7 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
       <td colspan="2">
         <b>Sesión de Entrega de los Premios RENIC</b>
         <br>
-        Presidente de Sesión: Javier López Muñoz (Universidad de Málaga)
+        Presenta: Javier López Muñoz (Universidad de Málaga)
       </td>
     </tr>
     <tr>
@@ -183,7 +183,7 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
           <li>Sra. Dña. Lola Rebollo Revesado. Gerente de Impulso a la Industria e I+D+i de INCIBE</li>
           <li>Sra. Dña. Cristina Alcaraz Tello. Presidenta del Comité de Programa Científico</li>
           <li>Representante Viewnext </li>
-          <li>Sr. D. Juan Díez González. Comité Ejecutivo JNIC. INCIBE</li>
+          <li>Sr. D. Juan Díez González. Comité Ejecutivo JNIC</li>
           <li>Sr. D. Representante de sede JNIC 2022 </li>
           <li>Sr. D. Manuel A. Serrado. Presidente del Comité Organizador</li>
         </ul>
