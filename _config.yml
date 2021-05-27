@@ -49,6 +49,9 @@ links:
   - title: Envío de trabajos
     url: /trabajos
     external: false
+  - title: CTF Viewext
+    url: /ctf
+    external: false
   - title: Programa
     url: /programa
     external: false
