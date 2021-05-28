@@ -42,7 +42,7 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
     <tr>
       <td>10:00</td>
       <td colspan="2">
-        <b>Conferencia invitada: </b>
+        <b>Conferencia invitada: </b><i>Computación Cuántica: La Re-evolución</i>
         <br>
         Ramsés Gallego
       </td>
