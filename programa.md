@@ -182,7 +182,7 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
         <ul>
           <li>Sra. Dña. Lola Rebollo Revesado. Gerente de Impulso a la Industria e I+D+i de INCIBE</li>
           <li>Sra. Dña. Cristina Alcaraz Tello. Presidenta del Comité de Programa Científico</li>
-          <li>Representante Viewnext </li>
+          <li>Sr. D. Ángel Quesada Canabal. Viewnext </li>
           <li>Sr. D. Juan Díez González. Comité Ejecutivo JNIC</li>
           <li>Sr. D. Representante de sede JNIC 2022 </li>
           <li>Sr. D. Manuel A. Serrado. Presidente del Comité Organizador</li>
