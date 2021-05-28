@@ -7,7 +7,7 @@ layout: page
 ---
 ![CTF]({{site.url}}/Logos/CTF.jpg)
 
-El **Capture The Flag JNIC-VIEWNEXT** es una competición virtual que pretende detectar y premiar a las nuevas promesas de la **#ciberseguridad** del ámbito nacional. Creado para complementar las **VI Jornadas Nacionales de Investigación en Ciberseguridad**, celebradas de manera online el **8 y 9 de junio de 2021**.
+El **Capture The Flag JNIC-VIEWNEXT** es una competición virtual que pretende detectar y premiar a las nuevas promesas de la **#ciberseguridad** del ámbito nacional. Creado para complementar las **VI Jornadas Nacionales de Investigación en Ciberseguridad**, celebradas de manera online el **9 y 10 de junio de 2021**.
 Diseñado para llegar a cualquier persona que sienta interés sobre la ciberseguridad y pensado para identificar talento entre usuarios que quieran poner a prueba sus conocimientos, habilidades y destrezas en este ámbito trascendental para la tecnología.
 La competición se realizará durante **72 horas** de **forma virtual**, a través de la plataforma de formación del **Campus Virtual de la Universidad de Extremadura**. Comenzará el día 4 de junio, cuando se envíen las credenciales a todos los participantes y siendo competitivo el **4 de junio a las 14:00h hasta el día 7 de junio a las 14:00h**, 72 horas en total.
 
