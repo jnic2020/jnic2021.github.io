@@ -99,9 +99,9 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
         Participantes:
         <ul>
           <li>Representante INCIBE </li>
-          <li>Sr. D. Tomás Castro. Presidente AEI Ciberseguridad y CONETIC</li>
+          <li>Sr. D. Lucio González Jiménez. SGS, Vicepresidente AEI Ciberseguridad</li>
           <li>Sr. Dña. Soledad Díaz. APTE, Representante DISRUPTIVE</li>
-          <li>Sr. D. Cecilio Angulo Bahon. UPC, Representante PLANETIC</li>
+          <li>Sr. Dr. Cecilio Angulo Bahon. UPC, Representante PLANETIC</li>
           <li>Sr. D. Susana Asensio. Centro de Ciberseguridad Industrial (CCI)</li>
           <li>Representante RENIC</li>
         </ul>
