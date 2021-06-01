@@ -96,7 +96,7 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
         Modera: Javier Larrañeta. Secretario General de PESI
         <br>
         <br>
-        <b>Organiza:</b><a href="http://www.pesi-seguridadindustrial.org/es"><img src="/Logos/pesi.png"></a>
+        Organiza:<a href="http://www.pesi-seguridadindustrial.org/es"><img src="/Logos/pesi.png"></a>
         <br>
         Participantes:
         <ul>
