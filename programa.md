@@ -98,7 +98,7 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
         <br>
         Participantes:
         <ul>
-          <li>Representante INCIBE </li>
+          <li>Sr. D. Juan Díez González. Responsable de Apoyo a la I+D+i en ciberseguridad, INCIBE </li>
           <li>Sr. D. Lucio González Jiménez. SGS, Vicepresidente AEI Ciberseguridad</li>
           <li>Sr. Dña. Soledad Díaz. APTE, Representante DISRUPTIVE</li>
           <li>Sr. Dr. Cecilio Angulo Bahon. UPC, Representante PLANETIC</li>
