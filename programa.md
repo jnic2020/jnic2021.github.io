@@ -105,6 +105,8 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
           <li>Sr. D. Susana Asensio. Centro de Ciberseguridad Industrial (CCI)</li>
           <li>Representante RENIC</li>
         </ul>
+        <br>
+        <b>Organiza:</b><a href="http://www.pesi-seguridadindustrial.org/es">PESI <img src="/Logos/pesi.png"></a>
       </td>
     </tr>
   </tbody>
