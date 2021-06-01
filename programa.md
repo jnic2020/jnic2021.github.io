@@ -96,8 +96,6 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
         Modera: Javier Larrañeta. Secretario General de PESI
         <br>
         <br>
-        Organiza:<a href="http://www.pesi-seguridadindustrial.org/es"><img src="/Logos/pesi.png"></a>
-        <br>
         Participantes:
         <ul>
           <li>Sr. D. Juan Díez González. Responsable de Apoyo a la I+D+i en ciberseguridad, INCIBE </li>
@@ -107,6 +105,8 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
           <li>Sr. D. Susana Asensio. Centro de Ciberseguridad Industrial (CCI)</li>
           <li>Representante RENIC</li>
         </ul>
+        <br>
+        Organiza:<a href="http://www.pesi-seguridadindustrial.org/es"><img src="/Logos/pesi.png"></a>
       </td>
     </tr>
   </tbody>
@@ -167,6 +167,8 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
           <li>Sr. D. Jose Francisco Ruiz. ATOS</li>
           <li>Sra. Dña. Sara García Becares. INCIBE y Women4Cyber Spain</li>
         </ul>
+        <br>
+        Organiza:<a href="https://www.women4cyberspain.es/"><img src="/Logos/Women4Cyber.jpg"></a>
       </td>
     </tr>
     <tr>
