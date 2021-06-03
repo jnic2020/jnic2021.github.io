@@ -93,17 +93,16 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
         <b>Mesa Redonda: </b><i>Colaboración en I+D+i nacional de Ciberseguridad: Grupo Interplataformas y Sector empresarial innovador </i>
         <br>
         <br>
-        Modera: Javier Larrañeta. Secretario General de PESI
+        Modera: Javier Larrañeta. Tecnalia, Secretario General de PESI
         <br>
         <br>
         Participantes:
         <ul>
           <li>Sr. D. Juan Díez González. Responsable de Apoyo a la I+D+i en ciberseguridad, INCIBE </li>
           <li>Sr. D. Lucio González Jiménez. SGS, Vicepresidente AEI Ciberseguridad</li>
-          <li>Sr. Dña. Soledad Díaz. APTE, Representante DISRUPTIVE</li>
+          <li>Sra. Dña. Soledad Díaz. APTE, Representante DISRUPTIVE</li>
           <li>Sr. Dr. Cecilio Angulo Bahon. UPC, Representante PLANETIC</li>
-          <li>Sr. D. Susana Asensio. Centro de Ciberseguridad Industrial (CCI)</li>
-          <li>Representante RENIC</li>
+          <li>Sra. Dña. Dª María Penilla. ZIUR, Centro de Ciberseguridad Industrial de Gipuzkoa</li>
         </ul>
         <br>
         Organiza:<a href="http://www.pesi-seguridadindustrial.org/es"><img src="/Logos/pesi.png"></a>
