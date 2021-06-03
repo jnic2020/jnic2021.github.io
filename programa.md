@@ -148,7 +148,7 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
     <tr>
       <td>16:30</td>
       <td colspan="2">
-        <b>Mesa Redonda: </b><i>Desde la Educación pasando por la I+D, hacia la Empresa Inteligente</i>
+        <b>Mesa Redonda: </b><i>Desde la Educación, pasando por la I+D, hacia la Empresa Inteligente</i>
         <br>
         <br>
         Modera: Javier López. Universidad de Málaga
@@ -159,11 +159,11 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
           <li>Sra. Dña. Mar López. DSN y Women4Cyber Spain</li>
           <li>Sra. Dña. Soledad Antelada. Berkeley Lab y Women4Cyber Spain</li>
           <li>Sra. Dña. Azucena Hernández. EUROCYBCAR y Women4Cyber Spain</li>
-          <li>Sra. Dña. Ainhoa Celaya. LUNAMIC y Women4Cyber Spain</li>
+          <li>Sra. Dña. Ainoa Celaya. LUNAMIC y Women4Cyber Spain</li>
           <li>Sra. Dña. Concepción Cordón. Women4Cyber Spain</li>
           <li>Sra. Dña. Cristina Alcaraz. Universidad de Málaga y Women4Cyber Spain</li>
           <li>Sra. Dña. Ana I. Ayerbe. TECNALIA, Council Women4Cyber y Women4Cyber Spain</li>
-          <li>Sr. D. Jose Luis Galindo. TELEFONICA</li>
+          <li>Sr. D. Luis Ángel Galindo. TELEFONICA</li>
           <li>Sr. D. Jose Francisco Ruiz. ATOS</li>
           <li>Sra. Dña. Sara García Becares. INCIBE y Women4Cyber Spain</li>
         </ul>
