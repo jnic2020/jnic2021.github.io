@@ -168,7 +168,7 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
           <li>Sra. Dña. Sara García Becares. INCIBE y Women4Cyber Spain</li>
         </ul>
         <br>
-        Organiza:<a href="https://www.women4cyberspain.es/"><img src="/Logos/Women4Cyber.png"></a>
+        Con la participación de: <a href="https://www.women4cyberspain.es/"><img src="/Logos/Women4Cyber.png"></a>
       </td>
     </tr>
     <tr>
