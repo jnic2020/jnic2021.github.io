@@ -188,7 +188,7 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
           <li>Sr. D. Ángel Quesada Canabal. Viewnext </li>
           <li>Sr. D. Juan Díez González. Comité Ejecutivo JNIC</li>
           <li>Sr. D. Representante de sede JNIC 2022 </li>
-          <li>Sr. D. Manuel A. Serrado. Presidente del Comité Organizador</li>
+          <li>Sr. D. Manuel A. Serrano. Presidente del Comité Organizador</li>
         </ul>
       </td>
     </tr>
