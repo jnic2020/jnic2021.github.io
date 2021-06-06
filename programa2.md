@@ -65,13 +65,29 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
     </tr>
     <tr>
       <td>12:30</td>
-      <td><a href="#A2"><b>Sesión de Investigación A2:</b> Detección de Intrusos y Gestión Anomalías</a></td>
-      <td><a href="#B2"><b>Sesión de Investigación B2:</b> Gobierno y Gestión de Riesgos </a></td>
+      <td>
+        <a href="#A2"><b>Sesión de Investigación A2:</b> Detección de Intrusos y Gestión Anomalías</a>
+        <br>
+        <center><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDNmZjU3NzMtNjkzZS00ZGU1LWEzYTMtMjllYzI4NWY1OTk4%40thread.v2/0?context=%7b%22Tid%22%3a%22c42cbae6-61f4-498c-9107-6a8cf5f01e56%22%2c%22Oid%22%3a%22e50f4dc5-ce19-4820-b889-be7b8b123727%22%7d" target="_blank"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
+      </td>
+      <td>
+        <a href="#B2"><b>Sesión de Investigación B2:</b> Gobierno y Gestión de Riesgos </a>
+        <br>
+        <center><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGI1MWQ2ZWQtYzkzMS00ZmUwLTlhMTctNTllOTk1ZWJiMmQx%40thread.v2/0?context=%7b%22Tid%22%3a%22c42cbae6-61f4-498c-9107-6a8cf5f01e56%22%2c%22Oid%22%3a%22e50f4dc5-ce19-4820-b889-be7b8b123727%22%7d" target="_blank"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
+      </td>
     </tr>
     <tr>
       <td>14:00</td>
-      <td><a href="#A3"><b>Sesión de Investigación A3:</b> Ciberataques e Inteligencia de Amenazas</a></td>
-      <td><a href="#B3"><b>Sesión de Investigación B3:</b> Tecnologías Emergentes y Entrenamiento</a></td>
+      <td>
+        <a href="#A3"><b>Sesión de Investigación A3:</b> Ciberataques e Inteligencia de Amenazas</a>
+        <br>
+        <center><a href="" target="_blank"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
+      </td>
+      <td>
+        <a href="#B3"><b>Sesión de Investigación B3:</b> Tecnologías Emergentes y Entrenamiento</a>
+        <br>
+        <center><a href="" target="_blank"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
+      </td>
     </tr>
     <tr>
       <td>&nbsp;</td>
@@ -88,6 +104,8 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
         <br>
         <p>Aplicación de control de acceso y técnicas de Blockchain para el control de datos genéticos <br>
         <em>Isabel Román, Germán Madinabeitia, Rafael Estepa, Jesús Diaz-Verdejo, Antonio Estepa, José Luis González-Sánchez, Felipe Lemus Prieto</em></p>
+        <br>
+        <center><a href="" target="_blank"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
       </td>
     </tr>
     <tr>
@@ -96,6 +114,8 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
         <b>Conferencia invitada: </b><i>Cybersecurity Operations and Research from Lawrence Berkeley National Lab, United States Department of Energy</i>
         <br>
         Soledad Antelada Toledano
+        <br>
+        <center><a href="" target="_blank"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
       </td>
     </tr>
     <tr>
@@ -117,6 +137,8 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
         </ul>
         <br>
         Organiza:<a href="http://www.pesi-seguridadindustrial.org/es"><img src="/Logos/pesi.png"></a>
+        <br>
+        <center><a href="" target="_blank"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
       </td>
     </tr>
   </tbody>
@@ -137,21 +159,41 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
         <a href="http://2021.jnic.es/conferenciac"><b>Conferencia invitada: </b><i>I+D+i (en el ámbito del ciberespacio) dentro del Ministerio de Defensa</i></a>
         <br>
         Mónica Mateos Calle
+        <br>
+        <center><a href="" target="_blank"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
       </td>
     </tr>
     <tr>
       <td>10:15</td>
       <td colspan="2"><a href="#formacion"><b>Sesión de Formación e Innovación Educativa</b></a></td>
+        <br>
+        <center><a href="" target="_blank"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
     </tr>
     <tr>
       <td>11:45</td>
-      <td><a href="#A4"><b>Sesión de Investigación A4:</b> Análisis Forense y Cibercrimen </a></td>
-      <td><a href="#B4"><b>Sesión de Investigación B4:</b> Criptografía</a></td>
+      <td>
+        <a href="#A4"><b>Sesión de Investigación A4:</b> Análisis Forense y Cibercrimen </a>
+        <br>
+        <center><a href="" target="_blank"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
+      </td>
+      <td>
+        <a href="#B4"><b>Sesión de Investigación B4:</b> Criptografía</a>
+        <br>
+        <center><a href="" target="_blank"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
+      </td>
     </tr>
     <tr>
       <td>13:15</td>
-      <td><a href="#A5"><b>Sesión de Investigación A5:</b> Ciberseguridad Industrial y aplicaciones</a></td>
-      <td><a href="#B5"><b>Sesión de Investigación B5:</b> Privacidad </a></td>
+      <td>
+        <a href="#A5"><b>Sesión de Investigación A5:</b> Ciberseguridad Industrial y aplicaciones</a>
+        <br>
+        <center><a href="" target="_blank"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
+      </td>
+      <td>
+        <a href="#B5"><b>Sesión de Investigación B5:</b> Privacidad </a>
+        <br>
+        <center><a href="" target="_blank"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
+      </td>
     </tr>
     <tr>
       <td>&nbsp;</td>
@@ -181,6 +223,8 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
         </ul>
         <br>
         Con la participación de: <a href="https://www.women4cyberspain.es/"><img src="/Logos/Women4Cyber.png"></a>
+        <br>
+        <center><a href="" target="_blank"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
       </td>
     </tr>
     <tr>
@@ -189,6 +233,8 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
         <b>Sesión de Entrega de los Premios RENIC</b>
         <br>
         Presenta: Javier López Muñoz (Universidad de Málaga)
+        <br>
+        <center><a href="" target="_blank"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
       </td>
     </tr>
     <tr>
@@ -203,6 +249,8 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
           <li>Sr. D. Representante de sede JNIC 2022 </li>
           <li>Sr. D. Manuel A. Serrano. Presidente del Comité Organizador</li>
         </ul>
+        <br>
+        <center><a href="" target="_blank"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
       </td>
     </tr>
   </tbody>
@@ -217,6 +265,8 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
 <h4>Sesión de Investigación A1: Detección de intrusiones y gestión de anomalías I</h4>
 <p>Presidente de Sesión: <i>Pedro García Teodoro (Universidad de Granada)</i>
 <br>Miércoles 9 de junio, 11:00-12:30
+<br>
+<center><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDEyMjE2OGYtOTQ3Ni00MThlLWI0MGUtMDYyZTYyNjhkMGUy%40thread.v2/0?context=%7b%22Tid%22%3a%22c42cbae6-61f4-498c-9107-6a8cf5f01e56%22%2c%22Oid%22%3a%22e50f4dc5-ce19-4820-b889-be7b8b123727%22%7d" target="_blank"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
 </p>
 <table class="table" style="width:100%">
   <tbody valign="top">
@@ -298,6 +348,8 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
 <h4>Sesión de Investigación A2: Detección de intrusiones y gestión de anomalías II </h4>
 <p>Presidente de Sesión: <i>Félix Gómez Mármol (Universidad de Murcia)</i>
 <br> Miércoles 9 de junio, 12:30-14:00
+<br>
+<center><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDNmZjU3NzMtNjkzZS00ZGU1LWEzYTMtMjllYzI4NWY1OTk4%40thread.v2/0?context=%7b%22Tid%22%3a%22c42cbae6-61f4-498c-9107-6a8cf5f01e56%22%2c%22Oid%22%3a%22e50f4dc5-ce19-4820-b889-be7b8b123727%22%7d" target="_blank"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
 </p>
 <table class="table" style="width:100%">
   <tbody valign="top">
@@ -398,6 +450,8 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
 <h4>Sesión de Investigación B1: Inteligencia Artificial en ciberseguridad </h4>
 <p>Presidente de Sesión: <i>Ana Ayerbe Fernández-Cuesta (Tecnalia)</i>
 <br>Miércoles 9 de junio, 11:00-12:30
+<br>
+<center><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjRjMzViODktZjM1Mi00NmNiLWE0NWMtNTM4MjM5NTViMDVk%40thread.v2/0?context=%7b%22Tid%22%3a%22c42cbae6-61f4-498c-9107-6a8cf5f01e56%22%2c%22Oid%22%3a%22e50f4dc5-ce19-4820-b889-be7b8b123727%22%7d" target="_blank"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
 </p>
 <table class="table" style="width:100%">
   <tbody valign="top">
