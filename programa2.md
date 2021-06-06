@@ -165,9 +165,10 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
     </tr>
     <tr>
       <td>10:15</td>
-      <td colspan="2"><a href="#formacion"><b>Sesión de Formación e Innovación Educativa</b></a></td>
+      <td colspan="2"><a href="#formacion"><b>Sesión de Formación e Innovación Educativa</b></a>
         <br>
         <center><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWZmZjQ1OWEtNTk3NC00OGRhLTkxZTItODBkZmU3YTI3OWRm%40thread.v2/0?context=%7b%22Tid%22%3a%22c42cbae6-61f4-498c-9107-6a8cf5f01e56%22%2c%22Oid%22%3a%22e50f4dc5-ce19-4820-b889-be7b8b123727%22%7d" target="_teams"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
+      </td>
     </tr>
     <tr>
       <td>11:45</td>
