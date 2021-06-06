@@ -263,8 +263,9 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
 
 <a id="A1"></a>
 <h4>Sesión de Investigación A1: Detección de intrusiones y gestión de anomalías I</h4>
-<a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDEyMjE2OGYtOTQ3Ni00MThlLWI0MGUtMDYyZTYyNjhkMGUy%40thread.v2/0?context=%7b%22Tid%22%3a%22c42cbae6-61f4-498c-9107-6a8cf5f01e56%22%2c%22Oid%22%3a%22e50f4dc5-ce19-4820-b889-be7b8b123727%22%7d" target="_blank"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a>
-<p>Presidente de Sesión: <i>Pedro García Teodoro (Universidad de Granada)</i>
+<p>
+<center><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDEyMjE2OGYtOTQ3Ni00MThlLWI0MGUtMDYyZTYyNjhkMGUy%40thread.v2/0?context=%7b%22Tid%22%3a%22c42cbae6-61f4-498c-9107-6a8cf5f01e56%22%2c%22Oid%22%3a%22e50f4dc5-ce19-4820-b889-be7b8b123727%22%7d" target="_blank"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
+Presidente de Sesión: <i>Pedro García Teodoro (Universidad de Granada)</i>
 <br>Miércoles 9 de junio, 11:00-12:30
 </p>
 <table class="table" style="width:100%">
