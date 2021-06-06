@@ -265,6 +265,7 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
 <h4>Sesión de Investigación A1: Detección de intrusiones y gestión de anomalías I</h4>
 <p>
 <center><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDEyMjE2OGYtOTQ3Ni00MThlLWI0MGUtMDYyZTYyNjhkMGUy%40thread.v2/0?context=%7b%22Tid%22%3a%22c42cbae6-61f4-498c-9107-6a8cf5f01e56%22%2c%22Oid%22%3a%22e50f4dc5-ce19-4820-b889-be7b8b123727%22%7d" target="_blank"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
+<br>
 Presidente de Sesión: <i>Pedro García Teodoro (Universidad de Granada)</i>
 <br>Miércoles 9 de junio, 11:00-12:30
 </p>
@@ -402,7 +403,10 @@ Presidente de Sesión: <i>Félix Gómez Mármol (Universidad de Murcia)</i>
 
 <a id="A3"></a>
 <h4>Sesión de Investigación A3: Ciberataques e inteligencia de amenazas </h4>
-<p>Presidente de Sesión:<i>Rafael Martínez Gasca (Universidad de Sevilla)</i>
+<p>
+<center><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmJkZmNhMzItOTU1ZS00NmEwLWFiYTctZWE2ZDJiYzhhNGE3%40thread.v2/0?context=%7b%22Tid%22%3a%22c42cbae6-61f4-498c-9107-6a8cf5f01e56%22%2c%22Oid%22%3a%22e50f4dc5-ce19-4820-b889-be7b8b123727%22%7d" target="_teams"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
+<br>
+Presidente de Sesión:<i>Rafael Martínez Gasca (Universidad de Sevilla)</i>
 <br> Miércoles 9 de junio, 14:00-15:00 
 </p>
 <table class="table" style="width:100%">
@@ -540,7 +544,10 @@ Presidente de Sesión: <i>Félix Gómez Mármol (Universidad de Murcia)</i>
 
 <a id="B3"></a>
 <h4>Sesión de Investigación B3: Tecnologías emergentes y entrenamiento en ciberseguridad</h4>
-<p>Presidente de Sesión:<i>Luis E. Sánchez Crespo (Universidad de Castilla-La Mancha)</i>
+<p>
+<center><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzZhOWUxNDItOTc2NS00MjU3LThmN2MtN2U3Yjk3ZmQxMTdj%40thread.v2/0?context=%7b%22Tid%22%3a%22c42cbae6-61f4-498c-9107-6a8cf5f01e56%22%2c%22Oid%22%3a%22e50f4dc5-ce19-4820-b889-be7b8b123727%22%7d" target="_teams"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
+<br>
+Presidente de Sesión:<i>Luis E. Sánchez Crespo (Universidad de Castilla-La Mancha)</i>
 <br> Miércoles 9 de junio, 14:00-15:00 
 </p>
 <table class="table" style="width:100%">
@@ -582,7 +589,10 @@ Presidente de Sesión: <i>Félix Gómez Mármol (Universidad de Murcia)</i>
 
 <a id="formacion"></a>
 <h4>Sesión de Formación e Innovación Educativa</h4>
-<p>Presidente de Sesión: <i>Noemí de Castro García (Universidad de León)</i>
+<p>
+<center><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWZmZjQ1OWEtNTk3NC00OGRhLTkxZTItODBkZmU3YTI3OWRm%40thread.v2/0?context=%7b%22Tid%22%3a%22c42cbae6-61f4-498c-9107-6a8cf5f01e56%22%2c%22Oid%22%3a%22e50f4dc5-ce19-4820-b889-be7b8b123727%22%7d" target="_teams"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
+<br>
+Presidente de Sesión: <i>Noemí de Castro García (Universidad de León)</i>
 <br>Jueves 10 de junio, 10:15-11:45
 </p>
 <table class="table" style="width:100%">
@@ -624,7 +634,10 @@ Presidente de Sesión: <i>Félix Gómez Mármol (Universidad de Murcia)</i>
 
 <a id="A4"></a>
 <h4>Sesión de Investigación A4: Análisis forense y cibercrimen </h4>
-<p>Presidente de Sesión: <i>Victor A. Villagrá González (Universidad Politécnica de Madrid)</i>
+<p>
+<center><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWE5MzAyZGUtODBlYy00ZGRjLTkyZmItZjU1YWU0NDBhY2Zl%40thread.v2/0?context=%7b%22Tid%22%3a%22c42cbae6-61f4-498c-9107-6a8cf5f01e56%22%2c%22Oid%22%3a%22e50f4dc5-ce19-4820-b889-be7b8b123727%22%7d" target="_teams"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
+<br>
+Presidente de Sesión: <i>Victor A. Villagrá González (Universidad Politécnica de Madrid)</i>
 <br>Jueves 10 de junio, 11:45-13:15
 </p>
 <table class="table" style="width:100%">
@@ -681,7 +694,10 @@ Presidente de Sesión: <i>Félix Gómez Mármol (Universidad de Murcia)</i>
 
 <a id="A5"></a>
 <h4>Sesión de Investigación A5: Ciberseguridad industrial y aplicaciones </h4>
-<p>Presidente de Sesión: <i>Urko Zurutuza Ortega (Mondragon Unibertsitatea)</i>
+<p>
+<center><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDJhNmY3NDEtYTllOC00OWNlLTk0MDctNGM5ODZiM2E5MjY2%40thread.v2/0?context=%7b%22Tid%22%3a%22c42cbae6-61f4-498c-9107-6a8cf5f01e56%22%2c%22Oid%22%3a%22e50f4dc5-ce19-4820-b889-be7b8b123727%22%7d" target="_teams"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
+<br>
+Presidente de Sesión: <i>Urko Zurutuza Ortega (Mondragon Unibertsitatea)</i>
 <br>Jueves 10 de junio, 13:15-14:45
 </p>
 <table class="table" style="width:100%">
@@ -733,7 +749,10 @@ Presidente de Sesión: <i>Félix Gómez Mármol (Universidad de Murcia)</i>
 
 <a id="B4"></a>
 <h4>Sesión de Investigación B4: Criptografía </h4>
-<p>Presidente de Sesión: <i>Pino Caballero-Gil (Universidad de La Laguna)</i>
+<p>
+<center><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODkwNmNjODYtZDQ5OS00ZWUxLWIzNTUtY2Q5Y2NlY2M0NDMz%40thread.v2/0?context=%7b%22Tid%22%3a%22c42cbae6-61f4-498c-9107-6a8cf5f01e56%22%2c%22Oid%22%3a%22e50f4dc5-ce19-4820-b889-be7b8b123727%22%7d" target="_teams"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
+<br>
+Presidente de Sesión: <i>Pino Caballero-Gil (Universidad de La Laguna)</i>
 <br>Jueves 10 de junio, 11:45-13:15
 </p>
 <table class="table" style="width:100%">
@@ -775,7 +794,10 @@ Presidente de Sesión: <i>Félix Gómez Mármol (Universidad de Murcia)</i>
 
 <a id="B5"></a>
 <h4>Sesión de Investigación B5: Privacidad </h4>
-<p>Presidente de Sesión: <i>Jordi Castellà Roca (Universitat Rovira i Virgili)</i>
+<p>
+<center><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDBjMWMwZDQtNTZjMC00MmVjLWJmNmYtN2Q1NDhiYjIyMjVi%40thread.v2/0?context=%7b%22Tid%22%3a%22c42cbae6-61f4-498c-9107-6a8cf5f01e56%22%2c%22Oid%22%3a%22e50f4dc5-ce19-4820-b889-be7b8b123727%22%7d" target="_teams"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
+<br>
+Presidente de Sesión: <i>Jordi Castellà Roca (Universitat Rovira i Virgili)</i>
 <br>Jueves 10 de junio, 13:15-14:45
 </p>
 <table class="table" style="width:100%">
