@@ -17,7 +17,7 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
 ### __Programa JNIC Live 2021__
 
 <br>
-<a href="https://app.sli.do/event/ed1p6not"><img src="{{site.url}}/images/slido.jpg"></a>
+<center><a href="https://app.sli.do/event/ed1p6not"><img src="{{site.url}}/images/slido.jpg" width="300"></a></center>
 
 <h4>Miércoles 9 de Junio</h4>
 <table class="table" style="width:100%">
@@ -111,6 +111,8 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
   </tbody>
 </table>
 
+<center><a href="https://app.sli.do/event/ed1p6not"><img src="{{site.url}}/images/slido.jpg" width="300"></a></center>
+
 <h4>Jueves 10 de Junio</h4>
 <table class="table" style="width:100%">
   <tbody valign="top">
@@ -194,6 +196,8 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
     </tr>
   </tbody>
 </table>
+
+<center><a href="https://app.sli.do/event/ed1p6not"><img src="{{site.url}}/images/slido.jpg" width="300"></a></center>
 
 <a href="#inicio">Subir</a>
 <br>
