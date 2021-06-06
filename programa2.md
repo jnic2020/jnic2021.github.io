@@ -81,7 +81,7 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
       <td>
         <a href="#A3"><b>Sesión de Investigación A3:</b> Ciberataques e Inteligencia de Amenazas</a>
         <br>
-        <center><a href="" target="_blank"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
+        <center><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmJkZmNhMzItOTU1ZS00NmEwLWFiYTctZWE2ZDJiYzhhNGE3%40thread.v2/0?context=%7b%22Tid%22%3a%22c42cbae6-61f4-498c-9107-6a8cf5f01e56%22%2c%22Oid%22%3a%22e50f4dc5-ce19-4820-b889-be7b8b123727%22%7d" target="_blank"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
       </td>
       <td>
         <a href="#B3"><b>Sesión de Investigación B3:</b> Tecnologías Emergentes y Entrenamiento</a>
@@ -263,10 +263,9 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
 
 <a id="A1"></a>
 <h4>Sesión de Investigación A1: Detección de intrusiones y gestión de anomalías I</h4>
+<a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDEyMjE2OGYtOTQ3Ni00MThlLWI0MGUtMDYyZTYyNjhkMGUy%40thread.v2/0?context=%7b%22Tid%22%3a%22c42cbae6-61f4-498c-9107-6a8cf5f01e56%22%2c%22Oid%22%3a%22e50f4dc5-ce19-4820-b889-be7b8b123727%22%7d" target="_blank"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a>
 <p>Presidente de Sesión: <i>Pedro García Teodoro (Universidad de Granada)</i>
 <br>Miércoles 9 de junio, 11:00-12:30
-<br>
-<center><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDEyMjE2OGYtOTQ3Ni00MThlLWI0MGUtMDYyZTYyNjhkMGUy%40thread.v2/0?context=%7b%22Tid%22%3a%22c42cbae6-61f4-498c-9107-6a8cf5f01e56%22%2c%22Oid%22%3a%22e50f4dc5-ce19-4820-b889-be7b8b123727%22%7d" target="_blank"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
 </p>
 <table class="table" style="width:100%">
   <tbody valign="top">
