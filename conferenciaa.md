@@ -7,6 +7,8 @@ layout: page
 ---
 
 # Conferencia Invitada - Computación Cuántica: La Re-Evolución
+
+[Volver al Programa de JNIC 2021](https://2021.jnic.es/programa)
 ## por Ramsés Gallego
 
 La Computación Cuántica modifica muchas de las cosas que son pilares para los negocios de hoy. La manera en la que creamos y mantenemos secreto va a ser pronto alterada por tecnologías cuánticas que modificarán diversos sectores, diferentes industrias. Basada en la teoría de la mecánica y la física cuántica, si los ordenadores cuánticos existieran hoy representaría un salto de gigante en la velocidad y el poder computacional así como en el uso de la tecnología. ¿Pero existen realmente y qué podemos hacer con ellos? Hay inversiones multimillonarias alrededor del mundo en esta disciplina y, de la misma manera que existió una carrera espacial y en el uso de la energía nuclear, han habido avances fundamentales en computación cuántica en pocos años. No es esta una era de cambios sino un cambio de era. Al asistir a esta sesión se podrá comprender el estado de las tecnologías cuánticas hoy y qué suponen para las organizaciones y la sociedad en la que vivimos. Se podrá conocer el impacto inequívoco de todo ello, especialmente en lo que se refiere a Ciberseguridad. Y es que la Computación Cuántica no es un Revolución... sino una Re-Evolución.
