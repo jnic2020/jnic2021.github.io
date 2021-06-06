@@ -47,7 +47,7 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
         <br>
         Ramsés Gallego
         <br>
-        <center><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTJkMWNkYzYtOTMzOC00NWM0LWFhYjctOTFjZmVlNjE3YTBl%40thread.v2/0?context=%7b%22Tid%22%3a%22c42cbae6-61f4-498c-9107-6a8cf5f01e56%22%2c%22Oid%22%3a%22e50f4dc5-ce19-4820-b889-be7b8b123727%22%7d" target="_blank"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
+        <center><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTJkMWNkYzYtOTMzOC00NWM0LWFhYjctOTFjZmVlNjE3YTBl%40thread.v2/0?context=%7b%22Tid%22%3a%22c42cbae6-61f4-498c-9107-6a8cf5f01e56%22%2c%22Oid%22%3a%22e50f4dc5-ce19-4820-b889-be7b8b123727%22%7d" target="_teams"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
       </td>
     </tr>
     <tr>
@@ -55,12 +55,12 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
       <td>
         <a href="#A1"><b>Sesión de Investigación A1:</b> Detección de Intrusos y Gestión Anomalías</a>
         <br>
-        <center><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDEyMjE2OGYtOTQ3Ni00MThlLWI0MGUtMDYyZTYyNjhkMGUy%40thread.v2/0?context=%7b%22Tid%22%3a%22c42cbae6-61f4-498c-9107-6a8cf5f01e56%22%2c%22Oid%22%3a%22e50f4dc5-ce19-4820-b889-be7b8b123727%22%7d" target="_blank"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
+        <center><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDEyMjE2OGYtOTQ3Ni00MThlLWI0MGUtMDYyZTYyNjhkMGUy%40thread.v2/0?context=%7b%22Tid%22%3a%22c42cbae6-61f4-498c-9107-6a8cf5f01e56%22%2c%22Oid%22%3a%22e50f4dc5-ce19-4820-b889-be7b8b123727%22%7d" target="_teams"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
       </td>
       <td>
         <a href="#B1"><b>Sesión de Investigación B1:</b> IA y Ciberseguridad</a>
         <br>
-        <center><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjRjMzViODktZjM1Mi00NmNiLWE0NWMtNTM4MjM5NTViMDVk%40thread.v2/0?context=%7b%22Tid%22%3a%22c42cbae6-61f4-498c-9107-6a8cf5f01e56%22%2c%22Oid%22%3a%22e50f4dc5-ce19-4820-b889-be7b8b123727%22%7d" target="_blank"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
+        <center><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjRjMzViODktZjM1Mi00NmNiLWE0NWMtNTM4MjM5NTViMDVk%40thread.v2/0?context=%7b%22Tid%22%3a%22c42cbae6-61f4-498c-9107-6a8cf5f01e56%22%2c%22Oid%22%3a%22e50f4dc5-ce19-4820-b889-be7b8b123727%22%7d" target="_teams"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
       </td>
     </tr>
     <tr>
@@ -68,12 +68,12 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
       <td>
         <a href="#A2"><b>Sesión de Investigación A2:</b> Detección de Intrusos y Gestión Anomalías</a>
         <br>
-        <center><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDNmZjU3NzMtNjkzZS00ZGU1LWEzYTMtMjllYzI4NWY1OTk4%40thread.v2/0?context=%7b%22Tid%22%3a%22c42cbae6-61f4-498c-9107-6a8cf5f01e56%22%2c%22Oid%22%3a%22e50f4dc5-ce19-4820-b889-be7b8b123727%22%7d" target="_blank"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
+        <center><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDNmZjU3NzMtNjkzZS00ZGU1LWEzYTMtMjllYzI4NWY1OTk4%40thread.v2/0?context=%7b%22Tid%22%3a%22c42cbae6-61f4-498c-9107-6a8cf5f01e56%22%2c%22Oid%22%3a%22e50f4dc5-ce19-4820-b889-be7b8b123727%22%7d" target="_teams"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
       </td>
       <td>
         <a href="#B2"><b>Sesión de Investigación B2:</b> Gobierno y Gestión de Riesgos </a>
         <br>
-        <center><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGI1MWQ2ZWQtYzkzMS00ZmUwLTlhMTctNTllOTk1ZWJiMmQx%40thread.v2/0?context=%7b%22Tid%22%3a%22c42cbae6-61f4-498c-9107-6a8cf5f01e56%22%2c%22Oid%22%3a%22e50f4dc5-ce19-4820-b889-be7b8b123727%22%7d" target="_blank"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
+        <center><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGI1MWQ2ZWQtYzkzMS00ZmUwLTlhMTctNTllOTk1ZWJiMmQx%40thread.v2/0?context=%7b%22Tid%22%3a%22c42cbae6-61f4-498c-9107-6a8cf5f01e56%22%2c%22Oid%22%3a%22e50f4dc5-ce19-4820-b889-be7b8b123727%22%7d" target="_teams"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
       </td>
     </tr>
     <tr>
@@ -81,12 +81,12 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
       <td>
         <a href="#A3"><b>Sesión de Investigación A3:</b> Ciberataques e Inteligencia de Amenazas</a>
         <br>
-        <center><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmJkZmNhMzItOTU1ZS00NmEwLWFiYTctZWE2ZDJiYzhhNGE3%40thread.v2/0?context=%7b%22Tid%22%3a%22c42cbae6-61f4-498c-9107-6a8cf5f01e56%22%2c%22Oid%22%3a%22e50f4dc5-ce19-4820-b889-be7b8b123727%22%7d" target="_blank"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
+        <center><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmJkZmNhMzItOTU1ZS00NmEwLWFiYTctZWE2ZDJiYzhhNGE3%40thread.v2/0?context=%7b%22Tid%22%3a%22c42cbae6-61f4-498c-9107-6a8cf5f01e56%22%2c%22Oid%22%3a%22e50f4dc5-ce19-4820-b889-be7b8b123727%22%7d" target="_teams"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
       </td>
       <td>
         <a href="#B3"><b>Sesión de Investigación B3:</b> Tecnologías Emergentes y Entrenamiento</a>
         <br>
-        <center><a href="" target="_blank"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
+        <center><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzZhOWUxNDItOTc2NS00MjU3LThmN2MtN2U3Yjk3ZmQxMTdj%40thread.v2/0?context=%7b%22Tid%22%3a%22c42cbae6-61f4-498c-9107-6a8cf5f01e56%22%2c%22Oid%22%3a%22e50f4dc5-ce19-4820-b889-be7b8b123727%22%7d" target="_teams"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
       </td>
     </tr>
     <tr>
@@ -105,7 +105,7 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
         <p>Aplicación de control de acceso y técnicas de Blockchain para el control de datos genéticos <br>
         <em>Isabel Román, Germán Madinabeitia, Rafael Estepa, Jesús Diaz-Verdejo, Antonio Estepa, José Luis González-Sánchez, Felipe Lemus Prieto</em></p>
         <br>
-        <center><a href="" target="_blank"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
+        <center><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjkwOWRlM2UtODQ1Ni00OWE5LWIxYjMtNDdlNTAxMGQyYjQw%40thread.v2/0?context=%7b%22Tid%22%3a%22c42cbae6-61f4-498c-9107-6a8cf5f01e56%22%2c%22Oid%22%3a%22e50f4dc5-ce19-4820-b889-be7b8b123727%22%7d" target="_teams"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
       </td>
     </tr>
     <tr>
@@ -115,7 +115,7 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
         <br>
         Soledad Antelada Toledano
         <br>
-        <center><a href="" target="_blank"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
+        <center><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjI1MjEzZTYtMTUyZC00MzYwLTgwY2UtNmFlMGU0ODRhYjdj%40thread.v2/0?context=%7b%22Tid%22%3a%22c42cbae6-61f4-498c-9107-6a8cf5f01e56%22%2c%22Oid%22%3a%22e50f4dc5-ce19-4820-b889-be7b8b123727%22%7d" target="_teams"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
       </td>
     </tr>
     <tr>
@@ -138,7 +138,7 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
         <br>
         Organiza:<a href="http://www.pesi-seguridadindustrial.org/es"><img src="/Logos/pesi.png"></a>
         <br>
-        <center><a href="" target="_blank"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
+        <center><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWNmNWE4ZDEtMjA5NS00OTA0LTlmYTctMzM4NmQ5ZWEzYmE3%40thread.v2/0?context=%7b%22Tid%22%3a%22c42cbae6-61f4-498c-9107-6a8cf5f01e56%22%2c%22Oid%22%3a%22e50f4dc5-ce19-4820-b889-be7b8b123727%22%7d" target="_teams"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
       </td>
     </tr>
   </tbody>
@@ -160,26 +160,26 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
         <br>
         Mónica Mateos Calle
         <br>
-        <center><a href="" target="_blank"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
+        <center><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZWZhMGQxNGEtN2QxOS00ZTI0LTg5NTItZmI0ODQ2OWNhZmI3%40thread.v2/0?context=%7b%22Tid%22%3a%22c42cbae6-61f4-498c-9107-6a8cf5f01e56%22%2c%22Oid%22%3a%22e50f4dc5-ce19-4820-b889-be7b8b123727%22%7d" target="_teams"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
       </td>
     </tr>
     <tr>
       <td>10:15</td>
       <td colspan="2"><a href="#formacion"><b>Sesión de Formación e Innovación Educativa</b></a></td>
         <br>
-        <center><a href="" target="_blank"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
+        <center><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWZmZjQ1OWEtNTk3NC00OGRhLTkxZTItODBkZmU3YTI3OWRm%40thread.v2/0?context=%7b%22Tid%22%3a%22c42cbae6-61f4-498c-9107-6a8cf5f01e56%22%2c%22Oid%22%3a%22e50f4dc5-ce19-4820-b889-be7b8b123727%22%7d" target="_teams"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
     </tr>
     <tr>
       <td>11:45</td>
       <td>
         <a href="#A4"><b>Sesión de Investigación A4:</b> Análisis Forense y Cibercrimen </a>
         <br>
-        <center><a href="" target="_blank"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
+        <center><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWE5MzAyZGUtODBlYy00ZGRjLTkyZmItZjU1YWU0NDBhY2Zl%40thread.v2/0?context=%7b%22Tid%22%3a%22c42cbae6-61f4-498c-9107-6a8cf5f01e56%22%2c%22Oid%22%3a%22e50f4dc5-ce19-4820-b889-be7b8b123727%22%7d" target="_teams"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
       </td>
       <td>
         <a href="#B4"><b>Sesión de Investigación B4:</b> Criptografía</a>
         <br>
-        <center><a href="" target="_blank"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
+        <center><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODkwNmNjODYtZDQ5OS00ZWUxLWIzNTUtY2Q5Y2NlY2M0NDMz%40thread.v2/0?context=%7b%22Tid%22%3a%22c42cbae6-61f4-498c-9107-6a8cf5f01e56%22%2c%22Oid%22%3a%22e50f4dc5-ce19-4820-b889-be7b8b123727%22%7d" target="_teams"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
       </td>
     </tr>
     <tr>
@@ -187,12 +187,12 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
       <td>
         <a href="#A5"><b>Sesión de Investigación A5:</b> Ciberseguridad Industrial y aplicaciones</a>
         <br>
-        <center><a href="" target="_blank"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
+        <center><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDJhNmY3NDEtYTllOC00OWNlLTk0MDctNGM5ODZiM2E5MjY2%40thread.v2/0?context=%7b%22Tid%22%3a%22c42cbae6-61f4-498c-9107-6a8cf5f01e56%22%2c%22Oid%22%3a%22e50f4dc5-ce19-4820-b889-be7b8b123727%22%7d" target="_teams"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
       </td>
       <td>
         <a href="#B5"><b>Sesión de Investigación B5:</b> Privacidad </a>
         <br>
-        <center><a href="" target="_blank"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
+        <center><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDBjMWMwZDQtNTZjMC00MmVjLWJmNmYtN2Q1NDhiYjIyMjVi%40thread.v2/0?context=%7b%22Tid%22%3a%22c42cbae6-61f4-498c-9107-6a8cf5f01e56%22%2c%22Oid%22%3a%22e50f4dc5-ce19-4820-b889-be7b8b123727%22%7d" target="_teams"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
       </td>
     </tr>
     <tr>
@@ -224,7 +224,7 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
         <br>
         Con la participación de: <a href="https://www.women4cyberspain.es/"><img src="/Logos/Women4Cyber.png"></a>
         <br>
-        <center><a href="" target="_blank"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
+        <center><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjM2N2Y2NDMtYjgzMi00YTMxLWIxOGUtZjU2M2NkZjgyODUy%40thread.v2/0?context=%7b%22Tid%22%3a%22c42cbae6-61f4-498c-9107-6a8cf5f01e56%22%2c%22Oid%22%3a%22e50f4dc5-ce19-4820-b889-be7b8b123727%22%7d" target="_teams"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
       </td>
     </tr>
     <tr>
@@ -234,7 +234,7 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
         <br>
         Presenta: Javier López Muñoz (Universidad de Málaga)
         <br>
-        <center><a href="" target="_blank"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
+        <center><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjljY2JhMmUtY2JiNi00NjhiLTg0ZDUtMmY0ZjkwOTg2NGFh%40thread.v2/0?context=%7b%22Tid%22%3a%22c42cbae6-61f4-498c-9107-6a8cf5f01e56%22%2c%22Oid%22%3a%22e50f4dc5-ce19-4820-b889-be7b8b123727%22%7d" target="_teams"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
       </td>
     </tr>
     <tr>
@@ -250,7 +250,7 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
           <li>Sr. D. Manuel A. Serrano. Presidente del Comité Organizador</li>
         </ul>
         <br>
-        <center><a href="" target="_blank"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
+        <center><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_M2QwMGY3NjUtMzEzMC00ZGNjLTkyZWEtOWQwMmU0ZDJiYmE3%40thread.v2/0?context=%7b%22Tid%22%3a%22c42cbae6-61f4-498c-9107-6a8cf5f01e56%22%2c%22Oid%22%3a%22e50f4dc5-ce19-4820-b889-be7b8b123727%22%7d" target="_teams"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
       </td>
     </tr>
   </tbody>
@@ -346,10 +346,11 @@ Presidente de Sesión: <i>Pedro García Teodoro (Universidad de Granada)</i>
 
 <a id="A2"></a>
 <h4>Sesión de Investigación A2: Detección de intrusiones y gestión de anomalías II </h4>
-<p>Presidente de Sesión: <i>Félix Gómez Mármol (Universidad de Murcia)</i>
-<br> Miércoles 9 de junio, 12:30-14:00
-<br>
+<p>
 <center><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDNmZjU3NzMtNjkzZS00ZGU1LWEzYTMtMjllYzI4NWY1OTk4%40thread.v2/0?context=%7b%22Tid%22%3a%22c42cbae6-61f4-498c-9107-6a8cf5f01e56%22%2c%22Oid%22%3a%22e50f4dc5-ce19-4820-b889-be7b8b123727%22%7d" target="_blank"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
+<br>
+Presidente de Sesión: <i>Félix Gómez Mármol (Universidad de Murcia)</i>
+<br> Miércoles 9 de junio, 12:30-14:00
 </p>
 <table class="table" style="width:100%">
   <tbody valign="top">
