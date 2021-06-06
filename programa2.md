@@ -498,7 +498,10 @@ Presidente de Sesión:<i>Rafael Martínez Gasca (Universidad de Sevilla)</i>
 
 <a id="B2"></a>
 <h4>Sesión de Investigación B2: Gobernanza y gestión de riesgos </h4>
-<p>Presidente de Sesión: <i>José María de Fuentes García-Romero de Tejada (Universidad Carlos III de Madrid)</i>
+<p>
+<center><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGI1MWQ2ZWQtYzkzMS00ZmUwLTlhMTctNTllOTk1ZWJiMmQx%40thread.v2/0?context=%7b%22Tid%22%3a%22c42cbae6-61f4-498c-9107-6a8cf5f01e56%22%2c%22Oid%22%3a%22e50f4dc5-ce19-4820-b889-be7b8b123727%22%7d" target="_teams"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
+<br>
+Presidente de Sesión: <i>José María de Fuentes García-Romero de Tejada (Universidad Carlos III de Madrid)</i>
 <br> Miércoles 9 de junio, 12:30-14:00
 </p>
 <table class="table" style="width:100%">
