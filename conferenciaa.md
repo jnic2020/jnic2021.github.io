@@ -6,6 +6,13 @@
 layout: page
 ---
 
+<div class="text-center">
+<a id="inicio"></a>
+<a href="{{site.url}}/programa"><img src="{{site.url}}/images/IcoPrograma.jpg" class="img-circle" 	width="40" height="40"><strong>Programa</strong></a> &nbsp;&nbsp;&nbsp;
+<a href="{{site.url}}/premios"><img src="{{site.url}}/images/IcoPremios.jpg" class="img-circle" 	width="40" height="40"><strong>Premios</strong></a>&nbsp;&nbsp;&nbsp;
+<a href="{{site.url}}/track-transferencia" class=""><img src="{{site.url}}/images/IcoTrackTX.jpg" class="img-circle" 	width="40" height="40"><strong>Track de Transferencia</strong></a>
+</div><br>
+
 # Conferencia Invitada - Computación Cuántica: La Re-Evolución
 ## por Ramsés Gallego
 
