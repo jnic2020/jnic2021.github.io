@@ -6,7 +6,7 @@ layout: home
 ---
 
 <!-- <H2 style="text-align: center; background-color:red; color:white;">INFORMACION</h2> -->
-<a href="http://doi.org/10.18239/jornadas_2021.34.00"><H2 style="text-align: center; ">Descarga las Actas JNIC 2021 Live</h2></a>
+<H2 style="text-align: center;"><a href="http://doi.org/10.18239/jornadas_2021.34.00">Descarga las Actas JNIC 2021 Live</a></H2>
 <p style="text-align: justify;">
 </p>
 
