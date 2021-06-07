@@ -83,7 +83,7 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
     <tr>
       <td>17:15</td>
       <td colspan="2">
-        <b>Conferencia invitada: </b><i>Cybersecurity Operations and Research from Lawrence Berkeley National Lab, United States Department of Energy</i>
+        <a href="http://2021.jnic.es/conferenciab"><b>Conferencia invitada: </b><i>Cybersecurity Operations and Research from Lawrence Berkeley National Lab, United States Department of Energy</i></a>
         <br>
         Soledad Antelada Toledano
       </td>
