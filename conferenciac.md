@@ -13,7 +13,7 @@ layout: page
 <a href="{{site.url}}/track-transferencia" class=""><img src="{{site.url}}/images/IcoTrackTX.jpg" class="img-circle" 	width="40" height="40"><strong>Track de Transferencia</strong></a>
 </div><br>
 
-# Conferencia Invitada - I+D+i (en el ámbito del ciberespacio) dentro del Ministerio de Defensa 
+# Conferencia Invitada - I+D+i en Ciberdefensa en el Ministerio de Defensa
 ## por Mónica Mateos Calle
 
 Desde su creación el Mando Conjunto de Ciberdefensa, ahora reestructurado en Mando Conjunto del Ciberespacio tiene como misión principal el Mantenimiento de la Libertad de acción en el Ciberespacio, para lo cual necesita ser capaz de estar al día en todas las tecnologías empleadas así como las tendencias y retos en tecnologías aplicados al Ámbito de la Ciberdefensa.

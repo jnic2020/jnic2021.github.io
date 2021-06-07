@@ -156,7 +156,7 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
     <tr>
       <td>9:30</td>
       <td colspan="2">
-        <a href="http://2021.jnic.es/conferenciac"><b>Conferencia invitada: </b><i>I+D+i (en el ámbito del ciberespacio) dentro del Ministerio de Defensa</i></a>
+        <a href="http://2021.jnic.es/conferenciac"><b>Conferencia invitada: </b><i>I+D+i en Ciberdefensa en el Ministerio de Defensa</i></a>
         <br>
         Mónica Mateos Calle
         <br>
