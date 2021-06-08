@@ -678,7 +678,7 @@ Presidente de Sesión: <i>Victor A. Villagrá González (Universidad Politécnic
     <tr>
       <td>12:33</td>
       <td valign="top" >The H2020 project RAYUELA: A fun way to fight cybercrime
-      <br><em>Gregorio López, Nereida Bueno, Mario Castro, María Reneses, Jaime Pérez, María Riberas, Manuel Álvarez-Campana, Mario Vega, Sonia Solera, Leire Bastida, Ana Moya, Rubén Fernández, Violeta Vázquez</em></td>
+      <br><em>Gregorio López, Nereida Bueno, Mario Castro, María Reneses, Jaime Pérez, María Riberas, Manuel Álvarez-Campana, Mario Vega-Barbas, Sonia Solera-Cotanilla, Leire Bastida, Ana Moya, Rubén Fernández, Violeta Vázquez, Germán Zango, Pedro Vicente</em></td>
     </tr>
     <tr>
       <td>12:43</td>
