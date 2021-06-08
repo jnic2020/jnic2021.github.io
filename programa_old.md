@@ -33,7 +33,7 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
         <b>Inauguración oficial de las JNIC 2021 Live</b>
         <ul>
           <li>Sr. D. Julian Garde López-Brea. Rector de la Universidad de Castilla-La Mancha</li>
-          <li>Sra. Dña. Rosa Ana Rodríguez Pérez. Consejera de Educación, Cultura y Deportes</li>
+          <li>Sr. D. Ricardo Cuevas Campos. Director General de Universidades, JCCM</li>
           <li>Sra. Dña. Rosa Díaz Moles. Directora General del Instituto Nacional de Ciberseguridad </li>
           <li>Sr. D. Eduardo Fernández-Medina Patón. Presidente del Comité Organizador</li>
           <li>Sra. Dña. Cristina Alcaraz Tello. Presidenta del Comité de Programa Científico</li>
