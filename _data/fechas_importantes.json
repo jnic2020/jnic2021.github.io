@@ -15,7 +15,7 @@
 		"titulo":"Inscripción a las jornadas",
 		"contenido":"5/05/2021",
 		"fecha_ref":"4",
-		"activada": true
+		"activada": false
 	},
 	{
 		"titulo":"Envío de trabajos definitivos",
@@ -27,6 +27,6 @@
 		"titulo":"Celebración de las Jornadas",
 		"contenido":"9 y 10 de junio de 2021",
 		"fecha_ref":"5",
-		"activada": true
+		"activada": false
 	}
 ]
