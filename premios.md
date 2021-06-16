@@ -52,7 +52,8 @@ Por su parte, JNIC también premia a las mejores propuestas de retos y a los gru
 	
 -->
 
-* __Programa de Transferencia JNIC2019/20. Premio a la mejor solución del certamen__   
+* __Programa de Transferencia JNIC2019/20. Premio a la mejor solución del certamen:__   
+"Aplicación de control de acceso y técnicas de Blockchain para el control de datos genéticos" _Isabel Román, Germán Madinabeitia, Rafael Estepa, J. Diaz-Verdejo, Antonio Estepa, José Luis González-Sánchez, Felipe Lemus Prieto_
 
 <!--	
 	<div class="text-center">
