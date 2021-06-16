@@ -16,7 +16,8 @@ layout: page
 # Conferencia Invitada - I+D+i en Ciberdefensa en el Ministerio de Defensa
 ## por Mónica Mateos Calle
 
-<center><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZWZhMGQxNGEtN2QxOS00ZTI0LTg5NTItZmI0ODQ2OWNhZmI3%40thread.v2/0?context=%7b%22Tid%22%3a%22c42cbae6-61f4-498c-9107-6a8cf5f01e56%22%2c%22Oid%22%3a%22e50f4dc5-ce19-4820-b889-be7b8b123727%22%7d" target="_teams"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
+<!-- <center><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZWZhMGQxNGEtN2QxOS00ZTI0LTg5NTItZmI0ODQ2OWNhZmI3%40thread.v2/0?context=%7b%22Tid%22%3a%22c42cbae6-61f4-498c-9107-6a8cf5f01e56%22%2c%22Oid%22%3a%22e50f4dc5-ce19-4820-b889-be7b8b123727%22%7d" target="_teams"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center> -->
+<center><a href="https://teams.microsoft.com/" target="_teams"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
 
 Desde su creación el Mando Conjunto de Ciberdefensa, ahora reestructurado en Mando Conjunto del Ciberespacio tiene como misión principal el Mantenimiento de la Libertad de acción en el Ciberespacio, para lo cual necesita ser capaz de estar al día en todas las tecnologías empleadas así como las tendencias y retos en tecnologías aplicados al Ámbito de la Ciberdefensa.
  

@@ -16,7 +16,8 @@ layout: page
 # Conferencia Invitada - Cybersecurity Operations and Research from Lawrence Berkeley National Lab, United States Department of Energy
 ## por Soledad Antelada Toledano
 
-<center><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjI1MjEzZTYtMTUyZC00MzYwLTgwY2UtNmFlMGU0ODRhYjdj%40thread.v2/0?context=%7b%22Tid%22%3a%22c42cbae6-61f4-498c-9107-6a8cf5f01e56%22%2c%22Oid%22%3a%22e50f4dc5-ce19-4820-b889-be7b8b123727%22%7d" target="_teams"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
+<!-- <center><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjI1MjEzZTYtMTUyZC00MzYwLTgwY2UtNmFlMGU0ODRhYjdj%40thread.v2/0?context=%7b%22Tid%22%3a%22c42cbae6-61f4-498c-9107-6a8cf5f01e56%22%2c%22Oid%22%3a%22e50f4dc5-ce19-4820-b889-be7b8b123727%22%7d" target="_teams"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center> -->
+<center><a href="https://teams.microsoft.com/" target="_teams"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
 
 A medida que NERSC sigue superando los límites de la informática de alto rendimiento y aporta recursos informáticos de vanguardia a la ciencia abierta, la ciberseguridad innovadora y sofisticada juega un papel fundamental. Como instalación de ciencia abierta, existe una serie de desafíos únicos de seguridad cibernética que NERSC enfrenta y enfrentará con el despliegue de futuras supercomputadoras.
 
