@@ -10,8 +10,8 @@ layout: home
 <H2 style="text-align: center;"><strong><a href="{{site.url}}/Actas_JNIC_2021.pdf" target="_actas">Descarga las Actas JNIC 2021 Live</a></strong></H2>
 <p style="text-align: justify;">
 </p>
-<h3><strong>Importante: </strong></h3> 
-<h4><center>Para conectar a las jornadas consulte el <a href="{{site.url}}/programa">programa</a> y allí encontrará los enlaces a las sesiones</center></h4>
+<!-- <h3><strong>Importante: </strong></h3> 
+<h4><center>Para conectar a las jornadas consulte el <a href="{{site.url}}/programa">programa</a> y allí encontrará los enlaces a las sesiones</center></h4> -->
 <p style="text-align: center; background-color:red; color:white;"></p>
 Por primera vez la  <b>VI <span style="color:#e3041e">J</span>ornadas <span style="color:#e3041e">N</span>acionales de <span style="color:#e3041e">I</span>nvestigación en <span style="color:#e3041e">C</span>iberseguridad (<span style="color:#e3041e">JNIC</span>)</b> se celebrarán de forma LIVE. 
 
