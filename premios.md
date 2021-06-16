@@ -22,7 +22,8 @@ Desde la organización de las JNICse premiarán las contribuciones más importan
 * __Premio al mejor artículo de investigación__  
 	
 
-* __Premio al mejor artículo de formación e innovación educativa__  
+* __Premio al mejor artículo de formación e innovación educativa:__ 
+"Metodología de resolución de pruebas CTF para adquirir habilidades de seguridad informática y análisis forense." _José Carlos Sancho Núñez, Delia Mª Pablo Rodríguez y Andrés Caro Lindo._  
 
 
 * __Premio al mejor trabajo en desarrollo__  
