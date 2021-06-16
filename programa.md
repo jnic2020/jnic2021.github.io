@@ -145,7 +145,8 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
   </tbody>
 </table>
 
-<center><a href="https://app.sli.do/event/ed1p6not" target="_slido"><img src="{{site.url}}/images/slido.jpg" width="300"></a></center>
+<!-- <center><a href="https://app.sli.do/event/ed1p6not" target="_slido"><img src="{{site.url}}/images/slido.jpg" width="300"></a></center> -->
+<center><a href="https://sli.do/" target="_slido"><img src="{{site.url}}/images/slido.jpg" width="300"></a></center>
 
 <h4>Jueves 10 de Junio</h4>
 <table class="table" style="width:100%">
@@ -258,7 +259,8 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
   </tbody>
 </table>
 
-<center><a href="https://app.sli.do/event/ed1p6not" target="_slido"><img src="{{site.url}}/images/slido.jpg" width="300"></a></center>
+<!-- <center><a href="https://app.sli.do/event/ed1p6not" target="_slido"><img src="{{site.url}}/images/slido.jpg" width="300"></a></center> -->
+<center><a href="https://sli.do/" target="_slido"><img src="{{site.url}}/images/slido.jpg" width="300"></a></center>
 
 <a href="#inicio">Subir</a>
 <br>
