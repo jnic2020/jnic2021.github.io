@@ -10,7 +10,8 @@ layout: home
 <H2 style="text-align: center;"><strong><a href="{{site.url}}/Actas_JNIC_2021.pdf" target="_actas">Descarga las Actas JNIC 2021 Live</a></strong></H2>
 <h3 style="text-align: center">
     <a href="https://www.youtube.com/channel/UCp34bSijbcf0xeJk2AI5dCw/videos">
-        <img src="https://2021.jnic.es/Logos/youtube_logo.png" style="vertical-align:bottom"/>  Accede al canal YouTube de las jornadas para ver las sesiones
+        <img src="https://2021.jnic.es/Logos/youtube_logo.png" style="vertical-align:bottom"/>
+        Accede al canal YouTube de las jornadas para ver las sesiones
     </a>
 </h3>
 <p style="text-align: justify;">
