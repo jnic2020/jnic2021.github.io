@@ -9,8 +9,32 @@ layout: page
 
 El **Capture The Flag JNIC-VIEWNEXT** es una competición virtual que pretende detectar y premiar a las nuevas promesas de la **#ciberseguridad** del ámbito nacional. Creado para complementar las **VI Jornadas Nacionales de Investigación en Ciberseguridad**, celebradas de manera online el **9 y 10 de junio de 2021**.
 Diseñado para llegar a cualquier persona que sienta interés sobre la ciberseguridad y pensado para identificar talento entre usuarios que quieran poner a prueba sus conocimientos, habilidades y destrezas en este ámbito trascendental para la tecnología.
-La competición se realizará durante **72 horas** de **forma virtual**, a través de la plataforma de formación del **Campus Virtual de la Universidad de Extremadura**. Comenzará el día 4 de junio, cuando se envíen las credenciales a todos los participantes y siendo competitivo el **4 de junio a las 14:00h hasta el día 7 de junio a las 14:00h**, 72 horas en total.
+La competición se realizó durante **72 horas** de **forma virtual**, a través de la plataforma de formación del **Campus Virtual de la Universidad de Extremadura**. Comenzó el día 4 de junio, con el envío las credenciales a todos los participantes y tuvo lugar desde el **4 de junio a las 14:00h hasta el día 7 de junio a las 14:00h**, durando 72 horas en total.
 
+## Resultados
+
+La Cátedra Viewnext-UEx sobre “Seguridad y Auditoría de Sistemas Software” organizó coincidiendo con las JNIC-2021 una nueva edición de su CTF. Se trata de la tercera ocasión en que se organiza este tipo de eventos, tras las ediciones de 2018 en el marco de ForoCIBER y 2019, donde se integraron por primera vez con las JNIC.
+
+Como en ocasiones anteriores, el objetivo principal era ofrecer una serie de retos (5 en concreto) para hacer pasar un “buen rato” a los participantes, fomentando en cualquier caso el interés en por ciberseguridad a través de la resolución de los retos propuestos de hacking ético. Otro objetivo secundario era fomentar la camaradería y fomentar el contacto entre los participantes, en este caso a través de los comentarios en el foro de cada uno de los retos. Por supuesto, los tres primeros clasificados recibieron un premio por su buena labor, que no todo va a ser por amor al arte.
+
+La participación, pese a las malas fechas por los exámenes de junio, ha sido francamente sensacional. Sin duda, la implicación tanto de INCIBE como de la organización de las JNIC-2021 en la difusión de este CTF ha sido clave. 
+
+Se inscribieron un total de 214 participantes, pertenecientes a 34 universidades, 18 institutos o centros de formación, y 38 empresas diferentes. Territorialmente, han estado representadas 15 Comunidades Autónomas. Además, incluso ha habido participantes de 13 países extranjeros, principalmente de Latinoamérica, aunque también de Portugal y Gran Bretaña.
+
+![MapaCTF]({{site.url}}/images/CTF-mapa.PNG)
+
+Comentando otros indicadores de participación, es destacable que 79 participantes al menos han superado alguno de los retos, siendo 25 los que consiguieron superar los 5 ejercicios propuestos.  
+
+Para terminar, además de felicitar a todos los participantes en nuestro CTF, queremos felicitar especialmente a los ganadores:
+
++ 1ª clasificada – Inés Martín Mínguez. _(Universidad Rey Juan Carlos)_ ** Premiada con un Ipad Mini 64 GB **
++ 2ª clasificada – Raquel Orozco _(42 Madrid)_ ** Premiada con unos auriculares Plantronics Voyager **
++ 3º clasificado – Miguel Ángel Abad Gómez _(UNED)_ ** Premiado con un Smart Watch Samsung Galaxy Watch Active **
+
+**¡Nos vemos en la edición de 2022! **
+
+
+A continuación puede consultar cuales fueron las normas de participación:
 ## Participación
 
 Podrá participar cualquier persona que resida dentro de España y esté realizando estudios pre-universitarios, universitarios o **haya terminado sus estudios universitarios u otros oficiales, en los tres últimos años (a partir del año 2019 inclusive)**.
