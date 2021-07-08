@@ -27,9 +27,9 @@ Comentando otros indicadores de participación, es destacable que 79 participant
 
 Para terminar, además de felicitar a todos los participantes en nuestro CTF, queremos felicitar especialmente a los ganadores:
 
-+ 1ª clasificada – Inés Martín Mínguez. _(Universidad Rey Juan Carlos)_ ** Premiada con un Ipad Mini 64 GB **
-+ 2ª clasificada – Raquel Orozco _(42 Madrid)_ ** Premiada con unos auriculares Plantronics Voyager **
-+ 3º clasificado – Miguel Ángel Abad Gómez _(UNED)_ ** Premiado con un Smart Watch Samsung Galaxy Watch Active **
++ 1ª clasificada – Inés Martín Mínguez. _(Universidad Rey Juan Carlos)_ **Premiada con un Ipad Mini 64 GB**
++ 2ª clasificada – Raquel Orozco _(42 Madrid)_ **Premiada con unos auriculares Plantronics Voyager**
++ 3º clasificado – Miguel Ángel Abad Gómez _(UNED)_ **Premiado con un Smart Watch Samsung Galaxy Watch Active**
 
 **¡Nos vemos en la edición de 2022! **
 
