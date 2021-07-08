@@ -31,7 +31,7 @@ Para terminar, además de felicitar a todos los participantes en nuestro CTF, qu
 + 2ª clasificada – Raquel Orozco _(42 Madrid)_ **Premiada con unos auriculares Plantronics Voyager**
 + 3º clasificado – Miguel Ángel Abad Gómez _(UNED)_ **Premiado con un Smart Watch Samsung Galaxy Watch Active**
 
-**¡Nos vemos en la edición de 2022! **
+**¡Nos vemos en la edición de 2022!**
 
 
 A continuación puede consultar cuales fueron las normas de participación:
