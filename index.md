@@ -7,7 +7,12 @@ layout: home
 
 <!-- <H2 style="text-align: center; background-color:red; color:white;">INFORMACION</h2> -->
 <!-- <H2 style="text-align: center;"><strong><a href="http://doi.org/10.18239/jornadas_2021.34.00" target="_actas">Descarga las Actas JNIC 2021 Live</a></strong></H2> -->
-<H2 style="text-align: center;"><strong><a href="{{site.url}}/Actas_JNIC_2021.pdf" target="_actas">Descarga las Actas JNIC 2021 Live</a></strong></H2>
+<H2 style="text-align: center;">
+    <button type="button" class="btn btn-primary btn-lg">
+        <span class="glyphicon glyphicon-cloud-download" aria-hidden="true"></span> 
+    </button>
+    <strong><a href="{{site.url}}/Actas_JNIC_2021.pdf" target="_actas">Descarga las Actas JNIC 2021 Live</a></strong>
+</H2>
 <h3 style="text-align: center">
     <a href="https://www.youtube.com/channel/UCp34bSijbcf0xeJk2AI5dCw/videos">
         <img src="https://2021.jnic.es/Logos/youtube_logo.png" style="vertical-align:bottom"/>
