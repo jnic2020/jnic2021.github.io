@@ -9,8 +9,7 @@ layout: home
 <!-- <H2 style="text-align: center;"><strong><a href="http://doi.org/10.18239/jornadas_2021.34.00" target="_actas">Descarga las Actas JNIC 2021 Live</a></strong></H2> -->
 <H2 style="text-align: center;">
     <button type="button" class="btn btn-primary btn-lg">
-        <i class="bi bi-download"></i>
-        <!-- <i class="glyphicon glyphicon-cloud-download"></i>  -->
+        <i class="fas fa-download"></i>
     </button>
     <strong><a href="{{site.url}}/Actas_JNIC_2021.pdf" target="_actas">Descarga las Actas JNIC 2021 Live</a></strong>
 </H2>
